@@ -2,17 +2,20 @@
     "name": "kancolle",
     "color": "lightblue",
     "ships": {
-        "nagatsuki": {
-            "satsuki":  [{
+        "akagi": {
+            "fubuki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/41538519",
+                "artist": "dyda"
+            }]
+        },
+        "fubuki": {
+            "mutsuki":  [{
                 "nsfw": 0,
                 "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/61833792",
-                "artist": "なっつん"
-            }, {
-                "nsfw": 0,
-                "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/62141860",
-                "artist": "いちみ"
+                "link": "https://www.pixiv.net/en/artworks/50877011",
+                "artist": "ウンテンプクイチ"
             }]
         },
         "mochizuki": {
@@ -33,6 +36,25 @@
                 "link": "https://nhentai.net/g/201540/",
                 "imageId": "1089118",
                 "artist": "hitsujin"
+            }]
+        },
+        "nagatsuki": {
+            "satsuki":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/61833792",
+                "artist": "なっつん"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/62141860",
+                "artist": "いちみ"
+            }, {
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/po0000000000/status/1264519460485951490",
+                "imageId": "EYx5tZaU8AAWrSG",
+                "artist": "ぽk"
             }]
         },
         "satsuki": {
