@@ -1,0 +1,17 @@
+{
+    "ships": {
+        "azurlane_prinz eugen": {
+            "kancolle_prinz eugen":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/65619644",
+                "artist": "只有弱者才睡觉"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/65706374",
+                "artist": "リン☆ユウ＠新刊通販委託中"
+            }]
+        }
+    }
+}
