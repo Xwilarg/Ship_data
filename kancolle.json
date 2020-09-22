@@ -8,6 +8,32 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/41538519",
                 "artist": "dyda"
+            }],
+            "kaga":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64413788",
+                "artist": "ぽんこつ"
+            }],
+            "shimakaze":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1975666&tags=shimakaze_%28kantai_collection%29+2girls+yuri",
+                "imageId": "ba/8e/ba8e117998a3a780032faab0c83d5cfd.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }],
+        },
+        "amatsukaze": {
+            "shimakaze":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/66227354",
+                "artist": "Dan·Evan"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/43460548",
+                "artist": "ﾌﾞﾚｴﾄﾞ"
             }]
         },
         "fubuki": {
@@ -16,6 +42,67 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/50877011",
                 "artist": "ウンテンプクイチ"
+            }]
+        },
+        "haruna": {
+            "kongou":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/48513848",
+                "artist": "John.Smith"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/55987163",
+                "artist": "まくら"
+            }]
+        },
+        "hiei": {
+            "kongou":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/67199042",
+                "artist": "咲良ろむ"
+            }]
+        },
+        "iowa": {
+            "shimakaze":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/65909823",
+                "artist": "タマラン"
+            }]
+        },
+        "kaga": {
+            "zuikaku":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57688503",
+                "artist": "るしゅーと"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/48872712",
+                "artist": "ABO"
+            }]
+        },
+        "kongou": {
+            "nagatsuki":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/39694936",
+                "artist": "いちみ"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/41513119",
+                "artist": "いちみ"
+            }],
+            "shimakaze":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/43120268",
+                "artist": "まつりみこ（祭神子）"
             }]
         },
         "mochizuki": {
