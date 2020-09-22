@@ -1,0 +1,14 @@
+{
+    "name": "arknights",
+    "color": "lightred",
+    "ships": {
+        "amiya": {
+            "w":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81709985",
+                "artist": "YANG"
+            }]
+        }
+    }
+}

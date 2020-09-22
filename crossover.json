@@ -1,5 +1,14 @@
 {
     "ships": {
+        "arknights_w": {
+            "azurlane_st. louis":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5378769",
+                "imageId": "cb/3d/cb3d12563ee920eabacf0c3be0dae01a.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "azurlane_prinz eugen": {
             "kancolle_prinz eugen":  [{
                 "nsfw": 0,

@@ -2,6 +2,19 @@
     "name": "azurlane",
     "color": "lightgreen",
     "ships": {
+        "honolulu": {
+            "st. louis":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68675565",
+                "artist": "ArcieAlbano"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83442776",
+                "artist": "dishwasher1910"
+            }]
+        },
         "prinz eugen": {
             "graf zeppelin":  [{
                 "nsfw": 0,
