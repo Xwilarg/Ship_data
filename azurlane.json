@@ -1,0 +1,19 @@
+{
+    "name": "azurlane",
+    "color": "lightgreen",
+    "ships": {
+        "prinz eugen": {
+            "graf zeppelin":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/67065978",
+                "artist": "hews"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84069718",
+                "artist": "GDAT"
+            }]
+        }
+    }
+}
