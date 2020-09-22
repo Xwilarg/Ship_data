@@ -36,6 +36,19 @@
                 "artist": "ﾌﾞﾚｴﾄﾞ"
             }]
         },
+        "bismarck": {
+            "prinz eugen":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/53035539",
+                "artist": "甜筒Tendō"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/53237224",
+                "artist": "たいのね炊き込みご飯"
+            }]
+        },
         "fubuki": {
             "mutsuki":  [{
                 "nsfw": 0,
@@ -45,6 +58,13 @@
             }]
         },
         "haruna": {
+            "bismarck":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2753229",
+                "imageId": "7c/0c/7c0c8e524e80161c5f893e0780ee833b.png,"
+                "comment": "Image no longer available on Pixiv"
+            }],
             "kongou":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
@@ -86,6 +106,19 @@
                 "artist": "ABO"
             }]
         },
+        "kisaragi": {
+            "mutsuki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60722298",
+                "artist": "隈太郎　C96月曜ノ-13a"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72813507",
+                "artist": "黒アリ"
+            }]
+        },
         "kongou": {
             "nagatsuki":  [{
                 "nsfw": 0,
@@ -123,6 +156,14 @@
                 "link": "https://nhentai.net/g/201540/",
                 "imageId": "1089118",
                 "artist": "hitsujin"
+            }]
+        },
+        "minazuki": {
+            "satsuki": [{
+                "isNsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/58614096",
+                "artist": "エゾシカ"
             }]
         },
         "nagatsuki": {
