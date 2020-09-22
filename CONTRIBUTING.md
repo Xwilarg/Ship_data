@@ -20,3 +20,4 @@ The remaining "ship" values are:
 - linkType: Where you link is from. Please use the website where the art was originally from (so don't post things from Gelbooru, Rule34 etc, check the source of the image instead, it's often written in the post)
 - link: Link to the image
 - artist: Name of the artist
+- imageId: (Only for NHentai) Id of the cover of the doujinshi (please make not that it's not the id of the doujinshi! You can get it by going on the cover and copying the link of the image, it's the number inside it)
