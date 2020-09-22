@@ -1,6 +1,12 @@
 This file will explains how to add information to JSON file for Ship.<br/>
 Feel free to open an issue if you have any question, if you want to contribute just open a pull request.
 
+## Allowed submissions
+The only characters not allowed is the main character of the anime (or the graph would just be a big star)<br/>
+Please submit images where there are only the 2 characters on it
+
+## How to submit
+
 A JSON file is made of the following (while reading this, you can have a look at [one of the file](https://github.com/Xwilarg/Ship_data/blob/master/kancolle.json) to understand what I'm saying):
 - name: Name of the anime
 - color: Color of the node that will display characters from this anime
