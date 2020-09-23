@@ -1,0 +1,46 @@
+{
+    "name": "touhou",
+    "color": "yellow",
+    "ships": {
+        "cirno": {
+            "remilia scarlet":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/77756647",
+                "artist": "まめもち"
+            }],
+            "reimu hakurei":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/73493973",
+                "artist": "妹チル"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/43581618",
+                "artist": "てりまよ"
+            }]
+        },
+        "flandre scarlet": {
+            "remilia scarlet":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64798562",
+                "artist": "ぴよ吉＠名前戻しました"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79933762",
+                "artist": "an-telin"
+            }]
+        },
+        "marisa kirisame": {
+            "reimu hakurei":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68904328",
+                "artist": "ぴよ吉＠名前戻しました"
+            }]
+        }
+    }
+}

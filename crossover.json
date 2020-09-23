@@ -21,6 +21,15 @@
                 "link": "https://www.pixiv.net/en/artworks/65706374",
                 "artist": "リン☆ユウ＠新刊通販委託中"
             }]
+        },
+        "kancolle_haruna": {
+            "touhou_flandre scarlet":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2272246",
+                "imageId": "2a/3f/sample_2a3fe8b2ba697192628efcc6a781a31e.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
         }
     }
 }
