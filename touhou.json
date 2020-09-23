@@ -3,7 +3,13 @@
     "color": "yellow",
     "ships": {
         "cirno": {
-            "remilia scarlet":  [{
+            "daiyousei":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/32258058",
+                "artist": "みかん@C97四日目南へ09a"
+            }],
+            "flandre scarlet":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/77756647",
@@ -21,6 +27,32 @@
                 "artist": "てりまよ"
             }]
         },
+        "clownpiece": {
+            "luna child":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5489761",
+                "imageId": "fc/92/fc924ba3867aaee9badcc44df2d125dc.jpg",
+                "artist": "ke-ta",
+                "comment": "Part of a doujinshi"
+            }],
+            "star sapphire":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5489763",
+                "imageId": "be/5b/be5b92489f837f2dbb95a81986d51d99.jpg",
+                "artist": "ke-ta",
+                "comment": "Part of a doujinshi"
+            }],
+            "sunny milk":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=548976",
+                "imageId": "06/15/061564c7f3edb4457a526e9f410dc0c8.jpg",
+                "artist": "ke-ta",
+                "comment": "Part of a doujinshi"
+            }]
+        },
         "flandre scarlet": {
             "remilia scarlet":  [{
                 "nsfw": 1,
@@ -32,6 +64,12 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/79933762",
                 "artist": "an-telin"
+            }],
+            "sunny milk":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/11606500",
+                "artist": "シャ"
             }]
         },
         "marisa kirisame": {
