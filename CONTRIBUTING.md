@@ -2,8 +2,11 @@ This file will explains how to add information to JSON file for Ship.<br/>
 Feel free to open an issue if you have any question, if you want to contribute just open a pull request.
 
 ## Allowed submissions
-The only characters not allowed is the main character of the anime (or the graph would just be a big star)<br/>
-Please submit images where there are only the 2 characters on it
+- Don't add the main character in the list (like the Teitoku for KanColle or the Doctor for Arknights), this it to avoid the graph to just be a big star
+- Try to find the original source of the image. If you take if from Gelbooru, the original source is often written in the post page
+- Try not to include fetichisms that are too weird, I won't make a full list so please try to use your common sence for this one
+- Try to keep nodes linked together, this is to avoid having lot of nodes flying everywhere
+- Try to have have the 2 characters on the image
 
 ## How to submit
 
@@ -23,7 +26,8 @@ If you want to add an entry, make sure it's not already here (you can just Ctrl+
 
 The remaining "ship" values are:
 - isNsfw: 0: Not NSFW, 1: Slighly NSFW (erotic but not too explicit), 2: NSFW
-- linkType: Where you link is from. Please use the website where the art was originally from (so don't post things from Gelbooru, Rule34 etc, check the source of the image instead, it's often written in the post)
+- linkType: Where you link is from. Please use the website where the art was originally from
 - link: Link to the image
 - artist: Name of the artist
-- imageId: (Only for NHentai) Id of the cover of the doujinshi (please make not that it's not the id of the doujinshi! You can get it by going on the cover and copying the link of the image, it's the number inside it)
+- imageId: (Only for NHentai, Twitter and Gelbooru) Id of the cover of the doujinshi (please make not that it's not the id of the doujinshi! You can get it by going on the cover and copying the link of the image, it's the number inside it)
+- comment (Only for Gelbooru) explanation why Gelbooru is used
