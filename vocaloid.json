@@ -1,7 +1,29 @@
 {
     "name": "vocaloid",
-    "color": "lightgrey",
+    "color": "brown",
     "ships": {
+        "kaito": {
+            "len kagamine":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/10385991",
+                "artist": "やの"
+            }]
+        },
+        "len kagamine": {
+            "miku hatsune":  [{
+            "nsfw": 2,
+            "linkType": "pixiv",
+            "link": "https://www.pixiv.net/en/artworks/2590744",
+            "artist": "真尾"
+        }],
+            "rin kagamine":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/58617436",
+                "artist": "☮ゆきお☮"
+            }]
+        },
         "megurine luca": {
             "miku hatsune":  [{
                 "nsfw": 1,
@@ -16,11 +38,59 @@
             }]
         },
         "miku hatsune": {
+            "neru akita":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=583330",
+                "imageId": "https://img2.gelbooru.com/images/c4/bc/c4bc49c8d871d2585d6e70925b2468d7.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }],
+            "rin kagamine":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/41880048",
+                "artist": "TKM"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81669240",
+                "artist": "古山　造"
+            }],
             "yukari yuzuki":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/82827152",
                 "artist": "くの"
+            }]
+        },
+        "itako tohōku": {
+            "kiritan tohōku":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4501542",
+                "imageId": "https://img1.gelbooru.com/images/7d/42/7d42c4687ec1add2de2d68c81c548f1c.png",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "kiritan tohōku": {
+            "otomachi una":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81925002",
+                "artist": "皆月"
+            }],
+            "yukari yuzuki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72345562",
+                "artist": "荒居栂美"
+            }],
+            "zunko tohōku":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4528597",
+                "imageId": "https://img2.gelbooru.com/images/af/f4/aff499400d2a8d0a8984a817fe37c5f5.png",
+                "comment": "L'image fait parti d'un album"
             }]
         }
     }
