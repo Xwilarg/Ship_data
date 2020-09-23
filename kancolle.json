@@ -280,7 +280,7 @@
             "yuubari": [{
                 "isNsfw": 2,
                 "linkType": "pixiv",
-                "link": "hhttps://www.pixiv.net/en/artworks/74228878",
+                "link": "https://www.pixiv.net/en/artworks/74228878",
                 "artist": "DD"
             }]
         },
@@ -294,11 +294,6 @@
         },
         "shigure": {
             "yuudachi": [{
-                "isNsfw": 1,
-                "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/64066698",
-                "artist": "Nahaki"
-            }, {
                 "isNsfw": 1,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/64066698",
