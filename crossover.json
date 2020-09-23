@@ -30,6 +30,15 @@
                 "imageId": "https://img2.gelbooru.com/images/2a/3f/2a3fe8b2ba697192628efcc6a781a31e.jpg",
                 "comment": "Image no longer available on Pixiv"
             }]
+        },
+        "touhou_reimu hakurei": {
+            "vocaloid_miku hatsune":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=580377",
+                "imageId": "https://img2.gelbooru.com/images/d3/ad/d3adc9f9abf522b7b845ae546792020d.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
         }
     }
 }

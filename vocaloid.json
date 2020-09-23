@@ -1,0 +1,27 @@
+{
+    "name": "vocaloid",
+    "color": "lightgrey",
+    "ships": {
+        "megurine luca": {
+            "miku hatsune":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/7237894",
+                "artist": "cuteg"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/66998928",
+                "artist": "隔断"
+            }]
+        },
+        "miku hatsune": {
+            "yukari yuzuki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82827152",
+                "artist": "くの"
+            }]
+        }
+    }
+}
