@@ -23,6 +23,34 @@
                 "comment": "Image no longer available on Pixiv"
             }]
         },
+        "akashi": {
+            "natori":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3003815",
+                "imageId": "https://img2.gelbooru.com/images/7a/ff/7aff6c90c4553e5a682c1923d0a2c603.jpg",
+                "comment": "Image part of an album"
+            }],
+            "yuubari":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/54995237",
+                "artist": "瑞海BB@新刊委託中!!!"
+            }]
+        },
+        "akatsuki": {
+            "hibiki":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68625727",
+                "artist": "翼つばさ"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/44947504",
+                "artist": "Saru"
+            }]
+        },
         "amatsukaze": {
             "shimakaze":  [{
                 "nsfw": 2,
@@ -77,12 +105,55 @@
                 "artist": "まくら"
             }]
         },
+        "harusame": {
+            "samidare":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68997155",
+                "artist": "七色風香＠8月メロン超同人祭"
+            }],
+            "yamakaze":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/80035160",
+                "artist": "夕凪"
+            }],
+            "yuudachi":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57662409",
+                "artist": "泉卵＠喜怒哀楽"
+            }]
+        },
+        "hibiki": {
+            "ikazuchi":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/73544762",
+                "artist": "ゆう"
+            }],
+            "shigure":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3144400",
+                "imageId": "https://img2.gelbooru.com/images/6e/b1/6eb17e7f950b05f7eb25bb2acaa421ce.png",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "hiei": {
             "kongou":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/67199042",
                 "artist": "咲良ろむ"
+            }]
+        },
+        "ikazuchi": {
+            "inazuma":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/37117174",
+                "artist": "ﾃﾗzip"
             }]
         },
         "iowa": {
@@ -130,6 +201,18 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/41513119",
                 "artist": "いちみ"
+            }],
+            "shigure":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74817904",
+                "artist": "Redundant-cat"
+            }, {
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/547th_sy/status/1262396308540751876",
+                "imageId": "EYTs2dLXkAAbLsn",
+                "artist": "547th_sy"
             }],
             "shimakaze":  [{
                 "nsfw": 2,
@@ -185,12 +268,41 @@
                 "artist": "po0000000000"
             }]
         },
+        "naka": {
+            "samidare": [{
+                "isNsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57745823",
+                "artist": "外道"
+            }]
+        },
+        "samidare": {
+            "yuubari": [{
+                "isNsfw": 2,
+                "linkType": "pixiv",
+                "link": "hhttps://www.pixiv.net/en/artworks/74228878",
+                "artist": "DD"
+            }]
+        },
         "satsuki": {
             "uzuki": [{
                 "isNsfw": 1,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/68087624",
                 "artist": "明日葉友婁"
+            }]
+        },
+        "shigure": {
+            "yuudachi": [{
+                "isNsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64066698",
+                "artist": "Nahaki"
+            }, {
+                "isNsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64066698",
+                "artist": "Nahaki"
             }]
         },
         "uzuki": {
