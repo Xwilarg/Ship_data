@@ -2,6 +2,39 @@
     "name": "azurlane",
     "color": "lightgreen",
     "ships": {
+        "ayanami": {
+            "javelin":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83171753",
+                "artist": "ただいぬ"
+            }],
+            "z46":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/71222964",
+                "artist": "あしし🐾Ashisi"
+            }]
+        },
+        "graf zeppelin": {
+            "prinz eugen":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/67065978",
+                "artist": "hews"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84069718",
+                "artist": "GDAT"
+            }],
+            "z46":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79095363",
+                "artist": "monobe"
+            }]
+        },
         "honolulu": {
             "st. louis":  [{
                 "nsfw": 2,
@@ -15,17 +48,21 @@
                 "artist": "dishwasher1910"
             }]
         },
-        "prinz eugen": {
-            "graf zeppelin":  [{
-                "nsfw": 0,
+        "javelin": {
+            "zara":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5151956",
+                "imageId": "6a/54/6a54aa01f79c972bebe8ea1f726b4aad.png",
+                "comment": "Source unknown"
+            }]
+        },
+        "st. louais": {
+            "zara":  [{
+                "nsfw": 2,
                 "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/67065978",
-                "artist": "hews"
-            }, {
-                "nsfw": 1,
-                "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/84069718",
-                "artist": "GDAT"
+                "link": "https://www.pixiv.net/en/artworks/82451853",
+                "artist": "nonkong"
             }]
         }
     }
