@@ -34,6 +34,18 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/76229450",
                 "artist": "奕川"
+            }],
+            "swire":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/77296470",
+                "artist": "上北下南"
+            }],
+            "talulah":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81539340",
+                "artist": "dishwasher1910"
             }]
         },
         "exusiai": {
@@ -51,6 +63,12 @@
             }]
         },
         "lappland": {
+            "projekt red":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/77386779",
+                "artist": "24时"
+            }],
             "texas":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
