@@ -3,11 +3,77 @@
     "color": "pink",
     "ships": {
         "amiya": {
+            "ch'en":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/u_nagidon/status/1237051274987634692",
+                "imageId": "ESrjbWJUcAAUTRc",
+                "artist": "u_nagidon"
+            }],
+            "lappland":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83657930",
+                "artist": "FoxyRain"
+            }],
             "w":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/81709985",
                 "artist": "YANG"
+            }]
+        },
+        "ch'en": {
+            "hoshiguma":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82123763",
+                "artist": "きょう"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76229450",
+                "artist": "奕川"
+            }]
+        },
+        "exusiai": {
+            "texas":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82583447",
+                "artist": "Kagi 鍵"
+            }],
+            "mostima":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/78083043",
+                "artist": "Hemyi"
+            }]
+        },
+        "lappland": {
+            "texas":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83967056",
+                "artist": "黑月"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81512490",
+                "artist": "まく"
+            }]
+        },
+        "sora": {
+            "texas":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79701003",
+                "artist": "羽"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81512490",
+                "artist": "まく"
             }]
         }
     }
