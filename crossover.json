@@ -5,7 +5,7 @@
                 "nsfw": 0,
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=5378769",
-                "imageId": "cb/3d/cb3d12563ee920eabacf0c3be0dae01a.jpg",
+                "imageId": "https://img2.gelbooru.com/images/cb/3d/cb3d12563ee920eabacf0c3be0dae01a.jpg",
                 "comment": "Image no longer available on Pixiv"
             }]
         },
@@ -27,7 +27,7 @@
                 "nsfw": 0,
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=2272246",
-                "imageId": "2a/3f/2a3fe8b2ba697192628efcc6a781a31e.jpg",
+                "imageId": "https://img2.gelbooru.com/images/2a/3f/2a3fe8b2ba697192628efcc6a781a31e.jpg",
                 "comment": "Image no longer available on Pixiv"
             }]
         }

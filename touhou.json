@@ -32,7 +32,7 @@
                 "nsfw": 2,
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=5489761",
-                "imageId": "fc/92/fc924ba3867aaee9badcc44df2d125dc.jpg",
+                "imageId": "https://img1.gelbooru.com/images/fc/92/fc924ba3867aaee9badcc44df2d125dc.jpg",
                 "artist": "ke-ta",
                 "comment": "Part of a doujinshi"
             }],
@@ -40,15 +40,15 @@
                 "nsfw": 2,
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=5489763",
-                "imageId": "be/5b/be5b92489f837f2dbb95a81986d51d99.jpg",
+                "imageId": "https://img2.gelbooru.com/images/be/5b/be5b92489f837f2dbb95a81986d51d99.jpg",
                 "artist": "ke-ta",
                 "comment": "Part of a doujinshi"
             }],
             "sunny milk":  [{
                 "nsfw": 2,
                 "linkType": "gelbooru",
-                "link": "https://gelbooru.com/index.php?page=post&s=view&id=548976",
-                "imageId": "06/15/061564c7f3edb4457a526e9f410dc0c8.jpg",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5489764",
+                "imageId": "https://img1.gelbooru.com/images/06/15/061564c7f3edb4457a526e9f410dc0c8.jpg",
                 "artist": "ke-ta",
                 "comment": "Part of a doujinshi"
             }]
