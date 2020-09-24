@@ -2,7 +2,38 @@
     "name": "fireemblem",
     "color": "#987676",
     "ships": {
+        "bernadetta von varley": {
+            "petra macneary":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/KVlen/status/1232586693728968704",
+                "imageId": "ERsHAVrXsAEqBN-",
+                "artist": "KVlen"
+            }],
+            "tharja":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4993477",
+                "imageId": "https://img2.gelbooru.com/images/2a/05/2a05176960cfa0f5d4370618bac972cb.jpeg",
+                "comment": "No source available"
+            }]
+        },
+        "chrom": {
+            "sumia":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2484876",
+                "imageId": "https://img2.gelbooru.com/images/46/60/466055cf637da68e6a21c5d179dba2e2.jpeg",
+                "comment": "No source available"
+            }]
+        },
         "cordelia": {
+            "sumia":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/26211083",
+                "artist": "jiejio"
+            }],
             "tharja":  [{
                 "nsfw": 0,
                 "linkType": "gelbooru",
@@ -11,12 +42,68 @@
                 "comment": "Image is part of an album"
             }]
         },
+        "dorothea arnault": {
+            "petra macneary":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/ticcytx/status/1171946794009464837",
+                "imageId": "EEOXSf4X4AEum5N",
+                "artist": "ticcytx"
+            }]
+        },
+        "lucina": {
+            "tharja":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79174478",
+                "artist": "agitch"
+            }],
+            "tiki":  [{
+                "nsfw": 1,
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3933036",
+                "imageId": "https://img2.gelbooru.com/images/47/52/4752470f58daaac34100b83dec7e5673.jpg",
+                "comment": "Source not available"
+            }]
+        },
+        "myrrh": {
+            "tiki":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/71387144",
+                "artist": "The-Sinner"
+            }]
+        },
         "noire": {
             "tharja":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/38401168",
                 "artist": "Lasterk"
+            }]
+        },
+        "nah": {
+            "nowi":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4495411",
+                "imageId": "https://img1.gelbooru.com/images/b7/03/b7031894b345c702bd30fcbcbd176a48.png",
+                "comment": "Source not available"
+            }]
+        },
+        "nowi": {
+            "tharja":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3250682",
+                "imageId": "https://img2.gelbooru.com/images/65/98/6598f8a2a625787b667cbcd0a6215dc3.jpeg",
+                "comment": "Source not available"
+            }],
+            "tiki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2052496",
+                "imageId": "https://img1.gelbooru.com/images/e8/54/e854547bbcf434cf7447a2a31e2defd9.jpg",
+                "comment": "Source not available"
             }]
         }
     }
