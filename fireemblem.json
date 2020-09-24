@@ -18,6 +18,14 @@
                 "comment": "No source available"
             }]
         },
+        "caspar von bergliez": {
+            "hilda velentine goneril":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/77071042",
+                "artist": "夜"
+            }]
+        },
         "chrom": {
             "sumia":  [{
                 "nsfw": 0,
@@ -25,6 +33,20 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=2484876",
                 "imageId": "https://img2.gelbooru.com/images/46/60/466055cf637da68e6a21c5d179dba2e2.jpeg",
                 "comment": "No source available"
+            }]
+        },
+        "claude von riegan": {
+            "dimitri alexandre blaiddyd":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/80669955",
+                "artist": "bigjing"
+            }],
+            "hilda velentine goneril":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83065966",
+                "artist": "IzumaMILL"
             }]
         },
         "cordelia": {
@@ -43,12 +65,62 @@
             }]
         },
         "dorothea arnault": {
+            "edelgard von hresvelg":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79159455",
+                "artist": "Glazen"
+            }],
+            "ingrid brandi galatea":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/KVlen/status/1239817102158106624",
+                "imageId": "ETS29sbWkAAOIfe",
+                "artist": "KVlen"
+            }],
             "petra macneary":  [{
                 "nsfw": 1,
                 "linkType": "twitter",
                 "link": "https://twitter.com/ticcytx/status/1171946794009464837",
                 "imageId": "EEOXSf4X4AEum5N",
                 "artist": "ticcytx"
+            }]
+        },
+        "edelgard von hresvelg": {
+            "lysithea von ordelia":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4934084",
+                "imageId": "https://img2.gelbooru.com/images/08/70/08708cceb66ef8f40402042c05f30206.jpg",
+                "comment": "Source no longer available on Twitter"
+            }]
+        },
+        "hilda velentine goneril": {
+            "marianne von edmund":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/78959753",
+                "artist": "Senmura"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83445574",
+                "artist": "重箱製作所"
+            }]
+        },
+        "ingrid brandi galatea": {
+            "marianne von edmund":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76785487",
+                "artist": "AztoDio"
+            }],
+            "seteth":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/a_meno_0/status/1269962899583201281",
+                "imageId": "EZ_QZsFU0AEmtCQ",
+                "artist": "a_meno_0"
             }]
         },
         "lucina": {
