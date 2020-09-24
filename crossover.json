@@ -8,6 +8,19 @@
                 "artist": "ルルちゃん"
             }]
         },
+        "arknights_siege": {
+            "hololive_botan shishiro":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84024132",
+                "artist": "惊梦狸"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83607656",
+                "artist": "Hiroki Ree"
+            }]
+        },
         "arknights_w": {
             "azurlane_st. louis":  [{
                 "nsfw": 0,
@@ -33,9 +46,9 @@
         "fate_scáthach": {
             "fireemblem_tharja":  [{
                 "nsfw": 0,
-                "linkType": "sankaku",
-                "link": "https://beta.sankakucomplex.com/post/show/7552773?tags=fire_emblem%20fate_%28series%29",
-                "imageId": "https://cs.sankakucomplex.com/data/00/2a/002a2a2caa1dedb9aa607a5efd57cb8b.png?e=1601039331&m=RszLqihmR_HMfXJ0LRuIyw",
+                "linkType": "rule34",
+                "link": "https://rule34.xxx/index.php?page=post&s=view&id=3106344",
+                "imageId": "https://img.rule34.xxx//images/2786/002a2a2caa1dedb9aa607a5efd57cb8b.png",
                 "comment": "Source not available"
             }]
         },

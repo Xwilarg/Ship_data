@@ -24,6 +24,13 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/77071042",
                 "artist": "夜"
+            }],
+            "linhardt von hevring":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/moonmikkyu/status/1180302770022182912",
+                "imageId": "EGFHGwjUwAYJdUD",
+                "artist": "moonmikkyu"
             }]
         },
         "chrom": {
@@ -136,6 +143,14 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=3933036",
                 "imageId": "https://img2.gelbooru.com/images/47/52/4752470f58daaac34100b83dec7e5673.jpg",
                 "comment": "Source not available"
+            }]
+        },
+        "leonie pinelli": {
+            "lysithea von ordelia":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83850277",
+                "artist": "Senmura"
             }]
         },
         "myrrh": {

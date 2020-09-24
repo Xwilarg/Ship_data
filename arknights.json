@@ -3,6 +3,17 @@
     "color": "pink",
     "ships": {
         "amiya": {
+            "blaze":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82688045",
+                "artist": "雨傘ゆん"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82688045",
+                "artist": "Mag"
+            }],
             "ch'en":  [{
                 "nsfw": 2,
                 "linkType": "twitter",
@@ -21,6 +32,14 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/81709985",
                 "artist": "YANG"
+            }]
+        },
+        "blaze": {
+            "schwarz":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76508951",
+                "artist": "AnBo"
             }]
         },
         "ch'en": {
@@ -79,6 +98,15 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/81512490",
                 "artist": "まく"
+            }]
+        },
+        "schwarz": {
+            "siege":  [{
+                "nsfw": 2,
+                "linkType": "yandere",
+                "link": "https://yande.re/post/show/626758",
+                "imageId": "https://files.yande.re/jpeg/fcece2661789bb1d3ba8e7f94f5dac56/yande.re%20626758%20animal_ears%20arknights%20dishwasher1910%20naked%20nipples%20schwarz_%28arknights%29%20siege_%28arknights%29%20tail%20thighhighs.jpg",
+                "comment": "No source available"
             }]
         },
         "sora": {
