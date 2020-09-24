@@ -60,6 +60,7 @@
             }],
             "tiki":  [{
                 "nsfw": 1,
+                "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=3933036",
                 "imageId": "https://img2.gelbooru.com/images/47/52/4752470f58daaac34100b83dec7e5673.jpg",
                 "comment": "Source not available"
