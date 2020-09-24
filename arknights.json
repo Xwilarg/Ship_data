@@ -87,6 +87,12 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/79701003",
                 "artist": "羽"
+            }],
+            "vigna":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84314569",
+                "artist": "kotchii/rhesh"
             }]
         }
     }
