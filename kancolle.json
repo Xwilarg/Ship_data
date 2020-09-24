@@ -242,10 +242,9 @@
             }],
             "yayoi": [{
                 "isNsfw": 2,
-                "linkType": "nhentai",
-                "link": "https://nhentai.net/g/201540/",
-                "imageId": "1089118",
-                "artist": "hitsujin"
+                "linkType": "shikotch",
+                "link": "https://shikotch.net/comic/5806/",
+                "imageId": "https://i0.wp.com/img.shikotch.net/wp-content/uploads/3315075714/1.jpg"
             }]
         },
         "minazuki": {
