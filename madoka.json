@@ -1,0 +1,112 @@
+{
+    "name": "madoka",
+    "color": "#c2b280",
+    "ships": {
+        "homura akemi": {
+            "iroha tamaki":  [{
+                "nsfw": 2,
+                "linkType": "nhentai",
+                "link": "https://nhentai.net/g/228852/",
+                "imageId": "1204884",
+                "artist": "gedou danshaku"
+            }],
+            "madoka kaname":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/41875323",
+                "artist": "ゆつもえ"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/59653298",
+                "artist": "Crab D"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/19994835",
+                "artist": "Dhiea"
+            }]
+        },
+        "gray alina": {
+            "karin misono":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74772046",
+                "artist": "フッィュー@お仕事募集中"
+            }],
+            "mami tomoe":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/yoyoyokikana/status/1150367226978942982",
+                "imageId": "D_bs02nUYAAxJhk",
+                "artist": "yoyoyokikana"
+            }, {
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/12ayumaru13/status/1308760617835048960",
+                "imageId": "Eimm1pJUwAAiamX",
+                "artist": "12ayumaru13"
+            }]
+        },
+        "iroha tamaki": {
+            "mitami yakumo":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64916021",
+                "artist": "茶請"
+            }],
+            "yachiro nanami":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84504270",
+                "artist": "茶請"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/78252166",
+                "artist": "名宵（旧PN：市町村）"
+            }]
+        },
+        "kyouko sakura": {
+            "mami tomoe":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/53005409",
+                "artist": "外道男爵"
+            }],
+            "sayaka miki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/28008484",
+                "artist": "たろうまる"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/39836166",
+                "artist": "HINA"
+            }]
+        },
+        "madoka kaname": {
+            "mami tomoe":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/36445122",
+                "artist": "エースロケット"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/16816145",
+                "artist": "阿部かなり"
+            }]
+        },
+        "mami tomoe": {
+            "nagisa momoe":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4780668",
+                "imageId": "https://img2.gelbooru.com/images/c6/1d/c61da5b4751ca067052cf879603354eb.png",
+                "comment": "Image no longer available on its source"
+            }]
+        }
+    }
+}
