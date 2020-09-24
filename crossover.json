@@ -1,5 +1,13 @@
 {
     "ships": {
+        "arknights_hoshiguma": {
+            "fate_shuten dōji":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/75979968",
+                "artist": "ルルちゃん"
+            }]
+        },
         "arknights_w": {
             "azurlane_st. louis":  [{
                 "nsfw": 0,
@@ -20,6 +28,15 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/65706374",
                 "artist": "リン☆ユウ＠新刊通販委託中"
+            }]
+        },
+        "fate_scáthach": {
+            "fireemblem_tharja":  [{
+                "nsfw": 0,
+                "linkType": "sankaku",
+                "link": "https://beta.sankakucomplex.com/post/show/7552773?tags=fire_emblem%20fate_%28series%29",
+                "imageId": "https://cs.sankakucomplex.com/data/00/2a/002a2a2caa1dedb9aa607a5efd57cb8b.png?e=1601039331&m=RszLqihmR_HMfXJ0LRuIyw",
+                "comment": "Source not available"
             }]
         },
         "kancolle_haruna": {

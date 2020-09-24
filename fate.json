@@ -1,0 +1,84 @@
+{
+    "name": "fate",
+    "color": "#ffb266",
+    "ships": {
+        "artoria pendragon (lancer alter)": {
+            "mordred":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4698251",
+                "imageId": "https://img2.gelbooru.com/images/2f/2d/2f2d60cd99799c429b15016ded32efe9.jpg",
+                "comment": "Image is part of an album"
+            }],
+            "nightingale":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4372824",
+                "imageId": "https://img2.gelbooru.com/images/4c/2c/4c2ceaa7aa99de0460c79e55eac95d3e.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "ibaraki dōji": {
+            "shuten dōji":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/70567586",
+                "artist": "SG-落叶"
+            }]
+        },
+        "kingprotea": {
+            "scáthach":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/73459882",
+                "artist": "淫傘うさぎ@仕事募集中"
+            }]
+        },
+        "marie antoinette": {
+            "medb":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/lpslzlee/status/1061150657556566016",
+                "imageId": "Drn2pplU8AAVD-N",
+                "artist": "lpslzlee"
+            }],
+            "jeanne d'arc":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/75711678",
+                "artist": "あやかわりく"
+            }]
+        },
+        "medb": {
+            "scáthach":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/69465931",
+                "artist": "五月福音"
+            }, {
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/__o_0___/status/819859873722572802",
+                "imageId": "C2C5pJkUAAA7aeE",
+                "artist": "__o_0___"
+            }]
+        },
+        "mordred": {
+            "scáthach":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3464522",
+                "imageId": "https://img2.gelbooru.com/images/89/92/8992a12b2f91e872306e29fa31bc6a80.png",
+                "comment": "Image is part of an album"
+            }]
+        },
+        "nightingale": {
+            "shuten dōji":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/77673453",
+                "artist": "bkko"
+            }]
+        }
+    }
+}

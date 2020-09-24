@@ -1,0 +1,23 @@
+{
+    "name": "fireemb",
+    "color": "#987676",
+    "ships": {
+        "cordelia": {
+            "tharja":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2268459",
+                "imageId": "https://img2.gelbooru.com/images/41/ad/41ad9f518784afdebe01c4a281876ce5.jpg",
+                "comment": "Image is part of an album"
+            }]
+        },
+        "noire": {
+            "tharja":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/38401168",
+                "artist": "Lasterk"
+            }]
+        }
+    }
+}

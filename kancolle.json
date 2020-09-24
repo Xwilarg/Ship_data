@@ -103,6 +103,13 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/55987163",
                 "artist": "まくら"
+            }],
+            "ro-500":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2712127",
+                "imageId": "https://img2.gelbooru.com/images/97/be/97bef22f734a8a38ecd3dbc512ed7908.jpg",
+                "comment": "Image is part of an album"
             }]
         },
         "harusame": {
