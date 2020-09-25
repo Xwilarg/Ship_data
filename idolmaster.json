@@ -18,6 +18,36 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3127657"
             }]
         },
+        "airi totoki": {
+            "anzu futaba":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/49524165",
+                "artist": "魚",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2638357"
+            }],
+            "shuuko shiomi":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3170164",
+                "imageId": "https://img2.gelbooru.com/images/bf/b7/bfb76a718155cca098121de8b6358b3c.png"
+            }]
+        },
+        "ami futami": {
+            "iori minase":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/35913967",
+                "artist": "kaze",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4846514"
+            }],
+            "mami futami":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/70270364",
+                "artist": "みじんこすちん"
+            }]
+        },
         "atsumi munakata": {
             "anzu futaba":  [{
                 "nsfw": 0,
@@ -36,6 +66,28 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4370879"
             }]
         },
+        "anastasia": {
+            "minami nitta":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74048430",
+                "artist": "雁@お仕事募集中",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4678405"
+            }, {
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3665510",
+                "imageId": "https://img2.gelbooru.com/images/dc/e0/dce0a19df375b94abb4a97b0351c01ed.jpg",
+                "comment": "Image no longer available on its source"
+            }],
+            "nao kamiya":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4712867",
+                "imageId": "https://img2.gelbooru.com/images/d6/2f/d62f41fe0cd17e6a1fef4d808b4e72e2.png",
+                "comment": "No source available"
+            }]
+        },
         "anzu futaba": {
             "kirari moroboshi":  [{
                 "nsfw": 2,
@@ -50,13 +102,82 @@
                 "comment": "Image no longer available on Pixiv"
             }]
         },
+        "azusa miura": {
+            "iori minase":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1281181",
+                "imageId": "https://img2.gelbooru.com/images/af/5d/af5d67e5af5cfbd86eb24d504c541fd5.png",
+                "comment": "Image no longer available on its source"
+            }]
+        },
+        "fuuka toyokawa": {
+            "karen shinomiya":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3049556",
+                "imageId": "https://img2.gelbooru.com/images/bb/50/bb507d03bff39d0a4a4cdc4c87be74d2.png",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "haruka amami": {
+            "yukiho hagiwara":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=285867",
+                "imageId": "https://img2.gelbooru.com/images/c6/e9/c6e97612f62a24c8d2bcfdb1ae3a8a19.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "iori minase": {
+            "miki hoshii":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/51375571",
+                "artist": "14歳美少女",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2774812"
+            }],
+            "yayoi takatsuki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1198560",
+                "imageId": "https://img1.gelbooru.com/images/3b/ac/3bacc77144c82dc4484a9dcede62009b.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "kaede takagaki": {
+            "minami nitta":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4234470",
+                "imageId": "https://img2.gelbooru.com/images/95/e5/95e583885b78e621adb13e179c58ad67.png",
+                "comment": "Image is part of an album"
+            }]
+        },
         "karen shinomiya": {
+            "megumi tokoro":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/saishow/status/645621596195975168",
+                "imageId": "CPW1PagUEAIlf9b",
+                "artist": "saishow",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2873723"
+            }],
             "rio momose":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/46423482",
                 "artist": "ザシャ",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2432611"
+            }]
+        },
+        "kirari moroboshi": {
+            "rin shibuya":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3260687",
+                "imageId": "https://img2.gelbooru.com/images/1e/43/1e43f29f0013c845587a3a2f11e3cccd.jpg",
+                "comment": "Image is part of an album"
             }]
         },
         "konomi baba": {
@@ -112,6 +233,22 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3013466"
             }]
         },
+        "makoto kikuchi": {
+            "miki hoshii":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/37240842",
+                "artist": "ゆえ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1944896"
+            }],
+            "yukiho hagiwara":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2344301",
+                "imageId": "https://img2.gelbooru.com/images/93/0a/930abcff0b3fd2b59be387b4a2d00717.jpg",
+                "comment": "Image is part of an album"
+            }]
+        },
         "mika jougasaki": {
             "rin shibuya":  [{
                 "nsfw": 2,
@@ -120,12 +257,72 @@
                 "artist": "BOY",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4857760"
             }],
+            "rika jougasaki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60374449",
+                "artist": "けいん",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3540489"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/47771773",
+                "artist": "高坂 曇天",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2527837"
+            }],
             "yui ootsuki":  [{
                 "nsfw": 2,
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=4892704",
                 "imageId": "https://img2.gelbooru.com/images/a8/0e/a80ee5832f6ee1d62400fc62362eaded.jpeg",
                 "comment": "No source available"
+            }]
+        },
+        "miki hoshii": {
+            "rin shibuya":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/joey_koguma/status/674891344800645121",
+                "imageId": "CV2yGgQU4AAPufd",
+                "artist": "joey_koguma"
+            }]
+        },
+        "minami nitta": {
+            "shiki ichinose":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/63903058",
+                "artist": "日辻ナタ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4234461"
+            }],
+            "yumi aiba":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4346382",
+                "imageId": "https://img2.gelbooru.com/images/b6/ff/b6ffd34ce05ec86216f84bab7a090750.jpg",
+                "comment": "Image no longer available on its source"
+            }]
+        },
+        "miria akagi": {
+            "rika jougasaki":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3580920",
+                "imageId": "https://img2.gelbooru.com/images/7d/3b/7d3b7c391eb08f4307eb163f4cefd057.png",
+                "comment": "Image is part of an album"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/61110773",
+                "artist": "shift",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3530692"
+            }],
+            "mika jougasaki":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2938821",
+                "imageId": "https://img2.gelbooru.com/images/f9/3d/f93d4892c2d2a91e790633bb0970cc0c.jpg",
+                "comment": "Image no longer available on Twitter"
             }]
         },
         "mizuki kawashima": {
@@ -153,6 +350,16 @@
                 "link": "https://www.pixiv.net/en/artworks/59809317",
                 "artist": "橘",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4233011"
+            }]
+        },
+        "shuuko shiomi": {
+            "yumi aiba":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/CasinoEP/status/1021029570307239937",
+                "imageId": "Ditsk5aUYAA1O9D",
+                "artist": "CasinoEP",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4345750"
             }]
         },
         "uzuki shimamura": {
