@@ -1,0 +1,168 @@
+{
+    "name": "idolmaster",
+    "color": "#e6c55c",
+    "ships": {
+        "ai tougou": {
+            "ryou matsunaga":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/41614821",
+                "artist": "ﾎﾜｲﾄﾁｮｺﾁｬﾝｸ・ｳﾏｲ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2186310"
+            }],
+            "atsumi munakata":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/39922549",
+                "artist": "あとり",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3127657"
+            }]
+        },
+        "atsumi munakata": {
+            "anzu futaba":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/67513939",
+                "artist": "はーしゃ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4211218"
+            }]
+        },
+        "asuka ninomiya": {
+            "mirei hayasaka":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/70292643",
+                "artist": "天野 どん",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4370879"
+            }]
+        },
+        "anzu futaba": {
+            "kirari moroboshi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/38774264",
+                "artist": "うそねこ"
+            }, {
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3407902",
+                "imageId": "https://img2.gelbooru.com/images/95/74/957410e9c0dc31820ff7e63ff519f02d.png",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "karen shinomiya": {
+            "rio momose":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/46423482",
+                "artist": "ザシャ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2432611"
+            }]
+        },
+        "konomi baba": {
+            "sanae katagiri":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/56024996",
+                "artist": "大城ようこう",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3109075"
+            }],
+            "rio momose":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2822094",
+                "imageId": "https://img2.gelbooru.com/images/c7/d9/c7d9590a27a43c83fc8c45b63a6f3524.png",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "koume shirasaka": {
+            "mirei hayasaka":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/69633403",
+                "artist": "カジノ@歌姫22「シン41」",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4316851"
+            }],
+            "mizuki kawashima":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/67165963",
+                "artist": "monobe",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4091561"
+            }],
+            "ranko kanzaki":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1604367",
+                "imageId": "https://img2.gelbooru.com/images/02/b6/02b6cddb707c1b96686798d43c347622.png",
+                "comment": "Image is part of an album"
+            }],
+            "ryou matsunaga":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2638317",
+                "imageId": "https://img2.gelbooru.com/images/bc/99/bc994a5b9200d5bf5cfa56c98f1d03b8.jpg",
+                "comment": "Image is part of an album"
+            }],
+            "sachiko koshimizu":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/54719710",
+                "artist": "ひつじ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3013466"
+            }]
+        },
+        "mika jougasaki": {
+            "rin shibuya":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/55610999",
+                "artist": "BOY",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4857760"
+            }],
+            "yui ootsuki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4892704",
+                "imageId": "https://img2.gelbooru.com/images/a8/0e/a80ee5832f6ee1d62400fc62362eaded.jpeg",
+                "comment": "No source available"
+            }]
+        },
+        "mizuki kawashima": {
+            "sanae katagiri":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81418821",
+                "artist": "LewdLilies",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5284565"
+            }]
+        },
+        "nono morikubo": {
+            "yui ootsuki":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/75078348",
+                "artist": "Juu P",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4764037"
+            }]
+        },
+        "rin shibuya": {
+            "uzuki shimamura":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/59809317",
+                "artist": "橘",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4233011"
+            }]
+        },
+        "uzuki shimamura": {
+            "yoi ootsuki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/67512416",
+                "artist": "夜々村",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4121674"
+            }]
+        }
+    }
+}

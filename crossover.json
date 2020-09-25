@@ -111,6 +111,15 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4971920"
             }]
         },
+        "idolmaster_sachiko koshimizu": {
+            "touhou_satori komeiji":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60652031",
+                "artist": "ひきわり納豆",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3495369"
+            }]
+        },
         "kancolle_hamakaze": {
             "touhou_youmu konpaku":  [{
                 "nsfw": 1,

@@ -51,6 +51,12 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=45784",
                 "imageId": "https://img1.gelbooru.com/images/8c/48/8c48d663817cd0d39e031cc9fb68feee.jpg",
                 "comment": "Image no longer available on its source"
+            }],
+            "sunny milk":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82295519",
+                "artist": "チマQ"
             }]
         },
         "clownpiece": {
@@ -98,6 +104,24 @@
                 "artist": "シャ"
             }]
         },
+        "koishi komeiji": {
+            "satori komeiji":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72647721",
+                "artist": "an-telin",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4568317"
+            }]
+        },
+        "luna child": {
+            "utsuho reiuji":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=964169",
+                "imageId": "https://img2.gelbooru.com/images/99/3c/993ccc92050127e7100ece11c9b698a8.png",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "lunasa prismriver": {
             "suika ibuki":  [{
                 "nsfw": 0,
@@ -137,6 +161,22 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/84176667",
                 "artist": "むっく氏"
+            }]
+        },
+        "rin kaenbyou": {
+            "satori komeiji":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=723732",
+                "imageId": "https://img2.gelbooru.com/images/31/b7/31b7a53826d0b84a2ce32f7e05f96bc3.png",
+                "comment": "Image no longer available on Pixiv"
+            }],
+            "utsuho reiuji":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/66048833",
+                "artist": "うちすくい",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3988007"
             }]
         },
         "suika ibuki": {

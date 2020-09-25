@@ -18,6 +18,36 @@
                 "comment": "No source available"
             }]
         },
+        "camilla": {
+            "hinoka":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68596284",
+                "artist": "姉",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4225467"
+            }],
+            "leo":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/54753313",
+                "artist": "必殺の霊的国防兵器",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3341710"
+            }],
+            "sakura ":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84124123",
+                "artist": "Yuri-Yumi",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5532001"
+            }],
+            "tharja":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2668331",
+                "imageId": "https://img2.gelbooru.com/images/29/ad/29ad097a81a19914c86b47ebcc910933.gif",
+                "comment": "Source not available"
+            }]
+        },
         "caspar von bergliez": {
             "hilda velentine goneril":  [{
                 "nsfw": 2,
@@ -102,6 +132,24 @@
                 "comment": "Source no longer available on Twitter"
             }]
         },
+        "elise": {
+            "sakura":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/58151757",
+                "artist": "ふにちか",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3284174"
+            }]
+        },
+        "hana": {
+            "sakura":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4708947",
+                "imageId": "https://img2.gelbooru.com/images/7f/e0/7fe01c46b0e7e4402cd0806335f790d8.png",
+                "comment": "No source available"
+            }]
+        },
         "hilda velentine goneril": {
             "marianne von edmund":  [{
                 "nsfw": 2,
@@ -130,7 +178,23 @@
                 "artist": "a_meno_0"
             }]
         },
+        "leo": {
+            "takumi":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2484876",
+                "imageId": "https://img2.gelbooru.com/images/68/91/6891b2cfbd9200135ebd4f281df623ba.png",
+                "comment": "No source available"
+            }]
+        },
         "lucina": {
+            "severa":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4640989",
+                "imageId": "https://img2.gelbooru.com/images/9f/67/9f674fefa0cee8d7e625eb9ad489b4bb.jpeg",
+                "comment": "Source not available"
+            }],
             "tharja":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
