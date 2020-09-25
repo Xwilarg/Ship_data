@@ -134,6 +134,27 @@
                 "artist": "ひろ"
             }]
         },
+        "hamakaze": {
+            "isokaze":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64837359",
+                "artist": "にこびぃ"
+            }],
+            "shigure":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4178867",
+                "imageId": "https://img2.gelbooru.com/images/01/a7/01a733613a499ac09b29a7ae47721d07.jpg",
+                "comment": "Image no longer available on its source"
+            }],
+            "urakaze":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/56818747",
+                "artist": "ドヤちぃ"
+            }]
+        },
         "haruna": {
             "bismarck":  [{
                 "nsfw": 1,
@@ -240,6 +261,27 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/65909823",
                 "artist": "タマラン"
+            }]
+        },
+        "jintsuu": {
+            "naka": [{
+                "isNsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60017003",
+                "artist": "瑠璃太郎"
+            }, {
+                "isNsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2744472",
+                "imageId": "https://img2.gelbooru.com/images/0e/57/0e57b35ae5587e0954118c8c0a11a42c.png",
+                "comment": "Image no longer available on its source"
+            }],
+            "sendai": [{
+                "isNsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4863906",
+                "imageId": "https://img2.gelbooru.com/images/20/68/2068fdf9fe6707198c273b4acc91abb5.jpg",
+                "comment": "Image no longer available on Twitter"
             }]
         },
         "jun'you": {

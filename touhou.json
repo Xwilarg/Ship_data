@@ -2,12 +2,31 @@
     "name": "touhou",
     "color": "yellow",
     "ships": {
+        "aya shameimaru": {
+            "cirno":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/71949160",
+                "artist": "ろけ"
+            }, {
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4842383",
+                "imageId": "https://img1.gelbooru.com/images/5f/99/5f99cca9123a4d4fc87b70190afd12ff.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "cirno": {
             "daiyousei":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/32258058",
                 "artist": "みかん@C97四日目南へ09a"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84403883",
+                "artist": "こはるこ"
             }],
             "flandre scarlet":  [{
                 "nsfw": 2,
@@ -25,6 +44,13 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/43581618",
                 "artist": "てりまよ"
+            }],
+            "suika ibuki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=45784",
+                "imageId": "https://img1.gelbooru.com/images/8c/48/8c48d663817cd0d39e031cc9fb68feee.jpg",
+                "comment": "Image no longer available on its source"
             }]
         },
         "clownpiece": {
@@ -72,12 +98,74 @@
                 "artist": "シャ"
             }]
         },
-        "marisa kirisame": {
-            "reimu hakurei":  [{
+        "lunasa prismriver": {
+            "suika ibuki":  [{
                 "nsfw": 0,
                 "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/68904328",
+                "link": "https://www.pixiv.net/en/artworks/83457768",
                 "artist": "ぴよ吉＠名前戻しました"
+            }]
+        },
+        "marisa kirisame": {
+            "reimu hakurei":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68904328",
+                "artist": "春雨＠紅楼夢F02"
+            }]
+        },
+        "reimu hakurei": {
+            "tewi inaba":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3309227",
+                "imageId": "https://img2.gelbooru.com/images/ce/5b/ce5b987187fbb66fe2f7019ad23bb1af.png",
+                "comment": "Image no longer available on its source"
+            }]
+        },
+        "reisen udongein inaba": {
+            "tewi inaba":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5489884",
+                "imageId": "https://img2.gelbooru.com/images/dc/99/dc99ebdcda8982aefa04fde735341938.jpg",
+                "artist": "ke-ta",
+                "comment": "Part of a doujinshi"
+            }],
+            "youmu konpaku":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84176667",
+                "artist": "むっく氏"
+            }]
+        },
+        "suika ibuki": {
+            "yuugi hoshiguma":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/8010608",
+                "artist": "アリオ"
+            }, {
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2666979",
+                "imageId": "https://img2.gelbooru.com/images/75/43/754328ad16a20fbab1bcfdb19c6c21c0.png",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "youmu konpaku": {
+            "yuyuko saigyouji":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4426317",
+                "imageId": "https://img2.gelbooru.com/images/5b/9c/5b9c0182c34ded52a13e47eae54976e4.jpg",
+                "comment": "Image no longer available on its source"
+            }, {
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/noritamagomyon/status/1245744298005377025",
+                "imageId": "EUnFvDcUUAEArRU",
+                "artist": "noritamagomyon"
             }]
         }
     }

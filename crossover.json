@@ -102,12 +102,30 @@
                 "comment": "Source not available"
             }]
         },
+        "kancolle_hamakaze": {
+            "touhou_youmu konpaku":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2964189",
+                "imageId": "https://img2.gelbooru.com/images/ee/35/ee3574be453f04f6fb71621751c7da29.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "kancolle_haruna": {
             "touhou_flandre scarlet":  [{
                 "nsfw": 0,
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=2272246",
                 "imageId": "https://img2.gelbooru.com/images/2a/3f/2a3fe8b2ba697192628efcc6a781a31e.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "kancolle_yamato": {
+            "touhou_yuyuko saigyouji":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2415943",
+                "imageId": "https://img2.gelbooru.com/images/c6/00/c600f45da6625318c8a507ffb3482167.jpg",
                 "comment": "Image no longer available on Pixiv"
             }]
         },
