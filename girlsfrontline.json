@@ -1,0 +1,82 @@
+{
+    "name": "girlsfrontline",
+    "color": "#3CB371",
+    "ships": {
+        "g11": {
+            "hk416":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/75726089",
+                "artist": "玉砂糖"
+            }]
+        },
+        "g28": {
+            "hk416":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/75274334",
+                "artist": "K0NG_"
+            }]
+        },
+        "hk416": {
+            "wa2000":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4799689",
+                "imageId": "https://img2.gelbooru.com/images/3f/90/3f90f7963062cb47cb57e707a37b3c49.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }],
+            "ump45": [{
+                "isNsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/aoisaka77/status/1198262375427665922",
+                "imageId": "EKEVRu2VAAA3aQC",
+                "artist": "aoisaka77",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5013586"
+            }, {
+                "isNsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/u_nagidon/status/1086891411004243969",
+                "imageId": "DxVp8ceV4AAcz6f",
+                "artist": "u_nagidon",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4578003"
+            }]
+        },
+        "lee-enfield": {
+            "m1903 springfield":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/63804082",
+                "artist": "雷特 (L.M)"
+            }]
+        },
+        "m1903 springfield": {
+            "wa2000":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/69372795",
+                "artist": "Carol.J.Jamison"
+            }]
+        },
+        "ump45": {
+            "ump9":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4586748",
+                "imageId": "https://img2.gelbooru.com/images/41/2c/412c1c1fc3f1cead6670cc0d975a6e23.png",
+                "comment": "Image no longer available on Pixiv"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/69381832",
+                "artist": "Chung_Chung",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4296056"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/80608673",
+                "artist": "天凉多喝防冻液(缓更中)"
+            }]
+        }
+    }
+}
