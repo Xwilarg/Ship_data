@@ -38,6 +38,13 @@
                 "imageId": "https://img2.gelbooru.com/images/7a/ff/7aff6c90c4553e5a682c1923d0a2c603.jpg",
                 "comment": "Image part of an album"
             }],
+            "ooyodo":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/46134659",
+                "artist": "鏡 刀夜",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2416708"
+            }],
             "yuubari":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
@@ -65,7 +72,39 @@
                 "comment": "Image no longer available on Pixiv"
             }]
         },
+        "akebono": {
+            "shoukaku": [{
+                "isNsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/atusi_2225/status/663005670233370624",
+                "imageId": "CTN4JJgUYAE7DY3",
+                "artist": "atusi_2225",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2920561"
+            }]
+        },
+        "akitsu maru": {
+            "mogami":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4776148",
+                "imageId": "https://img2.gelbooru.com/images/69/2b/692b5817a7dd893f983765e264325e9c.jpg",
+                "comment": "Image no longer available on its source"
+            }]
+        },
         "amatsukaze": {
+            "atago":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/50393484",
+                "artist": "Xin&obiwan"
+            }],
+            "hamakaze":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2351395",
+                "imageId": "https://img2.gelbooru.com/images/ae/eb/aeebddbf14e1633a1cd1102daa64f7dc.png",
+                "comment": "Image no longer available on Pixiv"
+            }],
             "shimakaze":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
@@ -76,6 +115,37 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/43460548",
                 "artist": "ﾌﾞﾚｴﾄﾞ"
+            }],
+            "tokitsukaze":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/50482711",
+                "artist": "B-銀河"
+            }]
+        },
+        "asashimo": {
+            "kiyoshimo":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4795435",
+                "imageId": "https://img2.gelbooru.com/images/34/05/3405a69234e639ef18679a6168ab5641.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "atago": {
+            "hibiki":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3738012",
+                "imageId": "https://img2.gelbooru.com/images/0f/a8/0fa8d0c322f8980aeb92957b79829a47.png",
+                "comment": "Image no longer available on Pixiv"
+            }],
+            "takao":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3254998",
+                "imageId": "https://img2.gelbooru.com/images/1f/00/1f008f0f9320073a37d6e71b9c96c4c2.png",
+                "comment": "Image no longer available on Pixiv"
             }]
         },
         "bismarck": {
@@ -208,6 +278,13 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/52381397",
                 "artist": "ＺＡＫＩ"
+            }],
+            "kiso":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/53568062",
+                "artist": "ＺＡＫＩ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2935258"
             }]
         },
         "hibiki": {
@@ -216,12 +293,19 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/73544762",
                 "artist": "ゆう"
-            }]
-            ,"inazuma":  [{
+            }],
+            "inazuma":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/70945560",
                 "artist": "ゆう"
+            }],
+            "satsuki":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2719100",
+                "imageId": "https://img2.gelbooru.com/images/f7/d1/f7d1e6018e43489eaa991fcaf20f2287.png",
+                "comment": "Image is part of an album"
             }],
             "shigure":  [{
                 "nsfw": 1,
@@ -229,9 +313,35 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=3144400",
                 "imageId": "https://img2.gelbooru.com/images/6e/b1/6eb17e7f950b05f7eb25bb2acaa421ce.png",
                 "comment": "Image no longer available on Pixiv"
+            }],
+            "umikaze":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81126511",
+                "artist": "Lainart",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5264663"
+            }],
+            "yayoi":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4261696",
+                "imageId": "https://img2.gelbooru.com/images/2f/1e/2f1eb990b21194b3d9d766f6b6e8e2cd.jpg",
+                "comment": "Image no longer available on its source"
+            }, {
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4725726",
+                "imageId": "https://img2.gelbooru.com/images/65/b7/65b7a9d24de166647ea77a9864a99b0d.jpg",
+                "comment": "Image no longer available on its source"
             }]
         },
         "hiei": {
+            "kirishima":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/66807171",
+                "artist": "もらっきょ(メフィラスG3)"
+            }],
             "kongou":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
@@ -245,6 +355,15 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/84517811",
                 "artist": "Rukialice"
+            }]
+        },
+        "i-401": {
+            "ro-500":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/54555521",
+                "artist": "H2O",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3000953"
             }]
         },
         "ikazuchi": {
@@ -347,12 +466,40 @@
                 "artist": "黒アリ"
             }]
         },
+        "kiso": {
+            "maruyu":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/53864883",
+                "artist": "暮尾"
+            }],
+            "tenryuu":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/69672620",
+                "artist": "巽"
+            }]
+        },
+        "kitakami": {
+            "ooi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/56857780",
+                "artist": "しなま"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/40582094",
+                "artist": "inu"
+            }]
+        },
         "kiyoshimo": {
             "musashi":  [{
                 "nsfw": 0,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/59973253",
-                "artist": "巽"
+                "artist": "修酸",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4320946"
             }]
         },
         "kongou": {
@@ -369,11 +516,6 @@
             }],
             "shigure":  [{
                 "nsfw": 0,
-                "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/74817904",
-                "artist": "Redundant-cat"
-            }, {
-                "nsfw": 0,
                 "linkType": "twitter",
                 "link": "https://twitter.com/547th_sy/status/1262396308540751876",
                 "imageId": "EYTs2dLXkAAbLsn",
@@ -384,6 +526,22 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/43120268",
                 "artist": "まつりみこ（祭神子）"
+            }]
+        },
+        "kuma": {
+            "tama":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74192041",
+                "artist": "こるぺら",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4691994"
+            }],
+            "ooi":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/47517942",
+                "artist": "又市マタロー",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2532583"
             }]
         },
         "mochizuki": {
@@ -419,6 +577,28 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/77704961",
                 "artist": "YUkai@お仕事募集中"
+            }],
+            "tenryuu": [{
+                "isNsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/48759526",
+                "artist": "鳥茶丸"
+            }],
+            "yamato":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2359358",
+                "imageId": "https://img2.gelbooru.com/images/4a/4e/4a4ed43646ad0e43688ffb8267e17af2.jpg",
+                "comment": "Image no longer available on its source"
+            }]
+        },
+        "mutsu": {
+            "nagato": [{
+                "isNsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2538230",
+                "imageId": "https://img2.gelbooru.com/images/0b/10/0b102fe72030a7ad7a4294f62570d484.jpg",
+                "comment": "No source available"
             }]
         },
         "nagatsuki": {
@@ -512,7 +692,16 @@
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=4316849",
                 "imageId": "https://img2.gelbooru.com/images/0a/c6/0ac687897197761baab8faab57c38f17.png",
-                "comment": "Image no longer available its source"
+                "comment": "Image no longer available on its source"
+            }]
+        },
+        "tatsuta": {
+            "tenryuu": [{
+                "isNsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60909632",
+                "artist": "＿太子",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3513009"
             }]
         },
         "uzuki": {
@@ -521,6 +710,12 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/79662215",
                 "artist": "ゆう"
+            }, {
+                "isNsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3012455",
+                "imageId": "https://img2.gelbooru.com/images/71/fc/71fc29c90a5971f5dc96c2df29d3f78d.png",
+                "comment": "Image no longer available on Twitter"
             }]
         },
         "zuihou": {

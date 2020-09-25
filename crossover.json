@@ -102,6 +102,15 @@
                 "comment": "Source not available"
             }]
         },
+        "girlsfrontline_m1903 springfield": {
+            "kancolle_mutsu":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/77487815",
+                "artist": "Siu",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4971920"
+            }]
+        },
         "kancolle_hamakaze": {
             "touhou_youmu konpaku":  [{
                 "nsfw": 1,
