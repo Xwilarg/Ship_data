@@ -2,6 +2,39 @@
     "name": "azurlane",
     "color": "lightgreen",
     "ships": {
+        "akagi": {
+            "kaga":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/77299663",
+                "artist": "dishwasher1910"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84318792",
+                "artist": "SAMIP"
+            }],
+            "taihou":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/71596047",
+                "artist": "伊倉ナギサ"
+            }]
+        },
+        "albacore": {
+            "taihou":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79898768",
+                "artist": "monobe"
+            }],
+            "I-26":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72359050",
+                "artist": "いにゅっち"
+            }]
+        },
         "ayanami": {
             "javelin":  [{
                 "nsfw": 1,
@@ -23,11 +56,31 @@
             }]
         },
         "belfast": {
+            "enterprise":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/80972313",
+                "artist": "ふみゅーん"
+            }],
+            "illustrious":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81473578",
+                "artist": "덕호"
+            }],
             "unicorn":  [{
                 "nsfw": 0,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/83453600",
                 "artist": "升天"
+            }]
+        },
+        "enterprise": {
+            "zuikaku":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81011932",
+                "artist": "はねらむ"
             }]
         },
         "graf zeppelin": {
@@ -79,6 +132,21 @@
                 "comment": "Source unknown"
             }]
         },
+        "kaga": {
+            "tosa":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82755844",
+                "artist": "monobe"
+            }],
+            "zuikaku":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4587383",
+                "imageId": "https://img2.gelbooru.com/images/ba/ae/baae9af3eca7aa5eecbeb8967f4e79fa.jpg",
+                "comment": "Source unknown"
+            }]
+        },
         "kisaragi": {
             "vampire":  [{
                 "nsfw": 2,
@@ -87,12 +155,60 @@
                 "artist": "楠木葵"
             }]
         },
+        "lexington": {
+            "saratoga":  [{
+                "nsfw": 1,
+                "linkType": "yandere",
+                "link": "https://yande.re/post/show/572277",
+                "imageId": "https://files.yande.re/jpeg/9dd433b0a5d2965f0b163e875f97759f/yande.re%20572277%20azur_lane%20bondage%20cameltoe%20lexington_%28azur_lane%29%20pantyhose%20saratoga_%28azur_lane%29%20seifuku%20tagme%20tokinohimitsu.jpg",
+                "comment": "Source unknown"
+            }]
+        },
+        "nagato": {
+            "saratoga":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/73nami773/status/1003224006948839427",
+                "imageId": "Dewq6tBVQAYOV2K",
+                "artist": "73nami773"
+            }]
+        },
+        "mikasa": {
+            "nagato":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83198194",
+                "artist": "ひみつ"
+            }],
+            "zuikaku":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/75818492",
+                "artist": "noukatu@火曜ア-35a"
+            }]
+        },
         "st. louis": {
             "zara":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/82451853",
                 "artist": "nonkong"
+            }]
+        },
+        "ryuujou": {
+            "saratoga":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/73288166",
+                "artist": "きゅうりの漬物"
+            }]
+        },
+        "shoukaku": {
+            "zuikaku":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76000574",
+                "artist": "ふみゅーん"
             }]
         },
         "unicorn": {
@@ -107,6 +223,14 @@
                 "link": "https://twitter.com/spring_oct/status/964880801815920640",
                 "imageId": "DWPxxw7VwAA5I15",
                 "artist": "spring_oct"
+            }]
+        },
+        "yuudachi": {
+            "vampire":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/67409148",
+                "artist": "楠木葵"
             }]
         }
     }

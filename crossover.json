@@ -43,6 +43,32 @@
                 "artist": "リン☆ユウ＠新刊通販委託中"
             }]
         },
+        "azurlane_nagato": {
+            "kancolle_nagato":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68957724",
+                "artist": "銀SilveRoid"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/69642190",
+                "artist": "GAO"
+            }]
+        },
+        "azurlane_yuudachi": {
+            "kancolle_yuudachi":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/66585196",
+                "artist": "NR"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64922065",
+                "artist": "無惑桑"
+            }]
+        },
         "fate_jeanne d'arc": {
             "madoka_mami tomoe":  [{
                 "nsfw": 0,

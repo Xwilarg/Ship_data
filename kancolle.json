@@ -49,6 +49,13 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/44947504",
                 "artist": "Saru"
+            }],
+            "nagato":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2404219",
+                "imageId": "https://img2.gelbooru.com/images/b2/9c/b29cbb2bf6918fdcda5fa46b57fb4d4d.jpg",
+                "comment": "Image no longer available on Pixiv"
             }]
         },
         "amatsukaze": {
