@@ -83,12 +83,17 @@
             }]
         },
         "akitsu maru": {
-            "mogami":  [{
+            "arashio":  [{
                 "nsfw": 1,
                 "linkType": "gelbooru",
-                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4776148",
-                "imageId": "https://img2.gelbooru.com/images/69/2b/692b5817a7dd893f983765e264325e9c.jpg",
-                "comment": "Image no longer available on its source"
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3648847",
+                "imageId": "https://img2.gelbooru.com/images/c9/de/c9defc0f80463c84155d63fda2f6c106.jpg"
+            }],
+            "hayasui":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57986001",
+                "artist": "katahira"
             }]
         },
         "amatsukaze": {
@@ -121,6 +126,15 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/50482711",
                 "artist": "B-銀河"
+            }]
+        },
+        "arashio": {
+            "asashio":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2199727",
+                "imageId": "https://img2.gelbooru.com/images/1c/19/1c191895eb256b84db6b6259b6bc0dfa.png",
+                "comment": "Image is part of an album"
             }]
         },
         "asashimo": {
@@ -194,6 +208,20 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/68398574",
                 "artist": "hikariniji"
+            }]
+        },
+        "fusou": {
+            "hyuuga":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/53402765",
+                "artist": "セシヤ"
+            }],
+            "yamashiro":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/41848108",
+                "artist": "あかつき茜"
             }]
         },
         "gangut": {
@@ -287,6 +315,15 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2935258"
             }]
         },
+        "hayasui": {
+            "ise":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3230634",
+                "imageId": "https://img2.gelbooru.com/images/5e/16/5e16b2f0dba83a9d3edf1b96a7b2da1d.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "hibiki": {
             "ikazuchi":  [{
                 "nsfw": 1,
@@ -357,6 +394,14 @@
                 "artist": "Rukialice"
             }]
         },
+        "hyuuga": {
+            "ise":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/44691677",
+                "artist": "うるりひ"
+            }]
+        },
         "i-401": {
             "ro-500":  [{
                 "nsfw": 2,
@@ -380,6 +425,14 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/65909823",
                 "artist": "タマラン"
+            }]
+        },
+        "ise": {
+            "maya":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81184252",
+                "artist": "Aticsanir"
             }]
         },
         "jintsuu": {
@@ -420,6 +473,19 @@
             }]
         },
         "kaga": {
+            "ooi":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2423337",
+                "imageId": "https://img2.gelbooru.com/images/65/c1/65c128396d54c8fc010ebaf03d5af8e8.png",
+                "comment": "Image no longer available on Pixiv"
+            }, {
+                "isNsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/asagi_0398/status/514420437770448897",
+                "imageId": "ByOWqVdCQAA6x69",
+                "artist": "asagi_0398"
+            }],
             "zuihou":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
@@ -679,6 +745,12 @@
             }]
         },
         "shigure": {
+            "yamashiro": [{
+                "isNsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72390450",
+                "artist": "黒田しょーへい＠神戸かわさき"
+            }],
             "yuudachi": [{
                 "isNsfw": 1,
                 "linkType": "pixiv",
