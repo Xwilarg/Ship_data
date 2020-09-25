@@ -92,6 +92,14 @@
                 "artist": "ウンテンプクイチ"
             }]
         },
+        "gangut": {
+            "hibiki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74348610",
+                "artist": "ひろ"
+            }]
+        },
         "haruna": {
             "bismarck":  [{
                 "nsfw": 1,
@@ -144,6 +152,12 @@
                 "nsfw": 1,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/73544762",
+                "artist": "ゆう"
+            }]
+            ,"inazuma":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/70945560",
                 "artist": "ゆう"
             }],
             "shigure":  [{

@@ -69,6 +69,15 @@
                 "artist": "無惑桑"
             }]
         },
+        "azurlane_zuikaku": {
+            "kancolle_kaga":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/camotamang/status/1269286343302983680",
+                "imageId": "EZ1nuF8VcAAeZNr",
+                "artist": "camotamang"
+            }]
+        },
         "fate_jeanne d'arc": {
             "madoka_mami tomoe":  [{
                 "nsfw": 0,
