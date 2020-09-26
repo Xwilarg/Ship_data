@@ -1,14 +1,52 @@
 {
     "name": "yuruyuri",
-    "color": "grey",
+    "color": "#999",
     "ships": {
-        "ayano sugiura": {
-            "kyouko toshino":  [{
+        "akaza akane": {
+            "akaza akari":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/29991735",
+                "artist": "神楽0"
+            }]
+        },
+        "akaza akari": {
+            "chinatsu yoshikawa":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2941701",
+                "imageId": "https://img1.gelbooru.com/images/ca/6f/ca6fb76e311b68d9005c70f441318be2.png",
+                "comment": "Source no longer available on Pixiv"
+            }],
+            "kyouko toshinou":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/81625159",
-                "artist": "てんのすけ",
-                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5320918"
+                "link": "https://www.pixiv.net/en/artworks/43315343",
+                "artist": "獅子のん",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2253233"
+            }],
+            "yui funami":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5320915",
+                "imageId": "https://img2.gelbooru.com/images/81/79/8179b15905277ec440fe6bd103e02046.jpg",
+                "comment": "Image is part of an album"
+            }]
+        },
+        "ayano sugiura": {
+            "chitose ikeda":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1364113",
+                "imageId": "https://img2.gelbooru.com/images/aa/50/aa50764d0665b594daebf3e4ff845474.jpg",
+                "comment": "Image no longer available on its source"
+            }],
+            "kyouko toshinou":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/35221215",
+                "artist": "しずぷ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1858708"
             }]
         },
         "chinatsu yoshikawa": {
@@ -18,7 +56,7 @@
                 "link": "https://www.pixiv.net/en/artworks/80074573",
                 "artist": "すれいぶ"
             }],
-            "kyouko toshino":  [{
+            "kyouko toshinou":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/60960840",
@@ -32,16 +70,50 @@
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=1289944",
                 "imageId": "https://img2.gelbooru.com/images/4a/ba/4abacf5499af582e9e229aad73ee03f0.jpg",
-                "comment": "Source no longer available on Pixiv"
+                "comment": "Image no longer available on Pixiv"
             }]
         },
-        "chizuru ikeda": {
-            "kyouko toshino":  [{
+        "chizuku ikeda": {
+            "kyouko toshinou":  [{
                 "nsfw": 0,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/84187633",
                 "artist": "cedar",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5563406"
+            }]
+        },
+        "yui funami": {
+            "kyouko toshinou":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81625159",
+                "artist": "てんのすけ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5320918"
+            }]
+        },
+        "himawari furutani": {
+            "nadeshiko oomuro":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/takaheroid/status/1245698477796933633",
+                "imageId": "EUmbdzHVAAA_aff",
+                "artist": "takaheroid"
+            }],
+            "sakurako oomuro":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1642974",
+                "imageId": "https://img2.gelbooru.com/images/d1/14/d114b4ce9b83e596ed3959d99972c4de.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "nadeshiko oomuro": {
+            "sakurako oomuro":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3280580",
+                "imageId": "https://img2.gelbooru.com/images/1f/95/1f95eb5e940bb06fc10fc46c994ff403.png",
+                "comment": "Image no longer available on Twitter"
             }]
         }
     }
