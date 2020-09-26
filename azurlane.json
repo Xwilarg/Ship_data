@@ -192,8 +192,17 @@
             "warspite":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/81363214",
-                "artist": "monobe"
+                "link": "https://www.pixiv.net/en/artworks/80175512",
+                "artist": "Mijogo"
+            }]
+        },
+        "prinz eugen": {
+            "z23":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/70240287",
+                "artist": "Sereneandsilent",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4366885"
             }]
         },
         "queen elizabeth": {
@@ -215,8 +224,8 @@
             "zara":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/80175512",
-                "artist": "Mijogo"
+                "link": "https://www.pixiv.net/en/artworks/82451853",
+                "artist": "nonkong"
             }]
         },
         "ryuujou": {
