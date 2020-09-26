@@ -17,13 +17,6 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/75726089",
                 "artist": "玉砂糖"
-            }],
-            "m16a1":  [{
-                "nsfw": 1,
-                "linkType": "gelbooru",
-                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4264020",
-                "imageId": "https://img2.gelbooru.com/images/0f/10/0f10da4078bbb873cd478ca736227041.png",
-                "comment": "Image is part of an album"
             }]
         },
         "g28": {
@@ -35,6 +28,13 @@
             }]
         },
         "hk416": {
+            "m16a1":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4264020",
+                "imageId": "https://img2.gelbooru.com/images/0f/10/0f10da4078bbb873cd478ca736227041.png",
+                "comment": "Image is part of an album"
+            }],
             "wa2000":  [{
                 "nsfw": 2,
                 "linkType": "gelbooru",
