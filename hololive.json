@@ -48,6 +48,13 @@
             }]
         },
         "marine houshou": {
+            "kanata amane":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5518799",
+                "imageId": "https://img2.gelbooru.com/images/52/13/52135593adaef230afbd4c92d0eab056.jpg",
+                "comment": "Image no longer available on Twitter"
+            }],
             "pekora usada":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
@@ -55,11 +62,6 @@
                 "artist": "帝恩(ディーン)"
             }],
             "miko sakura":  [{
-                "nsfw": 0,
-                "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/80699263",
-                "artist": "Nahaki"
-            }, {
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/81906703",
@@ -67,11 +69,26 @@
             }]
         },
         "matsuri natsuiro": {
-            "shiragami fubuki":  [{
+            "shirakami fubuki":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/82806738",
                 "artist": "玉枫kaete"
+            }]
+        },
+        "miko sakura": {
+            "pekora usada":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/80082971",
+                "artist": "咲凛玖",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5183893"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82636818",
+                "artist": "ICECAKE",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5383215"
             }]
         }
     }
