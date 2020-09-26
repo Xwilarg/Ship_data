@@ -8,15 +8,22 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/10385991",
                 "artist": "やの"
+            }],
+            "meiko":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1372622",
+                "imageId": "https://img2.gelbooru.com/images/8d/29/8d29dcf4c8ae97cd2f379f1589653096.jpg",
+                "comment": "Image no longer available on Pixiv"
             }]
         },
         "len kagamine": {
             "miku hatsune":  [{
-            "nsfw": 2,
-            "linkType": "pixiv",
-            "link": "https://www.pixiv.net/en/artworks/2590744",
-            "artist": "真尾"
-        }],
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/2590744",
+                "artist": "真尾"
+            }],
             "rin kagamine":  [{
                 "nsfw": 0,
                 "linkType": "pixiv",
@@ -24,7 +31,14 @@
                 "artist": "☮ゆきお☮"
             }]
         },
-        "megurine luca": {
+        "luka megurine": {
+            "meiko":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/51073702",
+                "artist": "ささのねこ@skeb募集中",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2747157"
+            }],
             "miku hatsune":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
@@ -73,7 +87,7 @@
             }]
         },
         "kiritan tohōku": {
-            "otomachi una":  [{
+            "una otomachi":  [{
                 "nsfw": 0,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/81925002",
