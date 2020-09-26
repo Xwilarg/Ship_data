@@ -172,6 +172,14 @@
                 "comment": "Image no longer available on Pixiv"
             }]
         },
+        "madoka_mami tomoe": {
+            "yuruyuri_kyouko toshino":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74961365",
+                "artist": "Izuna Kazuki"
+            }]
+        },
         "touhou_reimu hakurei": {
             "vocaloid_miku hatsune":  [{
                 "nsfw": 0,

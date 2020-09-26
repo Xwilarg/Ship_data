@@ -1,0 +1,48 @@
+{
+    "name": "yuruyuri",
+    "color": "grey",
+    "ships": {
+        "ayano sugiura": {
+            "kyouko toshino":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81625159",
+                "artist": "てんのすけ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5320918"
+            }]
+        },
+        "chinatsu yoshikawa": {
+            "himawari furutani":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/80074573",
+                "artist": "すれいぶ"
+            }],
+            "kyouko toshino":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60960840",
+                "artist": "どっかの国の国王",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3517502"
+            }]
+        },
+        "chitose ikeda": {
+            "chizuku ikeda":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1289944",
+                "imageId": "https://img2.gelbooru.com/images/4a/ba/4abacf5499af582e9e229aad73ee03f0.jpg",
+                "comment": "Source no longer available on Pixiv"
+            }]
+        },
+        "chizuru ikeda": {
+            "kyouko toshino":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84187633",
+                "artist": "cedar",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5563406"
+            }]
+        }
+    }
+}
