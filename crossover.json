@@ -1,5 +1,14 @@
 {
     "ships": {
+        "arknights_amiya": {
+            "girlsfrontline_m1903 springfield":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82882905",
+                "artist": "菜さん - 飴色教徒",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5420519"
+            }]
+        },
         "arknights_hoshiguma": {
             "fate_shuten dōji":  [{
                 "nsfw": 0,
@@ -28,6 +37,13 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=5378769",
                 "imageId": "https://img2.gelbooru.com/images/cb/3d/cb3d12563ee920eabacf0c3be0dae01a.jpg",
                 "comment": "Image no longer available on Pixiv"
+            }],
+            "girlsfrontline_m4 sopmod ii":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82935366",
+                "artist": "うらの",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5408051"
             }]
         },
         "azurlane_prinz eugen": {

@@ -2,12 +2,28 @@
     "name": "girlsfrontline",
     "color": "#3cb38f",
     "ships": {
+        "dreamer": {
+            "m16a1":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4161513",
+                "imageId": "https://img2.gelbooru.com/images/f7/35/f735bf5f8dc44f4afb4e5fc2c5798929.jpg",
+                "comment": "Image is no longer available on Twitter"
+            }]
+        },
         "g11": {
             "hk416":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/75726089",
                 "artist": "玉砂糖"
+            }],
+            "m16a1":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4264020",
+                "imageId": "https://img2.gelbooru.com/images/0f/10/0f10da4078bbb873cd478ca736227041.png",
+                "comment": "Image is part of an album"
             }]
         },
         "g28": {
@@ -50,12 +66,36 @@
                 "artist": "雷特 (L.M)"
             }]
         },
+        "m16a1": {
+            "ro635":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4832664",
+                "imageId": "https://img2.gelbooru.com/images/b7/de/b7de8dced76a53ca110ae06d98ff0195.jpg",
+                "comment": "Image is no longer available on Twitter"
+            }]
+        },
         "m1903 springfield": {
             "wa2000":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/69372795",
                 "artist": "Carol.J.Jamison"
+            }]
+        },
+        "m4 sopmod ii": {
+            "ro635":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4420058",
+                "imageId": "https://img2.gelbooru.com/images/83/40/83400ee67aa0d4e799332dc6803ec03f.jpg",
+                "comment": "Image is no longer available on Twitter"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/70144242",
+                "artist": "Clark",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4445519"
             }]
         },
         "ump45": {
