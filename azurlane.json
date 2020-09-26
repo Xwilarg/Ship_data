@@ -164,6 +164,23 @@
                 "comment": "Source unknown"
             }]
         },
+        "mikasa": {
+            "nagato":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83198194",
+                "artist": "ひみつ"
+            }]
+        },
+        "mutsu": {
+            "nagato":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81363214",
+                "artist": "monobe",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5280258"
+            }]
+        },
         "nagato": {
             "saratoga":  [{
                 "nsfw": 0,
@@ -171,14 +188,6 @@
                 "link": "https://twitter.com/73nami773/status/1003224006948839427",
                 "imageId": "Dewq6tBVQAYOV2K",
                 "artist": "73nami773"
-            }]
-        },
-        "mikasa": {
-            "nagato":  [{
-                "nsfw": 1,
-                "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/83198194",
-                "artist": "ひみつ"
             }]
         },
         "st. louis": {
