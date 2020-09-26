@@ -2,6 +2,24 @@
     "name": "vocaloid",
     "color": "#b19cd9",
     "ships": {
+        "ai": {
+            "yukari yuzuki":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68154294",
+                "artist": "きつね（仮）＠絵仕事募集中",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4183503"
+            }]
+        },
+        "gumi": {
+            "miku hatsune":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2958585",
+                "imageId": "https://img2.gelbooru.com/images/d6/54/d654551f0a7a73c254bbc94b2d73a3bf.png",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "kaito": {
             "len kagamine":  [{
                 "nsfw": 2,
