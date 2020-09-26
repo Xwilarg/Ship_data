@@ -188,14 +188,35 @@
                 "link": "https://twitter.com/73nami773/status/1003224006948839427",
                 "imageId": "Dewq6tBVQAYOV2K",
                 "artist": "73nami773"
+            }],
+            "warspite":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81363214",
+                "artist": "monobe"
+            }]
+        },
+        "queen elizabeth": {
+            "warspite":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4208915",
+                "imageId": "https://img2.gelbooru.com/images/d4/5a/d45af45032c52ae7b19b8b72d5f6985e.jpg",
+                "comment": "Image is part of an album"
+            }],
+            "z23":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84200918",
+                "artist": "えどあら"
             }]
         },
         "st. louis": {
             "zara":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/82451853",
-                "artist": "nonkong"
+                "link": "https://www.pixiv.net/en/artworks/80175512",
+                "artist": "Mijogo"
             }]
         },
         "ryuujou": {
