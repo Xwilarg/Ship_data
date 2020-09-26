@@ -66,6 +66,13 @@
             }]
         },
         "cardigan": {
+            "adnachiel":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76429916",
+                "artist": "463君",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5225275"
+            }],
             "melantha":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
