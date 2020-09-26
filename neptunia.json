@@ -100,7 +100,7 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3094550"
             }]
         },
-        "noir": {
+        "noire": {
             "uni":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
