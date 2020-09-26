@@ -80,6 +80,13 @@
                 "imageId": "CTN4JJgUYAE7DY3",
                 "artist": "atusi_2225",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2920561"
+            }],
+            "ushio": [{
+                "isNsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/51883847",
+                "artist": "ミナギ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2805400"
             }]
         },
         "akitsu maru": {
@@ -159,6 +166,15 @@
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=3254998",
                 "imageId": "https://img2.gelbooru.com/images/1f/00/1f008f0f9320073a37d6e71b9c96c4c2.png",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "battleship hime": {
+            "wo-class aircraft carrier":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2437792",
+                "imageId": "https://img2.gelbooru.com/images/df/92/df92d9007267a18f9ab290e3597057b3.png",
                 "comment": "Image no longer available on Pixiv"
             }]
         },
@@ -251,6 +267,20 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/56818747",
                 "artist": "ドヤちぃ"
+            }],
+            "ushio":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3202441",
+                "imageId": "https://img2.gelbooru.com/images/73/8f/738f80c7d151b2af6809da5cdc53c560.png",
+                "comment": "Image is part of an album"
+            }],
+            "wo-class aircraft carrier":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/58679878",
+                "artist": "KATADE（元TAKED）",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3382807"
             }]
         },
         "haruna": {
@@ -419,6 +449,15 @@
                 "artist": "ﾃﾗzip"
             }]
         },
+        "inazuma": {
+            "wo-class aircraft carrier":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/42325555",
+                "artist": "えびさわ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2200875"
+            }]
+        },
         "iowa": {
             "shimakaze":  [{
                 "nsfw": 2,
@@ -433,6 +472,15 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/81184252",
                 "artist": "Aticsanir"
+            }]
+        },
+        "isolated island oni": {
+            "seaport hime": [{
+                "isNsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/55093111",
+                "artist": "はせ☆",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3042183"
             }]
         },
         "jintsuu": {
@@ -592,6 +640,13 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/43120268",
                 "artist": "まつりみこ（祭神子）"
+            }],
+            "wo-class aircraft carrier":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/42580423",
+                "artist": "舞猫ルル＠4日目ね-15a",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2213921"
             }]
         },
         "kuma": {
@@ -608,6 +663,15 @@
                 "link": "https://www.pixiv.net/en/artworks/47517942",
                 "artist": "又市マタロー",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2532583"
+            }]
+        },
+        "maruyu": {
+            "re-class battleship":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2490492",
+                "imageId": "https://img2.gelbooru.com/images/fc/f6/fcf6bad53a0427955f12ca5470719698.jpg",
+                "comment": "Image no longer available on Pixiv"
             }]
         },
         "mochizuki": {
@@ -665,6 +729,12 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=2538230",
                 "imageId": "https://img2.gelbooru.com/images/0b/10/0b102fe72030a7ad7a4294f62570d484.jpg",
                 "comment": "No source available"
+            }],
+            "seaport hime": [{
+                "isNsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/43576289",
+                "artist": "青冥童子@お仕事応募中"
             }]
         },
         "nagatsuki": {
@@ -692,6 +762,34 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/57745823",
                 "artist": "外道"
+            }]
+        },
+        "midway hime": {
+            "northern ocean hime": [{
+                "isNsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/46261224",
+                "artist": "uka",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2426347"
+            }]
+        },
+        "northern ocean hime": {
+            "seaport hime": [{
+                "isNsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/kino_sui/status/498862049741402113",
+                "imageId": "BuxQY5yCAAANymc",
+                "artist": "kino_sui",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2368364"
+            }]
+        },
+        "re-class battleship": {
+            "wo-class aircraft carrier": [{
+                "isNsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/53472252",
+                "artist": "亘井：6/27幼馴染漫画３巻",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2919982"
             }]
         },
         "ryuujou": {

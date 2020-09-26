@@ -2,15 +2,15 @@
     "name": "yuruyuri",
     "color": "#999",
     "ships": {
-        "akaza akane": {
-            "akaza akari":  [{
+        "akane akaza": {
+            "akari akaza":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/29991735",
                 "artist": "神楽0"
             }]
         },
-        "akaza akari": {
+        "akari akaza": {
             "chinatsu yoshikawa":  [{
                 "nsfw": 2,
                 "linkType": "gelbooru",
