@@ -3,6 +3,13 @@
     "color": "pink",
     "ships": {
         "amiya": {
+            "ansel":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/75696637",
+                "artist": "463君",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5239870"
+            }],
             "blaze":  [{
                 "nsfw": 0,
                 "linkType": "pixiv",
@@ -34,12 +41,37 @@
                 "artist": "YANG"
             }]
         },
+        "ansel": {
+            "hibiscus":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79704974",
+                "artist": "ak4ci",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5223753"
+            }],
+            "melantha":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/75664531",
+                "artist": "蓝色呆毛（我好像被放出来了）",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5145009"
+            }]
+        },
         "blaze": {
             "schwarz":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/76508951",
                 "artist": "AnBo"
+            }]
+        },
+        "cardigan": {
+            "melantha":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83707546",
+                "artist": "pokio",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5494902"
             }]
         },
         "ch'en": {
@@ -79,6 +111,14 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/78083043",
                 "artist": "Hemyi"
+            }]
+        },
+        "indra": {
+            "siege":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79138664",
+                "artist": "雨木"
             }]
         },
         "lappland": {
