@@ -42,13 +42,6 @@
             }]
         },
         "ansel": {
-            "greythroat":  [{
-                "nsfw": 0,
-                "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/83303381",
-                "artist": "羽蛇Ketsalkoatl",
-                "fallback": "https://img2.gelbooru.com/images/51/86/5186b7b616acd83f0fda60e2aded3441.png"
-            }],
             "hibiscus":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
@@ -71,6 +64,13 @@
                 "link": "https://rule34.xxx/index.php?page=post&s=view&id=3833130",
                 "imageId": "https://himg.rule34.xxx//images/3400/7a51edd53354308fcb7ffe1805d502705e28c515.jpg",
                 "comment": "Image not available anymore on Pixiv"
+            }],
+            "greythroat":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83303381",
+                "artist": "羽蛇Ketsalkoatl",
+                "fallback": "https://img2.gelbooru.com/images/51/86/5186b7b616acd83f0fda60e2aded3441.png"
             }],
             "schwarz":  [{
                 "nsfw": 2,
@@ -99,8 +99,9 @@
             "schwarz":  [{
                 "nsfw": 0,
                 "linkType": "pixiv",
-                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5252738",
-                "artist": "Cloud"
+                "link": "https://www.pixiv.net/en/artworks/79102161",
+                "artist": "Cloud",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5252738"
             }]
         },
         "ch'en": {
