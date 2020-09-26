@@ -1,0 +1,16 @@
+{
+    "name": "nogamenolife",
+    "color": "grey",
+    "ships": {
+        "blanc": {
+            "vert":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/blancpig_yryr/status/846710697211834369",
+                "imageId": "C8Ae4GKVwAEXHVy",
+                "artist": "blancpig_yryr",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3622731"
+            }]
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "name": "neptunia",
+    "color": "orange",
+    "ships": {
+        "blanc": {
+            "vert":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/blancpig_yryr/status/846710697211834369",
+                "imageId": "C8Ae4GKVwAEXHVy",
+                "artist": "blancpig_yryr",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3622731"
+            }]
+        },
+        "compa": {
+            "if":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2084385",
+                "imageId": "https://img2.gelbooru.com/images/6a/24/6a24d4ed6c1c6a74f0b96e957fe1d503.jpeg",
+                "comment": "No source available"
+            }]
+        },
+        "noire": {
+            "financier":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74633038",
+                "artist": "すてりす"
+            }]
+        },
+        "korome ankokuboshi": {
+            "uzume tennouboshi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72283515",
+                "artist": "Santystuff",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4539799"
+            }]
+        },
+        "if": {
+            "vert":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/46163415",
+                "artist": "ゲB",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2418662"
+            }]
+        },
+        "neptune": {
+            "blanc":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4005868",
+                "imageId": "https://img1.gelbooru.com/images/33/35/33352827c1c86a1af94c16abb1a846d1.png",
+                "comment": "No source available"
+            }],
+            "nepgear":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/52592554",
+                "artist": "ダイアル(片織トケイ）",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2859925"
+            }],
+            "noire":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/65670989",
+                "artist": "oekakizukiお仕事募集"
+            }],
+            "pururut":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4313259",
+                "imageId": "https://img2.gelbooru.com/images/bc/82/bc829d1e596ecbf53d528bb9d8cfa6a6.jpg",
+                "comment": "Image not available on Pixiv"
+            }],
+            "uzume tennouboshi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/61148114",
+                "artist": "Helvetica Std",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3750357"
+            }]
+        },
+        "nepgear": {
+            "uni":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/idol__picture/status/1254405732201463811",
+                "imageId": "EWiLVHlU4AAvaTg",
+                "artist": "idol__picture",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5545980"
+            }],
+            "uzume tennouboshi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/55820673",
+                "artist": "ヘチマ節",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3094550"
+            }]
+        },
+        "noir": {
+            "uni":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/42413110",
+                "artist": "電磁砲二期@お仕事募集中"
+            }]
+        }
+    }
+}

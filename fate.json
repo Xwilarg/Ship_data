@@ -64,11 +64,27 @@
             }]
         },
         "mordred": {
+            "nero claudius":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4123849",
+                "imageId": "https://img2.gelbooru.com/images/ca/e0/cae015faf3c55016df7ace456de106d2.png",
+                "comment": "Image is not available on its source"
+            }],
             "scáthach":  [{
                 "nsfw": 0,
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=3464522",
                 "imageId": "https://img2.gelbooru.com/images/89/92/8992a12b2f91e872306e29fa31bc6a80.png",
+                "comment": "Image is part of an album"
+            }]
+        },
+        "nero claudius": {
+            "tamano no mae":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3668595",
+                "imageId": "https://img2.gelbooru.com/images/d7/8e/d78e2929bd6d6a852e89d7aebaf319ba.jpg",
                 "comment": "Image is part of an album"
             }]
         },
@@ -78,6 +94,15 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/77673453",
                 "artist": "bkko"
+            }]
+        },
+        "tamano no mae": {
+            "wu zetian":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3878223",
+                "imageId": "https://img2.gelbooru.com/images/78/b9/78b94e0cba3c92d5b9bbbb569ce58d7d.png",
+                "comment": "Image no longer exist on Pixiv"
             }]
         }
     }
