@@ -1,0 +1,70 @@
+{
+    "name": "gochuumon",
+    "color": "#fe01b1",
+    "ships": {
+        "chino kafuu": {
+            "cocoa hoto":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81462441",
+                "artist": "みるざわ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5288010"
+            }, {
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5117534",
+                "imageId": "https://img2.gelbooru.com/images/a3/9c/a39cfe4c1def3a9cd77c1d11ff5dd10e.jpeg",
+                "comment": "Image not available anymore on Pixiv"
+            }]
+        },
+        "chiya ujimatsu": {
+            "cocoa hoto":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79620334",
+                "artist": "すれいぶ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5199159"
+            }],
+            "sharo kirima":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2367296",
+                "imageId": "https://img2.gelbooru.com/images/8e/6b/8e6b680ab204fcd3c2ddec5588cb5474.jpg",
+                "comment": "Image not available anymore on Pixiv"
+            }]
+        },
+        "coca hoto": {
+            "megumi natsu":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/50244924",
+                "artist": "雁が音ゆうま",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3928640"
+            }],
+            "moka hoto":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/54599537",
+                "artist": "osisio"
+            }]
+        },
+        "maya jouga": {
+            "megumi natsu":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57590211",
+                "artist": "ろっと",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3943215"
+            }]
+        },
+        "rize tedeza": {
+            "sharo kirima":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84247982",
+                "artist": "夏奈なつ🍅",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5533581"
+            }]
+        }
+    }
+}

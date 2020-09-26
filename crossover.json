@@ -136,6 +136,15 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4971920"
             }]
         },
+        "gochuumon_cocoa hoto": {
+            "yuruyuri_akari akaza":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/53026109",
+                "artist": "茉莉花",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2909250"
+            }]
+        },
         "idolmaster_sachiko koshimizu": {
             "touhou_satori komeiji":  [{
                 "nsfw": 2,
