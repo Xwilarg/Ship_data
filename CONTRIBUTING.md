@@ -1,3 +1,5 @@
+The documentation apply to files that are inside the "custom" folder
+
 This file will explains how to add information to JSON file for Ship.<br/>
 Feel free to open an issue if you have any question, if you want to contribute just open a pull request.
 
