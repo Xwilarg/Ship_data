@@ -120,11 +120,10 @@
         },
         "fate_scáthach": {
             "fireemblem_tharja":  [{
-                "nsfw": 0,
-                "linkType": "rule34",
-                "link": "https://rule34.xxx/index.php?page=post&s=view&id=3106344",
-                "imageId": "https://img.rule34.xxx//images/2786/002a2a2caa1dedb9aa607a5efd57cb8b.png",
-                "comment": "Source not available"
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64603892",
+                "artist": "Soryu Ilyinov"
             }]
         },
         "girlsfrontline_m1903 springfield": {

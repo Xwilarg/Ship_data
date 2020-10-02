@@ -60,10 +60,10 @@
         "blaze": {
             "crownslayer":  [{
                 "nsfw": 2,
-                "linkType": "rule34",
-                "link": "https://rule34.xxx/index.php?page=post&s=view&id=3833130",
-                "imageId": "https://himg.rule34.xxx//images/3400/7a51edd53354308fcb7ffe1805d502705e28c515.jpg",
-                "comment": "Image not available anymore on Pixiv"
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82017291",
+                "artist": "蓝色呆毛（我好像被放出来了）",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5333677"
             }],
             "greythroat":  [{
                 "nsfw": 0,
