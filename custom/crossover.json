@@ -171,6 +171,15 @@
                 "comment": "Image no longer available on Pixiv"
             }]
         },
+        "kancolle_kongou": {
+            "overwatch_d.va":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60172619",
+                "artist": "RAMUNE",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3454396"
+            }]
+        },
         "kancolle_yamato": {
             "touhou_yuyuko saigyouji":  [{
                 "nsfw": 0,

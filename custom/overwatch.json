@@ -1,0 +1,75 @@
+{
+    "name": "overwatch",
+    "color": "#ffff99",
+    "ships": {
+        "ashe": {
+            "mercy":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5433624",
+                "imageId": "https://img2.gelbooru.com/images/8d/c6/8dc6a2c52f967d92803ff9662d36555f.jpeg",
+                "comment": "No source provided"
+            }]
+        },
+        "brigitte": {
+            "d.va":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/Juno_Aftonland/status/1243427146783002624",
+                "imageId": "EUGKHZCX0AAjWLz",
+                "artist": "Juno_Aftonland",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5210463"
+            }]
+        },
+        "d.mon": {
+            "d.va":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/70475360",
+                "artist": "BL/ESS",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4386815"
+            }]
+        },
+        "d.va": {
+            "mei":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/71058750",
+                "artist": "Fainxel",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4434367"
+            }],
+            "mercy":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3372719",
+                "imageId": "https://img2.gelbooru.com/images/98/a6/98a6e23459e3dc80f7056bff84b97e52.jpg",
+                "comment": "Image no longer available on Twitter"
+            }]
+        },
+        "mercy": {
+            "tracer":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/78745815",
+                "artist": "pacha",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5241247"
+            }],
+            "widowmaker":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3810175",
+                "imageId": "https://img2.gelbooru.com/images/41/4e/414e0801986d0c6bfb4504d09e98fca9.png",
+                "comment": "No source provided"
+            }]
+        },
+        "sombra": {
+            "widowmaker":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/65961319",
+                "artist": "BergYB@DL販售中",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3981304"
+            }]
+        }
+    }
+}
