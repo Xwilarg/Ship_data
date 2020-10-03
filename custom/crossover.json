@@ -28,6 +28,13 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/83607656",
                 "artist": "Hiroki Ree"
+            }],
+            "kemonofriends_lion":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74776052",
+                "artist": "boy♂next♂door",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4772973"
             }]
         },
         "arknights_w": {
@@ -189,7 +196,16 @@
                 "comment": "Image no longer available on Pixiv"
             }]
         },
-        "madoka_mami tomoe": {
+        "kemonofriends_shoebill": {
+            "senrankagura_hikage":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/65985966",
+                "artist": "あんづ綾一",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3983074"
+            }]
+        },
+        "madoka_sayaka miki": {
             "yuruyuri_kyouko toshinou":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",

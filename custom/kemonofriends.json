@@ -1,0 +1,71 @@
+{
+    "name": "kemonofriends",
+    "color": "#e08b3e",
+    "ships": {
+        "alpaca huacaya": {
+            "alpaca suri":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/78316224",
+                "artist": "納樫マサクミ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5476741"
+            }]
+        },
+        "alpaca suri": {
+            "japanese crested ibis":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/67357204",
+                "artist": "ぞうさん",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4143104"
+            }]
+        },
+        "japanese crested ibis": {
+            "scarlet ibis":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/61718616",
+                "artist": "(仮)",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4555527"
+            }],
+            "shoebill":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5029778",
+                "imageId": "https://img2.gelbooru.com/images/fe/03/fe038014f8fc27b00a7360d26c82af07.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "lion": {
+            "moose":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3818155",
+                "imageId": "https://img2.gelbooru.com/images/be/4e/be4e71926a78a346b3ca1d926d4c30b6.png",
+                "comment": "Image no longer available on Pixiv"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64632086",
+                "artist": "AsH",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3850370"
+            }],
+            "siberian tiger":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74125939",
+                "artist": "boy♂next♂door",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4686023"
+            }]
+        },
+        "moose": {
+            "shoebill":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/62621955",
+                "artist": "kemono",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=36652243"
+            }]
+        }
+    }
+}

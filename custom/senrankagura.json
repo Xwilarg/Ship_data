@@ -1,0 +1,102 @@
+{
+    "name": "senrankagura",
+    "color": "#bdb76b",
+    "ships": {
+        "ayame": {
+            "katsuragi":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3311263",
+                "imageId": "https://img2.gelbooru.com/images/9a/94/9a941bece822c9c433f2ac8e615ead14.png",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "haruka": {
+            "hibari":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/34241491",
+                "artist": "小遊路",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1823340"
+            }],
+            "ryouna":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/71191362",
+                "artist": "ojikam",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4449018"
+            }],
+            "yumi":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5445836",
+                "imageId": "https://img2.gelbooru.com/images/b7/44/b7441d6b70c73c74f911586a2346d77f.jpg",
+                "comment": "Image no longer available on Twitter"
+            }]
+        },
+        "hibari": {
+            "yagyuu":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3889841",
+                "imageId": "https://img2.gelbooru.com/images/10/a5/10a55465a5bbae9ecd5edbd38520e2c6.png",
+                "comment": "Image source not available"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/34999160",
+                "artist": "春菊天うどん",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3276545"
+            }]
+        },
+        "hikage": {
+            "katsuragi":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1601764",
+                "imageId": "https://img2.gelbooru.com/images/42/37/4237e6c08251a80ae70e2e214f46821c.jpg",
+                "comment": "Image no longer available on its source"
+            }],
+            "mirai":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3386488",
+                "imageId": "https://img2.gelbooru.com/images/1c/fe/1cfec111ddf970dc9fa8a70b989094e5.png",
+                "comment": "Image source not available"
+            }]
+        },
+        "ikaruga": {
+            "katsuragi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/35615777",
+                "artist": "ハムシマ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1874400"
+            }],
+            "yomi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/34424266",
+                "artist": "ヨッタン",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1828733"
+            }]
+        },
+        "katsuragi": {
+            "yumi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/49204296",
+                "artist": "ハムシマ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2617141"
+            }]
+        },
+        "ryoubi": {
+            "ryouna":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/71387485",
+                "artist": "水無憑き"
+            }]
+        }
+    }
+}
