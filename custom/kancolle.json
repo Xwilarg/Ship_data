@@ -103,6 +103,30 @@
                 "artist": "katahira"
             }]
         },
+        "akizuki": {
+            "hatsuzuki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3086730",
+                "imageId": "https://img2.gelbooru.com/images/5b/ca/5bcae33cd454ff5566f0fc02770b2b1c.png",
+                "comment": "Image no longer available on Pixiv"
+            }],
+            "oboro": [{
+                "isNsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/Yuutama2804/status/910512023443693568",
+                "imageId": "DKLET7eUMAEYPym",
+                "artist": "Yuutama2804",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3891441"
+            }],
+            "shoukaku": [{
+                "isNsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/48324141",
+                "artist": "ナズナ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2561877"
+            }]
+        },
         "amatsukaze": {
             "atago":  [{
                 "nsfw": 2,
@@ -345,6 +369,22 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2935258"
             }]
         },
+        "hatsuzuki": {
+            "teruzuki":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3090686",
+                "imageId": "https://img2.gelbooru.com/images/de/3f/de3f6df005882e69fb56e39b95bfcea8.jpg",
+                "comment": "Image no longer available on its source"
+            }],
+            "zuikaku":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3070041",
+                "imageId": "https://img2.gelbooru.com/images/38/09/3809e5cf29d29aa9a38373dc9daced94.jpg",
+                "comment": "Image no longer available on Twitter"
+            }]
+        },
         "hayasui": {
             "ise":  [{
                 "nsfw": 1,
@@ -366,6 +406,13 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/70945560",
                 "artist": "ゆう"
+            }],
+            "hatsuzuki":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/55427586",
+                "artist": "レンス",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3158541"
             }],
             "satsuki":  [{
                 "nsfw": 0,
