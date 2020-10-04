@@ -2,12 +2,57 @@
     "name": "fireemblem",
     "color": "#b37474",
     "ships": {
+        "ashe ubert": {
+            "felix hugo fraldarius":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5581159",
+                "imageId": "https://img2.gelbooru.com/images/5b/6d/5b6d96b99965bf43cb205b41d8b2c18e.png",
+                "comment": "No source available"
+            }]
+        },
+        "annette fantine dominic": {
+            "hilda velentine goneril":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81342501",
+                "artist": "おろしポンズ@低浮上",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5279884"
+            }],
+            "mercedes von martritz":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83234332",
+                "artist": "Senmura"
+            }]
+        },
+        "azura": {
+            "fjorm":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72488130",
+                "artist": "Omegazero01"
+            }],
+            "lucina":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2562033",
+                "imageId": "https://img2.gelbooru.com/images/6e/8d/6e8dd0e25606c5467344c0e41a965f79.png",
+                "comment": "Source not available"
+            }]
+        },
         "bernadetta von varley": {
             "petra macneary":  [{
                 "nsfw": 0,
                 "linkType": "twitter",
                 "link": "https://twitter.com/KVlen/status/1232586693728968704",
                 "imageId": "ERsHAVrXsAEqBN-",
+                "artist": "KVlen"
+            }, {
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/KVlen/status/1203981965235572736",
+                "imageId": "ELVnNs9WwAIYCLy",
                 "artist": "KVlen"
             }],
             "tharja":  [{
@@ -84,6 +129,14 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/83065966",
                 "artist": "IzumaMILL"
+            }],
+            "petra macneary":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/Kukumomoart/status/1224975709082472449",
+                "imageId": "EP_86TwX4AAl2ir",
+                "artist": "Kukumomoart",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5498166"
             }]
         },
         "cordelia": {
@@ -130,6 +183,13 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=4934084",
                 "imageId": "https://img2.gelbooru.com/images/08/70/08708cceb66ef8f40402042c05f30206.jpg",
                 "comment": "Source no longer available on Twitter"
+            }],
+            "rhea":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/HALnot9000/status/1239642901841358851",
+                "imageId": "ETQXKx8XQAA3OPZ",
+                "artist": "HALnot9000"
             }]
         },
         "elise": {
@@ -139,6 +199,37 @@
                 "link": "https://www.pixiv.net/en/artworks/58151757",
                 "artist": "ふにちか",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3284174"
+            }]
+        },
+        "felix hugo fraldarius": {
+            "lysithea von ordelia":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/marun_steak/status/1260027734832472065",
+                "imageId": "EXyDUV5UwAASVx9",
+                "artist": "marun_steak",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5534521"
+            }]
+        },
+        "fjorm": {
+            "laegjarn":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84283466",
+                "artist": "ﾃﾞﾝｸﾞﾘｺﾞｼｮ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5549091"
+            }, {
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81729983",
+                "artist": "Koshiosaur",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5309182"
+            }],
+            "ylgr":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72390200",
+                "artist": "Takuma.S"
             }]
         },
         "hana": {
@@ -217,6 +308,15 @@
                 "artist": "Senmura"
             }]
         },
+        "lysithea von ordelia": {
+            "sothis":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84508631",
+                "artist": "メイドフォージ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5575522"
+            }]
+        },
         "myrrh": {
             "tiki":  [{
                 "nsfw": 1,
@@ -242,19 +342,21 @@
                 "comment": "Source not available"
             }]
         },
+        "ninian": {
+            "tiki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4254853",
+                "imageId": "https://img2.gelbooru.com/images/33/02/330231cb8e84116eb10237531d154855.png",
+                "comment": "Source not available"
+            }]
+        },
         "nowi": {
             "tharja":  [{
                 "nsfw": 2,
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=3250682",
                 "imageId": "https://img2.gelbooru.com/images/65/98/6598f8a2a625787b667cbcd0a6215dc3.jpeg",
-                "comment": "Source not available"
-            }],
-            "tiki":  [{
-                "nsfw": 2,
-                "linkType": "gelbooru",
-                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2052496",
-                "imageId": "https://img1.gelbooru.com/images/e8/54/e854547bbcf434cf7447a2a31e2defd9.jpg",
                 "comment": "Source not available"
             }]
         }
