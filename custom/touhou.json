@@ -14,6 +14,62 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=4842383",
                 "imageId": "https://img1.gelbooru.com/images/5f/99/5f99cca9123a4d4fc87b70190afd12ff.jpg",
                 "comment": "Image no longer available on Pixiv"
+            }],
+            "momiji inubashiri":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/5bVmkpKZ0cnTYtA/status/1264365112422330368",
+                "imageId": "EYvtWlEVAAIf17w",
+                "artist": "5bVmkpKZ0cnTYtA",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5487197"
+            }]
+        },
+        "chen": {
+            "nazrin": [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3560178",
+                "imageId": "https://img2.gelbooru.com/images/69/c8/69c859e18b224a905cb89e5ebd8491da.jpg",
+                "comment": "Image no longer available on its source"
+            }],
+            "nue houjuu": [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/ishikkoro/status/926804961790386178",
+                "imageId": "DNysKvKUIAAFqZ6",
+                "artist": "ishikkoro",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4033930"
+            }],
+            "ran yakumo":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5489847",
+                "imageId": "https://img1.gelbooru.com/images/91/b3/91b31bc0b55f5448f7956d86598dfb83.jpg",
+                "artist": "ke-ta",
+                "comment": "Part of a doujinshi"
+            }]
+        },
+        "byakuren hijiri": {
+            "eiki shiki yamaxanadu":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57135507",
+                "artist": "扇希実＠夏コミ初落選",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3206658"
+            }],
+            "sanae kochiya":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=935772",
+                "imageId": "https://img2.gelbooru.com/images/15/45/154505c0bda2435979baf4b3cab01228.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }],
+            "toyasatomimi no miko":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/67258973",
+                "artist": "shan",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4098236"
             }]
         },
         "cirno": {
@@ -85,6 +141,16 @@
                 "comment": "Part of a doujinshi"
             }]
         },
+        "eiki shiki yamaxanadu": {
+            "komachi onozuka":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5489888",
+                "imageId": "https://img1.gelbooru.com/images/f4/0a/f40a0c8993a31dd9f9713dd05575b57a.jpg",
+                "artist": "ke-ta",
+                "comment": "Part of a doujinshi"
+            }]
+        },
         "flandre scarlet": {
             "remilia scarlet":  [{
                 "nsfw": 1,
@@ -104,6 +170,57 @@
                 "artist": "シャ"
             }]
         },
+        "fujiwara no mokou": {
+            "kaguya houraisan":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=608338",
+                "imageId": "https://img2.gelbooru.com/images/40/0b/400b693e0c2c32528a1b942293098573.jpg",
+                "comment": "Image no longer available on its source"
+            }],
+            "keine kamishirasawa":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4194343",
+                "imageId": "https://img2.gelbooru.com/images/c7/1a/c71a414fdbcd13e3b611f5b83330fe82.jpg",
+                "comment": "Part of a doujinshi"
+            }]
+        },
+        "iku nagae": {
+            "suika ibuki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2645009",
+                "imageId": "https://img1.gelbooru.com/images/b3/a4/b3a455dc6a7adb69a9e71ae82680cd82.jpg",
+                "comment": "Image is part of an album"
+            }],
+            "tenshi hinanawi":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=775447",
+                "imageId": "https://img2.gelbooru.com/images/c2/a8/c2a8a97170e8dfa74d42a3c8d6642eed.jpg",
+                "comment": "No source available"
+            }]
+        },
+        "kaguya houraisan": {
+            "reisen udongein inaba":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/63051117",
+                "artist": "すずしろ真菜",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3705328"
+            }]
+        },
+        "kanako yasaka": {
+            "suwako moriya":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com//status/1263831375532048384",
+                "imageId": "EYoH05TU8AAeul-",
+                "artist": "YfJohanne",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5311552"
+            }]
+        },
         "koishi komeiji": {
             "satori komeiji":  [{
                 "nsfw": 2,
@@ -111,6 +228,41 @@
                 "link": "https://www.pixiv.net/en/artworks/72647721",
                 "artist": "an-telin",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4568317"
+            }]
+        },
+        "kagerou imaizumi": {
+            "momiji inubashiri":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/52563525",
+                "artist": "るきつら。",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2851087"
+            }],
+            "wakasagihime":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3617059",
+                "imageId": "https://img2.gelbooru.com/images/0a/de/0adeae61141f4fe0929053451881ff33.png"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/39148023",
+                "artist": "アオシマ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2031727"
+            }],
+            "sakibanki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76532423",
+                "artist": "政長",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4893551"
+            }, {
+                "isNsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/hagane_redoak/status/752053021069094913",
+                "imageId": "Cm_TpYwUcAAhbQN",
+                "artist": "hagane_redoak",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3257894"
             }]
         },
         "luna child": {
@@ -123,6 +275,13 @@
             }]
         },
         "lunasa prismriver": {
+            "reisen udongein inaba":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64298079",
+                "artist": "春雨＠紅楼夢F02",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3822413"
+            }],
             "suika ibuki":  [{
                 "nsfw": 0,
                 "linkType": "pixiv",
@@ -138,13 +297,66 @@
                 "artist": "春雨＠紅楼夢F02"
             }]
         },
+        "nazrin": {
+            "shou toramaru":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76055273",
+                "artist": "AMO",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4857211"
+            }]
+        },
+        "minamitsu murasa": {
+            "nue houjuu":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=801379",
+                "imageId": "https://img2.gelbooru.com/images/af/47/af475663f613ffc21ab1dd26b22a0eff.jpg",
+                "comment": "Image no longer available on Twitter"
+            }],
+            "shou toramaru":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5028636",
+                "imageId": "https://img2.gelbooru.com/images/91/d9/91d9161f259a7c6092853532c5e96fdd.jpg"
+            }]
+        },
+        "parsee mizuhashi": {
+            "yuugi hoshiguma":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57448976",
+                "artist": "cheeseroll",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3225830"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/47689959",
+                "artist": "ヨハネ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2522739"
+            }]
+        },
         "reimu hakurei": {
-            "tewi inaba":  [{
+            "nazrin":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1600404",
+                "imageId": "https://img2.gelbooru.com/images/c5/e5/c5e5d684a2bc109d6a18e836c70310d4.jpg",
+                "comment": "Image is part of an album"
+            }],
+            "reisen udongein inaba":  [{
                 "nsfw": 1,
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=3309227",
                 "imageId": "https://img2.gelbooru.com/images/ce/5b/ce5b987187fbb66fe2f7019ad23bb1af.png",
                 "comment": "Image no longer available on its source"
+            }],
+            "sanae kochiya":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/80691103",
+                "artist": "木炭",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5229548"
             }]
         },
         "reisen udongein inaba": {
@@ -177,6 +389,15 @@
                 "link": "https://www.pixiv.net/en/artworks/66048833",
                 "artist": "うちすくい",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3988007"
+            }]
+        },
+        "sanae kochiya": {
+            "suwako moriya":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1056157",
+                "imageId": "https://img2.gelbooru.com/images/2b/0d/2b0d87aa716ee063c7729d48cf38d692.jpg",
+                "comment": "Image no longer available on Pixiv"
             }]
         },
         "suika ibuki": {
