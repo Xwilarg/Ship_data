@@ -1,0 +1,73 @@
+{
+    "name": "blazblue",
+    "color": "#d89d9d",
+    "ships": {
+        "bullet": {
+            "makoto nanaya":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3934511",
+                "imageId": "https://img2.gelbooru.com/images/b7/8e/b78ec4afd6de923188698c05c61f8cdd.png",
+                "comment": "Image not available on Pixiv"
+            }]
+        },
+        "litchi faye ling": {
+            "taokaka":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1602517",
+                "imageId": "https://img2.gelbooru.com/images/54/b2/54b20da7149153fea9d3cdca7a6f0986.jpeg",
+                "comment": "No source available"
+            }]
+        },
+        "makoto nanaya": {
+            "noel vermillion":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1819573",
+                "imageId": "https://img2.gelbooru.com/images/74/2e/742ec54c02341e5d49cdfe5311463697.jpg"
+            }],
+            "taokaka":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1117239",
+                "imageId": "https://img2.gelbooru.com/images/31/f9/31f978d53e42d8db28648cc4ea4fe1eb.jpg",
+                "comment": "Image not available on Pixiv"
+            }]
+        },
+        "noel vermillion": {
+            "rachel alucard":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=858433",
+                "imageId": "https://img1.gelbooru.com/images/c8/0a/c80a3facdca120983f92576c59da8bfa.jpeg",
+                "comment": "No source available"
+            }],
+            "tsubaki yayoi":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=746134",
+                "imageId": "https://img2.gelbooru.com/images/57/fe/57fe58ba1c395c51104a48533ef1c1db.jpg",
+                "comment": "Image not available on Pixiv"
+            }]
+        },
+        "platinum the trinity": {
+            "rachel alucard":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3093493",
+                "imageId": "https://img2.gelbooru.com/images/b4/36/b4363c95021e3b9cacb2ac731a2bdeca.jpg",
+                "comment": "Image not available on its source"
+            }]
+        },
+        "rachel alucard": {
+            "taokaka":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=765277",
+                "imageId": "https://img2.gelbooru.com/images/4d/6e/4d6eaac8ec4bb4201ffa8c1b85661ae0.jpg",
+                "comment": "Image not available on Deviantart"
+            }]
+        }
+    }
+}
