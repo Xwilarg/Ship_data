@@ -169,7 +169,7 @@
                 "comment": "Image no longer available on Pixiv"
             }]
         },
-        "battleship hime": {
+        "battleship princess": {
             "wo-class aircraft carrier":  [{
                 "nsfw": 1,
                 "linkType": "gelbooru",
@@ -475,7 +475,7 @@
             }]
         },
         "isolated island oni": {
-            "seaport hime": [{
+            "harbour princess": [{
                 "isNsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/55093111",
@@ -504,7 +504,7 @@
                 "comment": "Image no longer available on Twitter"
             }]
         },
-        "jun'you": {
+        "junyou": {
             "ryuujou":  [{
                 "nsfw": 0,
                 "linkType": "gelbooru",
@@ -730,7 +730,7 @@
                 "imageId": "https://img2.gelbooru.com/images/0b/10/0b102fe72030a7ad7a4294f62570d484.jpg",
                 "comment": "No source available"
             }],
-            "seaport hime": [{
+            "harbour princess": [{
                 "isNsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/43576289",
@@ -764,8 +764,8 @@
                 "artist": "外道"
             }]
         },
-        "midway hime": {
-            "northern ocean hime": [{
+        "midway princess": {
+            "northern princess": [{
                 "isNsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/46261224",
@@ -773,8 +773,8 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2426347"
             }]
         },
-        "northern ocean hime": {
-            "seaport hime": [{
+        "northern princess": {
+            "harbour princess": [{
                 "isNsfw": 1,
                 "linkType": "twitter",
                 "link": "https://twitter.com/kino_sui/status/498862049741402113",
