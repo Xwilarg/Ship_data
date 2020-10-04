@@ -11,6 +11,15 @@
                 "comment": "Image not available on Pixiv"
             }]
         },
+        "kokonoe mercury": {
+            "noel vermillion":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1556848",
+                "imageId": "https://img2.gelbooru.com/images/db/a9/dba9ec61ba6d6692b6a41c0c460fb867.png",
+                "comment": "No source available"
+            }]
+        },
         "litchi faye ling": {
             "taokaka":  [{
                 "nsfw": 1,
