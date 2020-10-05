@@ -1,0 +1,87 @@
+{
+    "name": "newgame",
+    "color": "#e5ddf3",
+    "ships": {
+        "aoba suzukaze": {
+            "hifumi takimoto":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/77893798",
+                "artist": "ドリア",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5006381"
+            }],
+            "kou yagami":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4677743",
+                "imageId": "https://img2.gelbooru.com/images/e4/64/e4640881da597ed229c90972bcf66f0d.png",
+                "comment": "Image is part of an album"
+            }],
+            "momiji mochizuki":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/65012059",
+                "artist": "みゅしのら葉月",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3892941"
+            }],
+            "nene sakura":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/59110001",
+                "artist": "Norte@サキュバス絵師",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3361624"
+            }],
+            "yun iijima":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/67084289",
+                "artist": "ogyadya"
+            }]
+        },
+        "hajime shinoda": {
+            "yun iijima":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60751085",
+                "artist": "タケふみ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3503211"
+            }]
+        },
+        "hifumi takimoto": {
+            "kou yagami":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3844821",
+                "imageId": "https://img2.gelbooru.com/images/58/55/5855cbf5df5bef8f54f8bdebf5404048.jpg",
+                "comment": "Image is not available on Pixiv"
+            }]
+        },
+        "kou yagami": {
+            "rin tooyama":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/58670447",
+                "artist": "いらこ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3324457"
+            }]
+        },
+        "momiji mochizuki": {
+            "tsubame narumi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83477394",
+                "artist": "成瀬まひ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5458630"
+            }]
+        },
+        "nene sakura": {
+            "umiko ahagon":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74596178",
+                "artist": "みるざわ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4878500"
+            }]
+        }
+    }
+}

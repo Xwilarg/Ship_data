@@ -150,6 +150,12 @@
             }]
         },
         "gochuumon_cocoa hoto": {
+            "newgame_hifumi takimoto":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/71601904",
+                "artist": "凍結狐"
+            }],
             "yuruyuri_akari akaza":  [{
                 "nsfw": 0,
                 "linkType": "pixiv",
