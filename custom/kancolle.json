@@ -36,7 +36,7 @@
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=3003815",
                 "imageId": "https://img2.gelbooru.com/images/7a/ff/7aff6c90c4553e5a682c1923d0a2c603.jpg",
-                "comment": "Image part of an album"
+                "comment": "Image is part of an album"
             }],
             "ooyodo":  [{
                 "nsfw": 1,
@@ -87,6 +87,22 @@
                 "link": "https://www.pixiv.net/en/artworks/51883847",
                 "artist": "ミナギ",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2805400"
+            }]
+        },
+        "akigumo": {
+            "kagerou":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2716487",
+                "imageId": "https://img2.gelbooru.com/images/a4/a5/a4a5237bdb48aa1a3d0e1c6eed9763dd.png",
+                "comment": "Image no longer available on Twitter"
+            }],
+            "naganami":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4808154",
+                "imageId": "https://img2.gelbooru.com/images/ac/8c/ac8c2d18bafa631b10e15d92d10868f2.jpg",
+                "comment": "Image no longer available on Twitter"
             }]
         },
         "akitsu maru": {
@@ -248,6 +264,14 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/68398574",
                 "artist": "hikariniji"
+            }]
+        },
+        "fumizuki": {
+            "satsuki":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/56408552",
+                "artist": "ゆう "
             }]
         },
         "fusou": {
@@ -521,6 +545,22 @@
                 "artist": "Aticsanir"
             }]
         },
+        "isonami": {
+            "naganami":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2871823",
+                "imageId": "https://img2.gelbooru.com/images/04/2a/042a90ff99faa8b7f5dcdd82972218e5.jpg",
+                "comment": "Image is part of an album"
+            }],
+            "shikinami":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/66224466",
+                "artist": "Vi@2/09 【神-08】",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4039857"
+            }]
+        },
         "isolated island oni": {
             "harbour princess": [{
                 "isNsfw": 2,
@@ -599,6 +639,28 @@
                 "artist": "ABO"
             }]
         },
+        "kagerou": {
+            "shiranui":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4277122",
+                "imageId": "https://img2.gelbooru.com/images/79/77/797773b52afc9c66359919f475f0e907.png",
+                "comment": "Image is part of an album"
+            }, {
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4380965",
+                "imageId": "https://img2.gelbooru.com/images/95/23/95237133aa96a9d6f2d7b22e60648120.jpg",
+                "comment": "Image is part of an album"
+            }],
+            "yuugumo":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/71717810",
+                "artist": "レニィ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4521880"
+            }]
+        },
         "kasumi": {
             "kiyoshimo":  [{
                 "nsfw": 0,
@@ -614,7 +676,28 @@
                 "artist": "くもえもん"
             }]
         },
+        "kikuzuki": {
+            "mutsuki":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60207398",
+                "artist": "PepaTiku"
+            }],
+            "shikinami":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/73474154",
+                "artist": "ご本人",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4634428"
+            }]
+        },
         "kisaragi": {
+            "mikazuki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82913218",
+                "artist": "水兎"
+            }],
             "mutsuki":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
