@@ -218,6 +218,15 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3983074"
             }]
         },
+        "luckystar_konata izumi": {
+            "vocaloid_miku hatsune":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=345796",
+                "imageId": "https://img2.gelbooru.com/images/bf/fb/bffbaabb42fe911dda324ea7591eab1a.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "madoka_sayaka miki": {
             "yuruyuri_kyouko toshinou":  [{
                 "nsfw": 2,

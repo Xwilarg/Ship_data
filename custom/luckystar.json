@@ -1,0 +1,99 @@
+{
+    "name": "luckystar",
+    "color": "#92faa7",
+    "ships": {
+        "hiyori tamura": {
+            "martin patricia":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=302296",
+                "imageId": "https://img2.gelbooru.com/images/14/c9/14c9db0b25bd6ae0f8e3fae921d0cfc2.jpg",
+                "fallback": "Source no longer available on Pixiv"
+            }]
+        },
+        "kagami hiiragi": {
+            "konata izumi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/73691855",
+                "artist": "虎顎かずや",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4666076"
+            }],
+            "miki hiiragi":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=232351",
+                "imageId": "https://img2.gelbooru.com/images/4c/a9/4ca9a24729668d53862e2609c7475298.jpg"
+            }],
+            "misao kusakage":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=633521",
+                "imageId": "https://img2.gelbooru.com/images/98/28/982819c52f9af17b319fa56cedc4b507.jpeg"
+            }],
+            "tsukasa hiiragi":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=238531",
+                "imageId": "https://img2.gelbooru.com/images/20/35/2035b8d7ae8e1b2a3f7a601484021af0.jpg",
+                "comment": "No source available"
+            }]
+        },
+        "konata izumi": {
+            "miyuki takara":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1869886",
+                "imageId": "https://img2.gelbooru.com/images/74/7f/747f044d76e27d64a3e9896b5c6593aa.png",
+                "fallback": "Source no longer available on Pixiv"
+            }],
+            "soujirou izumi":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3753338",
+                "imageId": "https://img1.gelbooru.com/images/88/bf/88bffd2d2ca2164f46192f5215c743bb.jpeg",
+                "fallback": "No source available"
+            }],
+            "tsubasa hiiragi":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2197463",
+                "imageId": "https://img2.gelbooru.com/images/cf/fc/cffc964b04095210cdb9988c97c636e6.jpg",
+                "fallback": "Source no longer available"
+            }],
+            "yutaka kobayakawa":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=254293",
+                "imageId": "https://img1.gelbooru.com/images/ad/6b/ad6bc9a652e00266e64da6860ec4bcfd.jpg",
+                "fallback": "No source available"
+            }]
+        },
+        "martin patricia": {
+            "miyuki takara":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=341828",
+                "imageId": "https://img2.gelbooru.com/images/3b/68/3b68812387b574e4ee5a79a8d2f32528.jpg",
+                "fallback": "Source no longer available on Pixiv"
+            }]
+        },
+        "minami iwasaki": {
+            "yutaka kobayakawa":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3602087",
+                "imageId": "https://img1.gelbooru.com/images/f2/f4/f2f4fb3d51412828787791e52e59c0ee.jpeg",
+                "fallback": "Source no longer available"
+            }]
+        },
+        "tsukasa hiiragi": {
+            "miyuki takara":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=717814",
+                "imageId": "https://img2.gelbooru.com/images/ab/f6/abf6912b7738991444cf0bc0aa4d2385.jpg"
+            }]
+        }
+    }
+}
