@@ -115,6 +115,15 @@
                 "imageId": "https://w1024.luscious.net/DirtyOldMan/333246/blazblue-lesbians-pic-9_01D242ZVDP4G498DMYWY5QKKPM.1024x0.jpg"
             }]
         },
+        "deadoralive_honoka": {
+            "leagueoflegends_ahri":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4858946",
+                "imageId": "https://img2.gelbooru.com/images/dc/82/dc82a94f0924731acd147297c91ab3fe.jpeg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "fate_jeanne d'arc": {
             "madoka_mami tomoe":  [{
                 "nsfw": 0,
@@ -124,6 +133,13 @@
             }]
         },
         "fate_tamano no mae": {
+            "leagueoflegends_ahri":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/63031646",
+                "artist": "TonyG @__tony_g",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3702531"
+            }],
             "neptunia_neptune":  [{
                 "nsfw": 1,
                 "linkType": "gelbooru",
@@ -216,6 +232,15 @@
                 "link": "https://www.pixiv.net/en/artworks/65985966",
                 "artist": "あんづ綾一",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3983074"
+            }]
+        },
+        "leagueoflegends_ahri": {
+            "overwatch_d.va":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3716474",
+                "imageId": "https://img2.gelbooru.com/images/db/e0/dbe089e88a38eeb386f07727745c7f54.jpeg",
+                "comment": "No source available"
             }]
         },
         "luckystar_konata izumi": {

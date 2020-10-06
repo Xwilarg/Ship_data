@@ -1,0 +1,53 @@
+{
+    "name": "deadoralive",
+    "color": "#eee",
+    "ships": {
+        "ayane": {
+            "kasumi":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4329419",
+                "imageId": "https://img2.gelbooru.com/images/9d/36/9d36efcd644938d8a778df8b310a91eb.png",
+                "comment": "No source available"
+            }],
+            "marie rose":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64433218",
+                "artist": "1coin",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4390080"
+            }],
+            "tina armstrong":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1941877",
+                "imageId": "https://img2.gelbooru.com/images/b7/b3/b7b3abdd96a81d6064534ef0bcc714f0.jpg",
+                "comment": "Image not available on its source"
+            }]
+        },
+        "honoka": {
+            "marie rose":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3986095",
+                "imageId": "https://img2.gelbooru.com/images/1c/68/1c68db6a4af3cd9043a8c18954b75179.jpeg",
+                "comment": "No source available"
+            }]
+        },
+        "lei fang": {
+            "tina armstrong":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1217273",
+                "imageId": "https://img2.gelbooru.com/images/ab/cc/abcc69d83b64cbea6ac0533f6a279063.jpeg",
+                "comment": "No source available"
+            }, {
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=497854",
+                "imageId": "https://img2.gelbooru.com/images/5d/45/5d45fb811cb4a5692937a9af8f408170.jpeg",
+                "comment": "No source available"
+            }]
+        }
+    }
+}

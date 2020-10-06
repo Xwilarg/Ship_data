@@ -1,0 +1,57 @@
+{
+    "name": "leagueoflegends",
+    "color": "#dc143c",
+    "ships": {
+        "ahri": {
+            "leona":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/50563811",
+                "artist": "愚子citemer",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2784400"
+            }],
+            "sona buvelle":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/LeraPI_LP/status/1092047263667507202",
+                "imageId": "Dye5NAwXgAEVLEz",
+                "artist": "LeraPI_LP",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4611822"
+            }],
+            "xayah":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/62309537",
+                "artist": "tofuubear",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3637582"
+            }]
+        },
+        "lulu": {
+            "tristina":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/73928679",
+                "artist": "ringoripple",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5458781"
+            }]
+        },
+        "leona": {
+            "zoe":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4729930",
+                "imageId": "https://img2.gelbooru.com/images/4b/fe/4bfe6705b7f79ad2aa18aa59113ceca1.jpeg",
+                "comment": "No source available"
+            }]
+        },
+        "sona buvelle": {
+            "tristina":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/63941222",
+                "artist": "Mayhem",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3789296"
+            }]
+        }
+    }
+}
