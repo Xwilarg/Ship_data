@@ -18,6 +18,14 @@
                 "artist": "咲凛玖"
             }]
         },
+        "gura gawr": {
+            "ina'nis ninomae":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84977982",
+                "artist": "毒毒＠お仕事募集中"
+            }]
+        },
         "haato akai": {
             "marine houshou":  [{
                 "nsfw": 1,
@@ -45,6 +53,13 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/83389083",
                 "artist": "Neps"
+            }]
+        },
+        "ina'nis ninomae": {
+            "marine houshou":  [{
+                "nsfw": 2,
+                "linkType": "other",
+                "imageId": "https://rule34.xxx//samples/3619/sample_f293fce091840d281f84c0040e0823f4.jpg"
             }]
         },
         "marine houshou": {
