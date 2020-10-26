@@ -1,0 +1,79 @@
+{
+    "name": "pokemon",
+    "color": "#ff69b4",
+    "ships": {
+        "acerola": {
+            "hex maniac":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83700395",
+                "artist": "Mud",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5480163"
+            }],
+            "selene":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60678056",
+                "artist": "更級へき",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3806131"
+            }]
+        },
+        "fairy tale girl": {
+            "hex maniac":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3836355",
+                "imageId": "https://img2.gelbooru.com/images/33/47/3347c8848f18d152563fc645086df8d2.jpg",
+                "comment": "Image not available on it source"
+            }]
+        },
+        "lana": {
+            "mallow":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/61112890",
+                "artist": "ボリス",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3529946"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68852335",
+                "artist": "SAC0900",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4255387"
+            }]
+        },
+        "lilie": {
+            "lusamine":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60202655",
+                "artist": "西公太朗＠健全部部長",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3458061"
+            }],
+            "mallow":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76360478",
+                "artist": "マオッドメン",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4922552"
+            }],
+            "selene":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/mzumBB/status/1319950673933340672",
+                "imageId": "ElFn2yHUYAM3NnS",
+                "artist": "mzumBB",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5629768"
+            }]
+        },
+        "mallow": {
+            "misty":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64976218",
+                "artist": "ふーた",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3881709"
+            }]
+        }
+    }
+}

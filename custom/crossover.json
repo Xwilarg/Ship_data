@@ -132,6 +132,15 @@
                 "imageId": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ef3c01a-c5b3-46d5-9555-79dc184dda82/d7tbrbs-7b549981-5ab5-4fc2-ba8d-1bbaf762e0fc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8yZWYzYzAxYS1jNWIzLTQ2ZDUtOTU1NS03OWRjMTg0ZGRhODIvZDd0YnJicy03YjU0OTk4MS01YWI1LTRmYzItYmE4ZC0xYmJhZjc2MmUwZmMucG5nIn1dXX0.UwvaRPNsCXHsJsBHl9iZcEnVUTygIYO6pxKasFzQzvk"
             }]
         },
+        "fate_minamoto no raikō": {
+            "pokemon_lusamine":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5420021",
+                "imageId": "https://img2.gelbooru.com/images/8d/a9/8da92e70fd6a802e75c6170d77c22ba8.jpeg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "fate_tamano no mae": {
             "leagueoflegends_ahri":  [{
                 "nsfw": 1,

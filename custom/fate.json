@@ -63,6 +63,16 @@
                 "artist": "__o_0___"
             }]
         },
+        "minamoto no raikō": {
+            "shuten dōji":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/titiduki/status/1227930840962719746",
+                "imageId": "EQp8lv6U4AI-Y_u",
+                "artist": "titiduki",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4948900"
+            }]
+        },
         "mordred": {
             "nero claudius":  [{
                 "nsfw": 0,
