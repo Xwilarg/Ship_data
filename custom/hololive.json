@@ -58,8 +58,16 @@
         "ina'nis ninomae": {
             "marine houshou":  [{
                 "nsfw": 2,
-                "linkType": "other",
-                "imageId": "https://rule34.xxx//samples/3619/sample_f293fce091840d281f84c0040e0823f4.jpg"
+                "linkType": "pixiv",
+                "imageId": "https://www.pixiv.net/en/artworks/85237183",
+                "artist": "KouYA"
+            }],
+            "nene momosuzu":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/tsuki_nonono/status/1320663963969880064",
+                "imageId": "ElPwtLQUUAE5Md5",
+                "artist": "tsuki_nonono"
             }]
         },
         "marine houshou": {
