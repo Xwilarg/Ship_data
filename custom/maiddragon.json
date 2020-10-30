@@ -1,0 +1,54 @@
+{
+    "name": "maiddragon",
+    "color": "#e7f569",
+    "ships": {
+        "elma": {
+            "kobayashi":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5581265",
+                "imageId": "https://img2.gelbooru.com/images/e7/c9/e7c95356f077d598a81a2edeb614b1e1.jpeg",
+                "comment": "Image source not available"
+            }],
+            "tooru":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4194868",
+                "imageId": "https://img2.gelbooru.com/images/8a/70/8a702228893a2074a99def26f537a4ec.png",
+                "comment": "Image not available on it source"
+            }]
+        },
+        "kanna kamui": {
+            "kobayashi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/66553920",
+                "artist": "lumineko arts",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4040364"
+            }],
+            "riko saikawa":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4342208",
+                "imageId": "https://img1.gelbooru.com/images/a4/5a/a45aae13e7ced6df2939aa4e4e43a456.png",
+                "comment": "Image source not available"
+            }],
+            "tooru":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3592639",
+                "imageId": "https://img1.gelbooru.com/images/24/05/2405860f5e198d0c80d34ee35f994864.png",
+                "comment": "Image source not available"
+            }]
+        },
+        "kobayashi": {
+            "tooru":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5210939",
+                "imageId": "https://img2.gelbooru.com/images/75/22/75227eb4cd1ae93d29e4fe3d41a2c888.jpeg",
+                "comment": "Image source not available"
+            }]
+        }
+    }
+}

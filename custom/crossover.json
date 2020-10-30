@@ -53,6 +53,15 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5408051"
             }]
         },
+        "azurlane_eldridge": {
+            "maiddragon_kanna kamui":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/PoliSmolly/status/1269048126100422657",
+                "imageId": "EZyQg_zWAAUhWNs",
+                "artist": "PoliSmolly"
+            }]
+        },
         "azurlane_prinz eugen": {
             "kancolle_prinz eugen":  [{
                 "nsfw": 0,

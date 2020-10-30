@@ -75,6 +75,22 @@
                 "artist": "升天"
             }]
         },
+        "eldridge": {
+            "hamakaze":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/66106503",
+                "artist": "うー☆月",
+                "callback": "https://gelbooru.com/index.php?page=post&s=view&id=3994050"
+            }],
+            "laffey":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84989741",
+                "artist": "Re-ViVi",
+                "callback": "https://gelbooru.com/index.php?page=post&s=view&id=5607068"
+            }]
+        },
         "enterprise": {
             "zuikaku":  [{
                 "nsfw": 2,
@@ -124,6 +140,13 @@
             }]
         },
         "javelin": {
+            "laffey":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74598663",
+                "artist": "miya",
+                "callback": "https://gelbooru.com/index.php?page=post&s=view&id=4728520"
+            }],
             "zara":  [{
                 "nsfw": 2,
                 "linkType": "gelbooru",
