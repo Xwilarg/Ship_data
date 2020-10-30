@@ -2,6 +2,15 @@
     "name": "touhou",
     "color": "yellow",
     "ships": {
+        "alice margatroid": {
+            "marisa kirisame":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3730758",
+                "imageId": "https://img2.gelbooru.com/images/fe/70/fe706ccfa9ad455fecf338dc8e8b2848.png",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "aya shameimaru": {
             "cirno":  [{
                 "nsfw": 0,
@@ -186,6 +195,16 @@
                 "comment": "Part of a doujinshi"
             }]
         },
+        "hina kagiyama": {
+            "nitori kawashiro":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/rOKe43944001/status/1185120569370370048",
+                "imageId": "EHJk3_sU4AAGBT7",
+                "artist": "rOKe43944001",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4961089"
+            }]
+        },
         "iku nagae": {
             "suika ibuki":  [{
                 "nsfw": 2,
@@ -297,6 +316,14 @@
                 "artist": "春雨＠紅楼夢F02"
             }]
         },
+        "nitori kawashiro": {
+            "suwako moriya":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/77517386",
+                "artist": "ほうしるり"
+            }]
+        },
         "nazrin": {
             "shou toramaru":  [{
                 "nsfw": 2,
@@ -337,6 +364,13 @@
             }]
         },
         "reimu hakurei": {
+            "rinnosuke morichika":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/59568903",
+                "artist": "ハト水",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3427307"
+            }],
             "nazrin":  [{
                 "nsfw": 0,
                 "linkType": "gelbooru",

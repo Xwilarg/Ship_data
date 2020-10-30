@@ -9,6 +9,12 @@
                 "link": "https://www.pixiv.net/en/artworks/66288342",
                 "artist": "外道男爵"
             }],
+            "kyouko sakura":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57428826",
+                "artist": "Kurisu-kun"
+            }],
             "madoka kaname":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
@@ -24,6 +30,13 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/19994835",
                 "artist": "Dhiea"
+            }],
+            "sayaka miki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76368957",
+                "artist": "Gloamy",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4896205"
             }]
         },
         "gray alina": {

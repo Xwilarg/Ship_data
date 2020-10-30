@@ -18,6 +18,12 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=2958585",
                 "imageId": "https://img2.gelbooru.com/images/d6/54/d654551f0a7a73c254bbc94b2d73a3bf.png",
                 "comment": "Image no longer available on Pixiv"
+            }],
+            "rin kagamine":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64891069",
+                "artist": "Bzsk."
             }]
         },
         "kaito": {
