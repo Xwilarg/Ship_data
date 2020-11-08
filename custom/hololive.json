@@ -2,6 +2,15 @@
     "name": "hololive",
     "color": "#ff4444",
     "ships": {
+        "amelia watson": {
+            "gura gawr":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/85293459",
+                "artist": "GENEK",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5638844"
+            }]
+        },
         "botan shishiro": {
             "tsunomaki watame":  [{
                 "nsfw": 1,
