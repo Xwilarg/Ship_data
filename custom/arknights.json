@@ -2,6 +2,21 @@
     "name": "arknights",
     "color": "pink",
     "ships": {
+        "adnachiel": {
+            "cardigan":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76429916",
+                "artist": "463君",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5225275"
+            }],
+            "steward":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81287884",
+                "artist": "星田べる"
+            }]
+        },
         "amiya": {
             "ansel":  [{
                 "nsfw": 2,
@@ -92,6 +107,11 @@
                 "link": "https://www.pixiv.net/en/artworks/82519662",
                 "artist": "sidoaldo"
             }],
+            "gummy":  [{
+                "nsfw": 2,
+                "linkType": "other",
+                "imageId": "https://baraag.net/system/media_attachments/files/104/761/162/335/494/499/original/06880ca20fb4e95b.jpeg"
+            }],
             "mostima":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
@@ -100,13 +120,6 @@
             }]
         },
         "cardigan": {
-            "adnachiel":  [{
-                "nsfw": 2,
-                "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/76429916",
-                "artist": "463君",
-                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5225275"
-            }],
             "melantha":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
@@ -147,6 +160,14 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/81539340",
                 "artist": "dishwasher1910"
+            }]
+        },
+        "dur-nar": {
+            "gummy":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83519318",
+                "artist": "Nev"
             }]
         },
         "exusiai": {
