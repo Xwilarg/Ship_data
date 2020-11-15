@@ -1,0 +1,71 @@
+{
+    "name": "monstermusume",
+    "color": "#17f105",
+    "ships": {
+        "centarea shianus": {
+            "papi":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3857439",
+                "imageId": "https://img2.gelbooru.com/images/d6/40/d640fe413d06defcd8234eab2dbea7d1.jpg"
+            }],
+            "rachnera arachnera":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5505985",
+                "imageId": "https://img2.gelbooru.com/images/dc/20/dc2093b8936980071c8767c83ede301c.jpeg"
+            }]
+        },
+        "lala": {
+            "miia":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4180639",
+                "imageId": "https://img2.gelbooru.com/images/8c/99/8c992fbcc617048859c24f473b356ea0.png"
+            }]
+        },
+        "miia": {
+            "rachnera arachnera":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5502599",
+                "imageId": "https://img2.gelbooru.com/images/83/aa/83aa9a077e33d5837cb70ba56cf6a98c.png"
+            }],
+            "suu":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/51298602",
+                "artist": "Redamz",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2762400"
+            }]
+        },
+        "papi": {
+            "rachnera arachnera":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2911520",
+                "imageId": "https://img2.gelbooru.com/images/d7/a8/d7a8faab167350489cc9dca330798108.jpg"
+            }],
+            "suu":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57445487",
+                "artist": "aki99",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3225256"
+            }, {
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2857163",
+                "imageId": "https://img2.gelbooru.com/images/16/0f/160fd28ec0c75e890af3f9ae39f0836a.jpg"
+            }]
+        },
+        "polt": {
+            "rachnera arachnera":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2963230",
+                "imageId": "https://img2.gelbooru.com/images/5f/08/5f0880114f8a3b8a709c9509d24b4d13.png"
+            }]
+        }
+    }
+}

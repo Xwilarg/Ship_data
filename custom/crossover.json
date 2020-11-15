@@ -252,7 +252,30 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3983074"
             }]
         },
+        "konosuba_darkness": {
+            "monstermusume_centarea shianus":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5672640",
+                "imageId": "https://img2.gelbooru.com/images/3b/87/3b875f5c92f3b3217d7797fddd4aa517.png",
+                "comment": "No source available"
+            }],
+            "monstermusume_miia":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82963089",
+                "artist": "lindaroze",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5436135"
+            }]
+        },
         "konosuba_megumin": {
+            "monstermusume_miia":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79549782",
+                "artist": "lindaroze",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5139867"
+            }],
             "rezero_rem":  [{
                 "nsfw": 2,
                 "linkType": "gelbooru",
