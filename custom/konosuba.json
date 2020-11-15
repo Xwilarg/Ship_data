@@ -1,0 +1,38 @@
+{
+    "name": "konosuba",
+    "color": "#c500ed",
+    "ships": {
+        "aqua": {
+            "darkness":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4916043",
+                "imageId": "https://img2.gelbooru.com/images/a0/8b/a08b74d0d9256c3f187d7fa083deede4.jpeg",
+                "comment": "Source not available"
+            }],
+            "wiz":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/LackaTask/status/1158185285668286466",
+                "imageId": "EBKzWK3WsAEKeqJ",
+                "artist": "LackaTask",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4998664"
+            }]
+        },
+        "megumin": {
+            "darkness":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72378593",
+                "artist": "LackaTask"
+            }],
+            "yunyun":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/61023542",
+                "artist": "ioemi",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3542022"
+            }]
+        }
+    }
+}

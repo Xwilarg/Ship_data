@@ -252,6 +252,15 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3983074"
             }]
         },
+        "konosuba_megumin": {
+            "rezero_rem":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4148355",
+                "imageId": "https://img2.gelbooru.com/images/a4/97/a497612192d921b844243a54deb0c144.jpg",
+                "comment": "No source available"
+            }]
+        },
         "leagueoflegends_ahri": {
             "overwatch_d.va":  [{
                 "nsfw": 1,
@@ -276,6 +285,15 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/74961365",
                 "artist": "Izuna Kazuki"
+            }]
+        },
+        "maiddragon_kanna kamui": {
+            "rezero_rem":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4046535",
+                "imageId": "https://img2.gelbooru.com/images/59/51/5951cd8ccf749b7f96cd5517a3423f79.jpeg",
+                "comment": "Image no longer available on Pixiv"
             }]
         },
         "touhou_reimu hakurei": {

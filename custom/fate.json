@@ -18,6 +18,47 @@
                 "comment": "Image no longer available on Pixiv"
             }]
         },
+        "astolfo": {
+            "chloe von einzbern":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83936698",
+                "artist": "シカナリ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5502632"
+            }],
+            "jack the ripper":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64139434",
+                "artist": "猫打",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3904001"
+            }]
+        },
+        "chloe von einzbern": {
+            "illyasviel von einzbern":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/70504143",
+                "artist": "くまQM",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4389478"
+            }],
+            "miyu edelfelt":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5672306",
+                "imageId": "https://img1.gelbooru.com/images/fe/33/fe335d632d8661b6dd86408d49f8322d.png",
+                "comment": "Source not available"
+            }]
+        },
+        "jack the ripper": {
+            "scáthach":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/62539664",
+                "artist": "HaneRu",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3657030"
+            }]
+        },
         "ibaraki dōji": {
             "shuten dōji":  [{
                 "nsfw": 2,

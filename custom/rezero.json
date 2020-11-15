@@ -1,0 +1,33 @@
+{
+    "name": "rezero",
+    "color": "#f10c1a",
+    "ships": {
+        "echidna": {
+            "emilia":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4730201",
+                "imageId": "https://img2.gelbooru.com/images/d0/16/d016a4cfdb7402155dd4e9f6c7bce6d1.png",
+                "comment": "Source is part of an album"
+            }]
+        },
+        "emilia": {
+            "rem":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57970576",
+                "artist": "成海優",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3268532"
+            }]
+        },
+        "rem": {
+            "ram":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5430547",
+                "imageId": "https://img2.gelbooru.com/images/6e/4c/6e4c4673341460212982648db3104911.jpg",
+                "comment": "No source available"
+            }]
+        }
+    }
+}
