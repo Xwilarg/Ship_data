@@ -120,6 +120,22 @@
                 "artist": "AnBo"
             }]
         },
+        "blue poison": {
+            "glaucus":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5485320",
+                "imageId": "https://img2.gelbooru.com/images/a5/b9/a5b920e561cadf3dff7118df0d66b22e.png",
+                "comment": "Unknown source"
+            }],
+            "platinum":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83872186",
+                "artist": "进基的少年",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5496612"
+            }]
+        },
         "bison": {
             "croissant":  [{
                 "nsfw": 1,
@@ -315,6 +331,12 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=5477619",
                 "imageId": "https://img2.gelbooru.com/images/1e/ae/1eae322604161f2111d9f15c34273c04.jpg",
                 "comment": "Image is part of an album"
+            }, {
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/DC_Dalgi/status/1325234770993770496",
+                "imageId": "EmQt_A-U0AAcFuN",
+                "artist": "DC_Dalgi"
             }]
         },
         "scadi": {
