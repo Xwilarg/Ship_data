@@ -14,6 +14,11 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/64413788",
                 "artist": "ぽんこつ"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/40519841",
+                "artist": "すろく"
             }],
             "shimakaze":  [{
                 "nsfw": 2,
@@ -391,7 +396,14 @@
                 "link": "https://www.pixiv.net/en/artworks/53568062",
                 "artist": "ＺＡＫＩ",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2935258"
-            }]
+            }],
+            "wakaba":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4470433",
+                "imageId": "https://img2.gelbooru.com/images/c3/a5/c3a516dc837c7dbeaf7178d62706e23a.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }],
         },
         "hatsuzuki": {
             "teruzuki":  [{
