@@ -49,6 +49,12 @@
                 "link": "https://www.pixiv.net/en/artworks/83657930",
                 "artist": "FoxyRain"
             }],
+            "specter":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84977887",
+                "artist": "銀"
+            }],
             "w":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
@@ -76,6 +82,20 @@
                 "link": "https://www.pixiv.net/en/artworks/75664531",
                 "artist": "蓝色呆毛（我好像被放出来了）",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5145009"
+            }]
+        },
+        "asbestos": {
+            "blue poison":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81908083",
+                "artist": "KOIO山猫",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5330558"
+            }],
+            "magallan":  [{
+                "nsfw": 2,
+                "linkType": "other",
+                "imageId": "https://i.nhentai.net/galleries/1767797/10.jpg"
             }]
         },
         "blaze": {
@@ -162,6 +182,21 @@
                 "artist": "dishwasher1910"
             }]
         },
+        "cliffheart": {
+            "pramanix":  [{
+                "nsfw": 2,
+                "linkType": "other",
+                "imageId": "https://rule34.xxx//samples/3725/sample_fcf3ad703acf2b4f122b6e416c0a5135.jpg"
+            }]
+        },
+        "courier": {
+            "silverash":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79942404",
+                "artist": "Timelessness"
+            }]
+        },
         "dur-nar": {
             "gummy":  [{
                 "nsfw": 2,
@@ -184,12 +219,30 @@
                 "artist": "Hemyi"
             }]
         },
+        "grani": {
+            "scadi":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79979566",
+                "artist": "AsicaH",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5173392"
+            }]
+        },
         "indra": {
             "siege":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/79138664",
                 "artist": "雨木"
+            }]
+        },
+        "istina": {
+            "zima":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5276503",
+                "imageId": "https://img2.gelbooru.com/images/3f/c8/3fc8d15f92bbf8ce6344f7cc8169e569.jpg",
+                "comment": "Unknown source"
             }]
         },
         "lappland": {
@@ -209,6 +262,74 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/81512490",
                 "artist": "まく"
+            }]
+        },
+        "magallan": {
+            "scadi":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/are_xu/status/1263870526881071104",
+                "imageId": "EYorb4_UcAYrP3y",
+                "artist": "are_xu"
+            }]
+        },
+        "matterhorn": {
+            "silverash":  [{
+                "nsfw": 2,
+                "linkType": "other",
+                "imageId": "https://i.imgur.com/COK63cJ.jpg"
+            }]
+        },
+        "panthom": {
+            "silverash":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84887140",
+                "artist": "酒天"
+            }]
+        },
+        "pramanix": {
+            "rosa":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/85658585",
+                "artist": "沉船"
+            }],
+            "silverash":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/77005330",
+                "artist": "豸蜗子"
+            }],
+            "specter":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82443895",
+                "artist": "ACAK"
+            }]
+        },
+        "rosa": {
+            "zima":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5477619",
+                "imageId": "https://img2.gelbooru.com/images/1e/ae/1eae322604161f2111d9f15c34273c04.jpg",
+                "comment": "Image is part of an album"
+            }]
+        },
+        "scadi": {
+            "specter":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84588269",
+                "artist": "阿戈魔AGM",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5567150"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76033103",
+                "artist": "蓮心月饼",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5200954"
             }]
         },
         "schwarz": {
