@@ -344,6 +344,15 @@
                 "comment": "No source available"
             }]
         },
+        "littlebusters_kudryavka noumi": {
+            "touhou_suwako moriya":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/36800637",
+                "artist": "綾樫",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1926789"
+            }]
+        },
         "luckystar_konata izumi": {
             "vocaloid_miku hatsune":  [{
                 "nsfw": 1,

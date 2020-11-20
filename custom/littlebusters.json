@@ -1,0 +1,53 @@
+{
+    "name": "littlebusters",
+    "color": "#ffcccc",
+    "ships": {
+        "haruka saigusa": {
+            "kanata futaki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=161779",
+                "imageId": "https://img2.gelbooru.com/images/db/5f/db5f0dce24ffd604bed36d65108fc236.jpg"
+            }],
+            "kudryavka noumi":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/33770659",
+                "artist": "やまるーぷ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1804040"
+            }],
+            "yuiko kurugaya":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/1584617",
+                "artist": "比良泉",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2684199"
+            }]
+        },
+        "midori nishizono": {
+            "mio nishizono":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2182894",
+                "imageId": "https://img2.gelbooru.com/images/2f/6a/2f6ac912d0f7d01bd2905788a3bf93f0.jpg"
+            }]
+        },
+        "mio nishizono": {
+            "yuiko kurugaya":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/43990209",
+                "artist": "明之真尋",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2293791"
+            }]
+        },
+        "kudryavka noumi": {
+            "yuuki himuro":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=838026",
+                "imageId": "https://img1.gelbooru.com/images/9e/8f/9e8fcaf490186e3dfd8c2939fab371d9.png"
+            }]
+        }
+    }
+}
