@@ -354,6 +354,14 @@
                 "comment": "Image no longer available on Pixiv"
             }]
         },
+        "nierautomata_yorha no.2 type b": {
+            "overwatch_ashe":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5184302",
+                "imageId": "https://img2.gelbooru.com/images/c0/70/c070701bfec19dab4b4fcc17d61572ef.jpg"
+            }]
+        },
         "touhou_reimu hakurei": {
             "vocaloid_miku hatsune":  [{
                 "nsfw": 0,

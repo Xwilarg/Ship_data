@@ -1,0 +1,46 @@
+{
+    "name": "nierautomata",
+    "color": "#ddff22",
+    "ships": {
+        "n2": {
+            "yorha no.2 type b":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4229169",
+                "imageId": "https://img2.gelbooru.com/images/29/a1/29a17b1a3513c8bb9192f467246905b6.jpg"
+            }]
+        },
+        "operator 21o": {
+            "yorha no.2 type b":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76957288",
+                "artist": "raeenay",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5066125"
+            }]
+        },
+        "yorha infantry squad commander": {
+            "yorha no.2 type s":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3800009",
+                "imageId": "https://img2.gelbooru.com/images/91/c4/91c4c02e0a79c1a3f220336731ca8f52.png"
+            }]
+        },
+        "yorha no.2 type b": {
+            "yorha no.2 type s":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/buretaro/status/1293174300145410050",
+                "imageId": "EfJGWknUYAEF8fi",
+                "artist": "buretaro"
+            }],
+            "yorha type a no.2":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3930052",
+                "imageId": "https://img2.gelbooru.com/images/c0/92/c0920fd997c3450801716ada1a51a151.jpg"
+            }]
+        }
+    }
+}
