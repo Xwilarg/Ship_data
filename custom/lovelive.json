@@ -1,0 +1,82 @@
+{
+    "name": "lovelive",
+    "color": "#ff1493",
+    "ships": {
+        "dia kurosawa": {
+            "ruby kurosawa":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/65545647",
+                "artist": "ねこばす",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3937843"
+            }]
+        },
+        "eli ayase": {
+            "nozomi toujou":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2994875",
+                "imageId": "https://img2.gelbooru.com/images/50/55/5055a8f5f266b8d03dade5ae0e85aa9e.png",
+                "comment": "Source not available"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/77926481",
+                "artist": "モグ 🍫3日目🍖西あ04a",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5024876"
+            }]
+        },
+        "hanamaru kunikida": {
+            "ruby kurosawa":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68904378",
+                "artist": "たかみん・あぱまん",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4253218"
+            }],
+            "yoshiko tsushima":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4938756",
+                "imageId": "https://img2.gelbooru.com/images/b7/16/b71629230e39747127ae182d5505fc87.jpg",
+                "comment": "Image is part of an album"
+            }]
+        },
+        "honoka kousaka": {
+            "maki nishikino":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3082117",
+                "imageId": "https://img2.gelbooru.com/images/c8/48/c848d637f20df7ef686d4568265009e7.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "maki nishikino": {
+            "nico yazawa":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68049164",
+                "artist": "うめきち",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4172424"
+            }]
+        },
+        "nico yazawa": {
+            "nozomi toujou":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5346800",
+                "imageId": "https://img2.gelbooru.com/images/48/65/48651c1707d15b9a88cfb68e47d7c947.png",
+                "comment": "Source not available"
+            }]
+        },
+        "nozomi toujou": {
+            "ruby kurosawa":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/60754660",
+                "artist": "大和",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4756434"
+            }]
+        }
+    }
+}
