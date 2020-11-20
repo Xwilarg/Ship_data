@@ -1,0 +1,50 @@
+{
+    "name": "granblue",
+    "color": "#ff5555",
+    "ships": {
+        "anthuria": {
+            "djeeta":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/67174137",
+                "artist": "伊月あづま",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4091857"
+            }]
+        },
+        "charlotta fenia": {
+            "djeeta":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/48364229",
+                "artist": "高島こよみ@リクエスト受付中"
+            }]
+        },
+        "danua": {
+            "narmaya":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2987297",
+                "imageId": "https://img2.gelbooru.com/images/84/1c/841cb54f40b1a9b3265db801ee688651.jpg",
+                "comment": "Unknown source"
+            }]
+        },
+        "djeeta": {
+            "narmaya":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81079391",
+                "artist": "かのぱん@FANBOX開始",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5461713"
+            }]
+        },
+        "heles": {
+            "narmaya":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83702536",
+                "artist": "Judo ユフォリア",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5480147"
+            }]
+        }
+    }
+}
