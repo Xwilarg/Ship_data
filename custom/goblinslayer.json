@@ -1,0 +1,22 @@
+{
+    "name": "goblinslayer",
+    "color": "#22ffdd",
+    "ships": {
+        "high elf archer": {
+            "priestess":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72110662",
+                "artist": "Jtleeklm"
+            }]
+        },
+        "priestess": {
+            "sword maiden":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/71914551",
+                "artist": "天凛"
+            }]
+        }
+    }
+}

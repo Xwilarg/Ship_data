@@ -209,6 +209,14 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4669523"
             }]
         },
+        "goblinslayer_sword maiden": {
+            "nierautomata_yorha no.2 type b":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4918944",
+                "imageId": "https://img2.gelbooru.com/images/ec/e0/ece014aab144fd3fc148dc6aef356999.jpeg"
+            }]
+        },
         "gochuumon_cocoa hoto": {
             "newgame_hifumi takimoto":  [{
                 "nsfw": 2,
