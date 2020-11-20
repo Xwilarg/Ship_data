@@ -9,6 +9,12 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=3730758",
                 "imageId": "https://img2.gelbooru.com/images/fe/70/fe706ccfa9ad455fecf338dc8e8b2848.png",
                 "comment": "Image no longer available on Pixiv"
+            }],
+            "patchouli knowledge":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5133770",
+                "imageId": "https://img2.gelbooru.com/images/4d/3d/4d3d475c4db2e93464899c9957c6fd8f.jpg"
             }]
         },
         "aya shameimaru": {
@@ -240,15 +246,6 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5311552"
             }]
         },
-        "koishi komeiji": {
-            "satori komeiji":  [{
-                "nsfw": 2,
-                "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/72647721",
-                "artist": "an-telin",
-                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4568317"
-            }]
-        },
         "kagerou imaizumi": {
             "momiji inubashiri":  [{
                 "nsfw": 2,
@@ -282,6 +279,58 @@
                 "imageId": "Cm_TpYwUcAAhbQN",
                 "artist": "hagane_redoak",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3257894"
+            }]
+        },
+        "koakuma": {
+            "patchouli knowledge":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/55200649",
+                "artist": "雨小雨"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/59024062",
+                "artist": "雨小雨",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3354617"
+            }]
+        },
+        "kogasa tatara": {
+            "sanae kochiya":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4220303",
+                "imageId": "https://img2.gelbooru.com/images/fd/3c/fd3cda201684b8e31a689f7fdf845da6.png"
+            }],
+            "yoshika miyako":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "hhttps://www.pixiv.net/en/artworks/73256616",
+                "artist": "千歳茶　幽時",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4672642"
+            }]
+        },
+        "koishi komeiji": {
+            "satori komeiji":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72647721",
+                "artist": "an-telin",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4568317"
+            }]
+        },
+        "kyouko kasodani": {
+            "nazrin":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3511999",
+                "imageId": "https://img2.gelbooru.com/images/e2/8b/e28bfb2293cb7d6cc5a2ca441b8f944f.jpg"
+            }],
+            "yoshika miyako":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1141469",
+                "imageId": "https://img2.gelbooru.com/images/20/bb/20bb644921b1e662ccd367b1da04baee.jpg"
             }]
         },
         "luna child": {

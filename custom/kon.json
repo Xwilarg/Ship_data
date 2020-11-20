@@ -1,0 +1,75 @@
+{
+    "name": "kon",
+    "color": "#55ee11",
+    "ships": {
+        "azusa nakano": {
+            "mio akiyama":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1632500",
+                "imageId": "https://img2.gelbooru.com/images/c2/95/c29551992f630f40f5d4fb6636ed535c.png"
+            }],
+            "ritsu tainaka":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1632514",
+                "imageId": "https://img2.gelbooru.com/images/f0/2d/f02d367af4f5d8d39bb4ed1b23b0e147.png"
+            }],
+            "tsugumi kotobuki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1142335",
+                "imageId": "https://img2.gelbooru.com/images/da/0e/da0ef03658fd4e8ead84f50976667ce0.jpg"
+            }, {
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=564461",
+                "imageId": "https://img2.gelbooru.com/images/7f/cb/7fcb1eafaff8aae5378c720f48f93c91.jpg"
+            }],
+            "yui hirasawa":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/21543042",
+                "artist": "しあん",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1276197"
+            }]
+        },
+        "ritsu tainaka": {
+            "satoshi tainaka":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/24080993",
+                "artist": "nao",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1382816"
+            }],
+            "tsugumi kotobuki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1294874",
+                "imageId": "https://img2.gelbooru.com/images/fe/12/fe12e7dae95bb0e4184d0ebac9baa987.jpg"
+            }]
+        },
+        "sawako yamanaka": {
+            "tsugumi kotobuki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/41436696",
+                "artist": "稲持",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2465245"
+            }]
+        },
+        "ui hirasawa": {
+            "yui hirasawa":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1109168",
+                "imageId": "https://img2.gelbooru.com/images/e0/3a/e03a7b01539c01bbd45d8ba83fa7d7ee.jpeg"
+            }, {
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=848798",
+                "imageId": "https://img2.gelbooru.com/images/b6/e7/b6e7559890e5423ccdc0e2ffe38a9a2f.jpg"
+            }]
+        }
+    }
+}

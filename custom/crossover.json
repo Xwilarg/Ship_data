@@ -295,6 +295,14 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3983074"
             }]
         },
+        "kon_azusa nakano": {
+            "touhou_patchouli knowledge":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=947460",
+                "imageId": "https://img2.gelbooru.com/images/de/0d/de0d5c1429af688c20f404a56577ae4a.jpg"
+            }]
+        },
         "konosuba_darkness": {
             "monstermusume_centarea shianus":  [{
                 "nsfw": 2,
