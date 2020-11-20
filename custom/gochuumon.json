@@ -41,10 +41,10 @@
                 "artist": "雁が音ゆうま",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3928640"
             }],
-            "moka hoto":  [{
-                "nsfw": 1,
+            "mocha hoto":  [{
+                "nsfw": 2,
                 "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/54599537",
+                "link": "https://www.pixiv.net/en/artworks/65360802",
                 "artist": "osisio"
             }]
         },
