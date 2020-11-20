@@ -171,6 +171,13 @@
             }]
         },
         "kisaragi": {
+            "mutsuki":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/K0NA_KANA/status/915744353548566528",
+                "imageId": "DLVgKH3VwAA0wjH",
+                "artist": "K0NA_KANA"
+            }],
             "vampire":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",

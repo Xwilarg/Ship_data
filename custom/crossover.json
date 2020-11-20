@@ -124,6 +124,14 @@
                 "imageId": "https://w1024.luscious.net/DirtyOldMan/333246/blazblue-lesbians-pic-9_01D242ZVDP4G498DMYWY5QKKPM.1024x0.jpg"
             }]
         },
+        "blazblue_makoto nanaya": {
+            "rwby_yang xiao long":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72521087",
+                "artist": "Charredarousal"
+            }]
+        },
         "deadoralive_honoka": {
             "leagueoflegends_sona buvelle":  [{
                 "nsfw": 1,
@@ -214,6 +222,15 @@
                 "link": "https://www.pixiv.net/en/artworks/53026109",
                 "artist": "茉莉花",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2909250"
+            }]
+        },
+        "haganai_sena kashiwazaki": {
+            "rwby_yang xiao long":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/85206546",
+                "artist": "FI-san",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5629884"
             }]
         },
         "idolmaster_sachiko koshimizu": {

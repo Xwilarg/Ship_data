@@ -1,0 +1,50 @@
+{
+    "name": "rwby",
+    "color": "#ffdd22",
+    "ships": {
+        "blake belladonna": {
+            "yang xiao long":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5452426",
+                "imageId": "https://img2.gelbooru.com/images/43/ba/43ba0507ed66678b8fdbe321ff2656c0.jpeg",
+                "comment": "Unknown source"
+            }]
+        },
+        "emerald sustrai": {
+            "yang xiao long":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4337116",
+                "imageId": "https://img2.gelbooru.com/images/2a/d7/2ad728299b8c78b9d63afd90c3564c5d.png",
+                "comment": "Unknown source"
+            }]
+        },
+        "pyrrha nikos": {
+            "ruby rose":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/SINccubi/status/1137484885864656897",
+                "imageId": "D8koeAvXUAAmo5A",
+                "artist": "SINccubi",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4773445"
+            }]
+        },
+        "ruby rose": {
+            "weiss schnee":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5452055",
+                "imageId": "https://img2.gelbooru.com/images/61/ac/61acced1cddba443532d3eeeab1b87e6.png",
+                "comment": "Unkown source"
+            }],
+            "yang xiao long":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5456323",
+                "imageId": "https://img2.gelbooru.com/images/f9/e1/f9e1cf045dc67b2a21496bb189a67008.png",
+                "comment": "Unkown source"
+            }]
+        }
+    }
+}

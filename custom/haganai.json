@@ -1,0 +1,56 @@
+{
+    "name": "haganai",
+    "color": "#33eeee",
+    "ships": {
+        "kate takayama": {
+            "maria takayama":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/34097817",
+                "artist": "汰尾乃きのこ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1818188"
+            }]
+        },
+        "kobato hasegawa": {
+            "maria takayama":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1570707",
+                "imageId": "https://img1.gelbooru.com/images/a3/27/a327be502914f63bd2a2ded8ecc3b2c2.jpeg",
+                "comment": "Image no longer available on Pixiv"
+            }],
+            "sena kashiwazaki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1286343",
+                "imageId": "https://img1.gelbooru.com/images/ff/28/ff28e8133bfafc6c148756fb906d312e.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "rika shiguma": {
+            "sena kashiwazaki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/35864434",
+                "artist": "Garakuta",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1892660"
+            }],
+            "yukimura kusunoki":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1568651",
+                "imageId": "https://img2.gelbooru.com/images/16/a5/16a5caca7e24f1bdcd608686ecb20144.jpeg",
+                "comment": "No source available"
+            }]
+        },
+        "sena kashiwazaki": {
+            "yozora mikayuki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/54086474",
+                "artist": "hews",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2973164"
+            }]
+        }
+    }
+}
