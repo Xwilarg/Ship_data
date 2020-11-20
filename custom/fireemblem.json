@@ -73,10 +73,11 @@
             }],
             "leo":  [{
                 "nsfw": 0,
-                "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/54753313",
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3341710",
+                "imageId": "https://img2.gelbooru.com/images/b2/bb/b2bbacea5b59c58dde503eea19870c53.png",
                 "artist": "必殺の霊的国防兵器",
-                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3341710"
+                "comment": "Image no longer available on Pixiv"
             }],
             "sakura":  [{
                 "nsfw": 2,
@@ -204,11 +205,11 @@
         "felix hugo fraldarius": {
             "lysithea von ordelia":  [{
                 "nsfw": 0,
-                "linkType": "twitter",
-                "link": "https://twitter.com/marun_steak/status/1260027734832472065",
-                "imageId": "EXyDUV5UwAASVx9",
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5534521",
+                "imageId": "https://img2.gelbooru.com/images/ec/ef/ecef6a351b96b957249e45c1bcd556e2.jpeg",
                 "artist": "marun_steak",
-                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5534521"
+                "comment": "Source no longer available on Twitter"
             }]
         },
         "fjorm": {

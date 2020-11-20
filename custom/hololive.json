@@ -43,14 +43,6 @@
                 "callback": "https://gelbooru.com/index.php?page=post&s=view&id=5636784"
             }]
         },
-        "civia": {
-            "haato akai":  [{
-                "nsfw": 1,
-                "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/80185234",
-                "artist": "咲凛玖"
-            }]
-        },
         "gura gawr": {
             "ina'nis ninomae":  [{
                 "nsfw": 1,

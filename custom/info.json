@@ -1,0 +1,114 @@
+{
+    "arknights": {
+        "adnachiel": [
+            "male"
+        ],
+        "ansel": [
+            "male"
+        ],
+        "bison": [
+            "male"
+        ],
+        "courier": [
+            "male"
+        ],
+        "matterhorn": [
+            "male"
+        ],
+        "phantom": [
+            "male"
+        ],
+        "steward": [
+            "male"
+        ]
+    },
+    "azurlane": {},
+    "blazblue": {},
+    "deadoralive": {},
+    "fate": {
+        "astolfo": [
+            "male"
+        ]
+    },
+    "fireemblem": {
+        "ashe ubert": [
+            "male"
+        ],
+        "chrom": [
+            "male"
+        ],
+        "caspar von bergliez": [
+            "male"
+        ],
+        "claude von riegan": [
+            "male"
+        ],
+        "dimitri alexandre blaiddyd": [
+            "male"
+        ],
+        "felix hugo fraldarius": [
+            "male"
+        ],
+        "leo": [
+            "male"
+        ],
+        "linhardt von hevring": [
+            "male"
+        ],
+        "seteth": [
+            "male"
+        ],
+        "takumi": [
+            "male"
+        ]
+    },
+    "girlsfrontline": {},
+    "granblue": {},
+    "goblinslayer": {},
+    "gochuumon": {},
+    "haganai": {},
+    "hololive": {},
+    "idolmaster": {},
+    "kancolle": {},
+    "kemonofriends": {},
+    "kon": {
+        "satoshi tainaka": [
+            "male"
+        ]
+    },
+    "konosuba": {},
+    "leagueoflegends": {},
+    "littlebusters": {},
+    "lovelive": {},
+    "luckystar": {
+        "sojirou izumi": [
+            "male"
+        ]
+    },
+    "madoka": {},
+    "maiddragon": {},
+    "monstermusume": {},
+    "neptunia": {},
+    "newgame": {},
+    "nogamenolife": {},
+    "nierautomata": {},
+    "overwatch": {},
+    "pokemon": {},
+    "rezero": {},
+    "rwby": {},
+    "senrankagura": {},
+    "touhou": {
+        "rinnosuke morichika": [
+            "male"
+        ]
+    },
+    "vocaloid": {
+        "kaito": [
+            "male"
+        ],
+        "len kagamine": [
+            "male"
+        ]
+    },
+    "yuruyuri": {}
+}
