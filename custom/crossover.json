@@ -379,6 +379,14 @@
                 "comment": "Image no longer available on Pixiv"
             }]
         },
+        "neptunia_nepgear": {
+            "nogamenolife_jibril":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5118683",
+                "imageId": "https://img2.gelbooru.com/images/2a/a9/2aa974c9a8a6ec68cfff81355749319c.png"
+            }]
+        },
         "nierautomata_yorha no.2 type b": {
             "overwatch_ashe":  [{
                 "nsfw": 1,
