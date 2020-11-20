@@ -1,6 +1,6 @@
 {
     "name": "lovelive",
-    "color": "#ff1493",
+    "color": "#3380ab",
     "ships": {
         "dia kurosawa": {
             "ruby kurosawa":  [{
@@ -76,6 +76,15 @@
                 "link": "https://www.pixiv.net/en/artworks/60754660",
                 "artist": "大和",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4756434"
+            }]
+        },
+        "riko sakurauchi": {
+            "yoshiko tsushima":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/ecoman233/status/1286653671384576000",
+                "imageId": "EdscsJeU8AEM7sL",
+                "artist": "ecoman233"
             }]
         }
     }
