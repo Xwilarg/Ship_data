@@ -1,0 +1,27 @@
+{
+    "name": "valkyriachronicles",
+    "ships": {
+        "alicia melchiott": {
+            "edy nelson":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=591371",
+                "imageId": "https://img2.gelbooru.com/images/e7/07/e707a74c6d2fd04addecff39049d5fd6.jpeg"
+            }],
+            "selvaria bles":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=561043",
+                "imageId": "https://img2.gelbooru.com/images/33/67/33675428fc543e4e3a2c26d02b391b2d.png"
+            }]
+        },
+        "riela marcellis": {
+            "selvaria bles":  [{
+                "nsfw": 0,
+                "linkType": "other",
+                "imageId": "https://pbs.twimg.com/media/DprPC2DVsAIT1H9?format=jpg",
+                "comment": "Original Twitter source not available"
+            }]
+        }
+    }
+}

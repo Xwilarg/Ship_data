@@ -222,6 +222,13 @@
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=4145566",
                 "imageId": "https://img2.gelbooru.com/images/74/95/7495d184c543375741b4af3ff051f3e4.jpeg"
+            }],
+            "valkyriachronicles_selvaria bles":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/19059362",
+                "artist": "みやまさ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1173135"
             }]
         },
         "fireemblem_camilla": {
