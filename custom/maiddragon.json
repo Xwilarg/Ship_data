@@ -49,6 +49,32 @@
                 "imageId": "https://img2.gelbooru.com/images/75/22/75227eb4cd1ae93d29e4fe3d41a2c888.jpeg",
                 "comment": "Image source not available"
             }]
+        },
+        "quetzalcoatl": {
+            "shouta magatsuchi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68398594",
+                "artist": "蟹倶楽部",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4311068"
+            }],
+            "tooru":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/kenshinx187/status/1061003854865666049",
+                "imageId": "DrlxRotX0AAO5v9",
+                "artist": "kenshinx187",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4992141"
+            }]
+        },
+        "shouta magatsuchi": {
+            "iruru":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/76759084",
+                "artist": "zorzero",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5011982"
+            }]
         }
     }
 }

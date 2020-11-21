@@ -20,6 +20,27 @@
                 "comment": "Unknown source"
             }]
         },
+        "jaune arc": {
+            "lie ren":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4060455",
+                "imageId": "https://img2.gelbooru.com/images/14/32/1432f60a1ce5180b68a8203c2612f797.png "
+            }],
+            "pyrrha nikos":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4339714",
+                "imageId": "https://img2.gelbooru.com/images/86/5b/865bb96c20f3da7f282b7c3a5700a6c5.png"
+            }],
+            "ruby rose":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/68131211",
+                "artist": "Phinci",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4182605"
+            }]
+        },
         "pyrrha nikos": {
             "ruby rose":  [{
                 "nsfw": 2,

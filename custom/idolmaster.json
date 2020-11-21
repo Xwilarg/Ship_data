@@ -233,6 +233,15 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3013466"
             }]
         },
+        "makio uzuki": {
+            "saki mizushima":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81114012",
+                "artist": "サブロク十八郎",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5264325"
+            }]
+        },
         "makoto kikuchi": {
             "miki hoshii":  [{
                 "nsfw": 0,
@@ -343,7 +352,23 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4764037"
             }]
         },
+        "rei kagura": {
+            "saki mizushima":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2184894",
+                "imageId": "https://img1.gelbooru.com/images/81/8a/818a6321414ce21cdeb1526bc382176b.jpg",
+                "comment": "Image no longer available on Pixiv"
+            }]
+        },
         "rin shibuya": {
+            "saki mizushima":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/42657007",
+                "artist": "ピ口",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2441134"
+            }],
             "uzuki shimamura":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",

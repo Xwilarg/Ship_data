@@ -80,7 +80,16 @@
     },
     "haganai": {},
     "hololive": {},
-    "idolmaster": {},
+    "idolmaster": {
+        "makio uzuki": [
+            "male"
+        ],
+        "rei kagura": [
+            "male"
+        ],
+        "saki mizushima": [
+            "male"
+        ]},
     "kancolle": {},
     "kemonofriends": {},
     "kon": {
@@ -98,16 +107,39 @@
         ]
     },
     "madoka": {},
-    "maiddragon": {},
+    "maiddragon": {
+        "shouta magatsuchi": [
+            "male"
+        ]
+    },
     "monstermusume": {},
     "neptunia": {},
     "newgame": {},
     "nogamenolife": {},
-    "nierautomata": {},
-    "overwatch": {},
-    "pokemon": {},
+    "nierautomata": {
+        "yorha no.2 type s": [
+            "male"
+        ]
+    },
+    "overwatch": {
+        "reaper": [
+            "male"
+        ]
+    },
+    "pokemon": {
+        "allister": [
+            "male"
+        ]
+    },
     "rezero": {},
-    "rwby": {},
+    "rwby": {
+        "jaune arc": [
+            "male"
+        ],
+        "lie ren": [
+            "male"
+        ]
+    },
     "senrankagura": {},
     "touhou": {
         "rinnosuke morichika": [

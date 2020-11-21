@@ -62,6 +62,14 @@
                 "comment": "No source provided"
             }]
         },
+        "reaper": {
+            "sombra":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4897104",
+                "imageId": "https://img2.gelbooru.com/images/d6/75/d675d1d93088803362eb021fbd8ea554.jpg"
+            }]
+        },
         "sombra": {
             "widowmaker":  [{
                 "nsfw": 2,

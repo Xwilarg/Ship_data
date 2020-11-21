@@ -18,6 +18,31 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3806131"
             }]
         },
+        "allister": {
+            "bea":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83110184",
+                "artist": "nanina",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5424619"
+            }],
+            "hex maniac":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/85792270",
+                "artist": "Moisture",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5689044"
+            }]
+        },
+        "bea": {
+            "nessa":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79324140",
+                "artist": "弥猫うた",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5121443"
+            }]
+        },
         "fairy tale girl": {
             "hex maniac":  [{
                 "nsfw": 0,
@@ -73,6 +98,14 @@
                 "link": "https://www.pixiv.net/en/artworks/64976218",
                 "artist": "ふーた",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3881709"
+            }]
+        },
+        "nessa": {
+            "sonia":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5185649",
+                "imageId": "https://img2.gelbooru.com/images/a6/ed/a6ed3b931785ee72632108b874ba9b76.png"
             }]
         }
     }
