@@ -150,6 +150,13 @@
                 "artist": "Charredarousal"
             }]
         },
+        "ddlc_monika": {
+            "fireemblem_lucina":  [{
+                "nsfw": 0,
+                "linkType": "other",
+                "imageId": "https://i.redd.it/wz6a00bw1xr01.jpg"
+            }]
+        },
         "deadoralive_honoka": {
             "leagueoflegends_sona buvelle":  [{
                 "nsfw": 1,

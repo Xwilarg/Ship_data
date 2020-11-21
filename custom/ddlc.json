@@ -1,0 +1,32 @@
+{
+    "name": "ddlc",
+    "ships": {
+        "monika": {
+            "sayori":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=3962213",
+                "imageId": "https://img2.gelbooru.com/images/6a/67/6a679248ab82d0b401c6699a580b60b3.png"
+            }],
+            "yuri":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5184267",
+                "imageId": "https://img2.gelbooru.com/images/67/2e/672eaf67eaedb712babe608ca3fe6dbb.jpeg"
+            }, {
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4199107",
+                "imageId": "https://img2.gelbooru.com/images/c5/a8/c5a833c30036a828ee59a6097627b0ce.png"
+            }]
+        },
+        "natsuki": {
+            "yuri":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4159563",
+                "imageId": "https://img2.gelbooru.com/images/8e/6f/8e6f1a84f1a29a79b2071af1cfa06801.png"
+            }]
+        }
+    }
+}
