@@ -1,0 +1,36 @@
+{
+    "name": "finalfantasy",
+    "ships": {
+        "aerith gainsborough": {
+            "tifa lockhart":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=85163",
+                "imageId": "https://img2.gelbooru.com/images/14/49/1449e2b7a2ec5028756d7df9aded228f.jpg"
+            }]
+        },
+        "oerba dia vanille": {
+            "oerba yun fang":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1280246",
+                "imageId": "https://img2.gelbooru.com/images/6f/bd/6fbd5f1017e488599b477246ba5db0dc.jpeg"
+            }],
+            "tifa lockhart":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/10137458",
+                "artist": "おくら@休止中",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=793042"
+            }]
+        },
+        "scarlet": {
+            "tifa lockhart":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2610184",
+                "imageId": "https://img2.gelbooru.com/images/c7/74/c774cde17b83acaba47fe023189afa16.png"
+            }]
+        }
+    }
+}
