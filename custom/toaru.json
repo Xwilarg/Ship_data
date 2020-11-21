@@ -1,0 +1,47 @@
+{
+    "name": "toaru",
+    "ships": {
+        "kazari uiharu": {
+            "ruiko saten":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/36392806",
+                "artist": "偽善者",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1909648"
+            }]
+        },
+        "kuroko shirai": {
+            "mikoto misaka":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/7639548",
+                "artist": "まんまみーや",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3481823"
+            }]
+        },
+        "mikoto misaka": {
+            "misaki shokuhou":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/35756991",
+                "artist": "電磁砲二期@お仕事募集中",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1881208"
+            }],
+            "ruiko saten":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=816471",
+                "imageId": "https://img2.gelbooru.com/images/e4/87/e4871aa5279fb940edd2f8b93d474abf.jpg"
+            }]
+        },
+        "ruiko saten": {
+            "seivelun frenda":  [{
+                "nsfw": 0,
+                "linkType": "twitter",
+                "link": "https://twitter.com/mizinnkosutinn/status/1323466964644241410",
+                "imageId": "El3mLX_UYAAcFOd",
+                "artist": "mizinnkosutinn"
+            }]
+        }
+    }
+}

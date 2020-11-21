@@ -256,6 +256,22 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2909250"
             }]
         },
+        "guiltycrown_inori yuzuriha": {
+            "toaru_misaki shokuhou":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1956714",
+                "imageId": "https://img2.gelbooru.com/images/7d/bb/7dbb069606ac193aac0491e90080b5d0.png"
+            }]
+        },
+        "guiltycrown_mana ouma": {
+            "madoka_homura akemi":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2916381",
+                "imageId": "https://img2.gelbooru.com/images/2c/fd/2cfd040a7f57249147a2111da65a50b9.jpeg"
+            }]
+        },
         "haganai_sena kashiwazaki": {
             "rwby_yang xiao long":  [{
                 "nsfw": 0,

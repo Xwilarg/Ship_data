@@ -1,0 +1,21 @@
+{
+    "name": "guiltycrown",
+    "ships": {
+        "hare menjou": {
+            "inori yuzuriha":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1370994",
+                "imageId": "https://img2.gelbooru.com/images/1c/88/1c887a3705255576bdbbc02413d9c9ca.jpg"
+            }]
+        },
+        "inori yuzuriha": {
+            "mana ouma":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1442137",
+                "imageId": "https://img2.gelbooru.com/images/6a/46/6a46b8fb4434516aa8b025b00e4a570e.jpg"
+            }]
+        }
+    }
+}
