@@ -141,6 +141,15 @@
                 "comment": "Image no longer available on Pixiv"
             }]
         },
+        "fate_astolfo": {
+            "hackadoll_hacka doll 3":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/62895919",
+                "artist": "草方",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3689327"
+            }]
+        },
         "fate_jeanne d'arc": {
             "madoka_mami tomoe":  [{
                 "nsfw": 0,
@@ -215,6 +224,21 @@
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=4918944",
                 "imageId": "https://img2.gelbooru.com/images/ec/e0/ece014aab144fd3fc148dc6aef356999.jpeg"
+            }]
+        },
+        "gochuumon_chino kafuu": {
+            "hackadoll_hacka doll 3":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83534097",
+                "artist": "Ether-Core",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5464218"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84206796",
+                "artist": "Ether-Core",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5529338"
             }]
         },
         "gochuumon_cocoa hoto": {

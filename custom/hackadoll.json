@@ -1,0 +1,46 @@
+{
+    "name": "hackadoll",
+    "ships": {
+        "hacka doll 0": {
+            "hacka doll 3":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/zakuro_chinoaji/status/1203666648936284162",
+                "imageId": "ELRIbuIUYAIQ065",
+                "artist": "zakuro_chinoaji"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/53976668",
+                "artist": "鰯の頭@お仕事募集中",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3118501"
+            }]
+        },
+        "hacka doll 1": {
+            "hacka doll 3":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/53920667",
+                "artist": "鰯の頭@お仕事募集中",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3718268"
+            }]
+        },
+        "hacka doll 2": {
+            "hacka doll 3":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/80978557",
+                "artist": "ラマンダ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5253733"
+            }]
+        },
+        "hacka doll 3": {
+            "hacka doll 4":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/54908683",
+                "artist": "つまよ☆"
+            }]
+        }
+    }
+}
