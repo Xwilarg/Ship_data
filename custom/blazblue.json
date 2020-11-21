@@ -11,6 +11,20 @@
                 "comment": "Image not available on Pixiv"
             }]
         },
+        "hazama": {
+            "makoto nanaya":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1815376",
+                "imageId": "https://img2.gelbooru.com/images/6b/0f/6b0f015792e5d0b0d5ca35704d97e5e0.jpeg"
+            }],
+            "relius clover":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1410599",
+                "imageId": "https://img2.gelbooru.com/images/66/13/6613bcff1ac1569d1dd7dc31bb7d772d.jpeg"
+            }]
+        },
         "kokonoe mercury": {
             "noel vermillion":  [{
                 "nsfw": 1,
