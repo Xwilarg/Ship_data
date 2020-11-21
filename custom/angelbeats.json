@@ -1,0 +1,39 @@
+{
+    "name": "angelbeats",
+    "ships": {
+        "hinata": {
+            "yui":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/47565100",
+                "artist": "紅雪",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2513839"
+            }]
+        },
+        "tenshi": {
+            "yuri":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=767631",
+                "imageId": "https://img2.gelbooru.com/images/75/b0/75b06ac36a177a219fe596164a410ac9.jpg"
+            }]
+        },
+        "yui": {
+            "yusa":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/11052542",
+                "artist": "成海優",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=813529"
+            }]
+        },
+        "yuri": {
+            "yusa":  [{
+                "nsfw": 0,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=815031",
+                "imageId": "https://img2.gelbooru.com/images/07/fc/07fc957a20931f5d43d619783a7a61e4.jpg"
+            }]
+        }
+    }
+}

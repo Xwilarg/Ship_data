@@ -1,5 +1,23 @@
 {
     "ships": {
+        "angelbeats_tenshi": {
+            "toaru_mikoto misaka":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/19406107",
+                "artist": "電磁砲二期@お仕事募集中",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1185279"
+            }]
+        },
+        "angelbeats_yuri": {
+            "toaru_mikoto misaka":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/19524228",
+                "artist": "電磁砲二期@お仕事募集中",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1189735"
+            }]
+        },
         "arknights_amiya": {
             "girlsfrontline_m1903 springfield":  [{
                 "nsfw": 2,
