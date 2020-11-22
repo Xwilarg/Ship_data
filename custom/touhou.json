@@ -227,6 +227,15 @@
                 "comment": "No source available"
             }]
         },
+        "jo'on yorigami": {
+            "shion yorigami":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/66857553",
+                "artist": "an-telin",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4062319"
+            }]
+        },
         "kaguya houraisan": {
             "reisen udongein inaba":  [{
                 "nsfw": 0,
@@ -365,6 +374,21 @@
                 "artist": "春雨＠紅楼夢F02"
             }]
         },
+        "minamitsu murasa": {
+            "nue houjuu":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=801379",
+                "imageId": "https://img2.gelbooru.com/images/af/47/af475663f613ffc21ab1dd26b22a0eff.jpg",
+                "comment": "Image no longer available on Twitter"
+            }],
+            "shou toramaru":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5028636",
+                "imageId": "https://img2.gelbooru.com/images/91/d9/91d9161f259a7c6092853532c5e96fdd.jpg"
+            }]
+        },
         "nitori kawashiro": {
             "suwako moriya":  [{
                 "nsfw": 1,
@@ -380,21 +404,6 @@
                 "link": "https://www.pixiv.net/en/artworks/76055273",
                 "artist": "AMO",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4857211"
-            }]
-        },
-        "minamitsu murasa": {
-            "nue houjuu":  [{
-                "nsfw": 1,
-                "linkType": "gelbooru",
-                "link": "https://gelbooru.com/index.php?page=post&s=view&id=801379",
-                "imageId": "https://img2.gelbooru.com/images/af/47/af475663f613ffc21ab1dd26b22a0eff.jpg",
-                "comment": "Image no longer available on Twitter"
-            }],
-            "shou toramaru":  [{
-                "nsfw": 1,
-                "linkType": "gelbooru",
-                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5028636",
-                "imageId": "https://img2.gelbooru.com/images/91/d9/91d9161f259a7c6092853532c5e96fdd.jpg"
             }]
         },
         "parsee mizuhashi": {
@@ -481,6 +490,15 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=1056157",
                 "imageId": "https://img2.gelbooru.com/images/2b/0d/2b0d87aa716ee063c7729d48cf38d692.jpg",
                 "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "shion yorigami": {
+            "tenshi hinanawi":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/80145379",
+                "artist": "白も",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5185433"
             }]
         },
         "suika ibuki": {
