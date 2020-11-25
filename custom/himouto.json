@@ -1,0 +1,35 @@
+{
+    "name": "himouto",
+    "ships": {
+        "kirie motoba": {
+            "umaru doma":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/52577665",
+                "artist": "ヒジキ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2852316"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/66030081",
+                "artist": "花澤すおう。"
+            }]
+        },
+        "nana ebina": {
+            "umaru doma":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2834318",
+                "imageId": "https://img2.gelbooru.com/images/02/67/026778c2795249b14c2cafc03a621f71.jpg"
+            }]
+        },
+        "sylphynford tachibana": {
+            "umaru doma":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/51774115",
+                "artist": "KENTllaall"
+            }]
+        }
+    }
+}

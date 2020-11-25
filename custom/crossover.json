@@ -321,6 +321,15 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5629884"
             }]
         },
+        "himouto_umaru doma": {
+            "idolmaster_anzu futaba":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/52090791",
+                "artist": "1919364364810",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2818579"
+            }]
+        },
         "idolmaster_sachiko koshimizu": {
             "touhou_satori komeiji":  [{
                 "nsfw": 2,
