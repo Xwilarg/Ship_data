@@ -1,0 +1,48 @@
+{
+    "name": "monogatari",
+    "ships": {
+        "hitagi senjougahara": {
+            "mayoi hachikuji":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=574221",
+                "imageId": "https://img2.gelbooru.com/images/90/ca/90ca3fc613128dc0cbbb3b07287fbd11.jpg"
+            }]
+        },
+        "karen araragi": {
+            "shinobu oshino":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1486299",
+                "imageId": "https://img2.gelbooru.com/images/a4/39/a439794adca3e2a62414948c999506c2.jpeg"
+            }],
+            "suruga kanbaru":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1937570",
+                "imageId": "https://img2.gelbooru.com/images/a1/91/a191e898e3236f2820dd7decd0c72074.png"
+            }],
+            "tsukihi araragi":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1754119",
+                "imageId": "https://img2.gelbooru.com/images/c9/bd/c9bd3d1e59ddba0d0558069254c14388.png"
+            }]
+        },
+        "mayoi hachikuji": {
+            "nadeko sengoku":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/13608654",
+                "artist": "中島秋彦",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=930119"
+            }],
+            "shinobu oshino":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4793316",
+                "imageId": "https://img1.gelbooru.com/images/98/6f/986fbc52e1af5d461429af75218a0f71.jpeg"
+            }]
+        }
+    }
+}

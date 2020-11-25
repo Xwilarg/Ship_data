@@ -175,6 +175,15 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3689327"
             }]
         },
+        "fate_illyasviel von einzbern": {
+            "monogatari_shinobu oshino":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/72641512",
+                "artist": "dokini",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4567977"
+            }]
+        },
         "fate_jeanne d'arc": {
             "madoka_mami tomoe":  [{
                 "nsfw": 0,
@@ -337,6 +346,14 @@
                 "link": "https://www.pixiv.net/en/artworks/60652031",
                 "artist": "ひきわり納豆",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3495369"
+            }]
+        },
+        "infinitestratos_charlotte dunois": {
+            "madoka_mami tomoe":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1138825",
+                "imageId": "https://img2.gelbooru.com/images/bd/cb/bdcbd516f61678bf90bdd7117ab6c995.jpg"
             }]
         },
         "infinitestratos_shinonono houki": {
