@@ -1,0 +1,44 @@
+{
+    "name": "infinitestratos",
+    "ships": {
+        "cecilia alcott": {
+            "charlotte dunois": [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/24405758",
+                "artist": "朝凪",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1394664"
+            }],
+            "huang lingyin":  [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1110477",
+                "imageId": "https://img2.gelbooru.com/images/13/1c/131ceb87250a6350e66ea5d205d4045f.png"
+            }],
+            "shinonono houki":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/29700883",
+                "artist": "名一",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=1777532"
+            }]
+        },
+        "charlotte dunois": {
+            "laura bodewig": [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/38961648",
+                "artist": "しあん",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=2021621"
+            }]
+        },
+        "laura bodewig": {
+            "orimura chifuyu": [{
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1084996",
+                "imageId": "https://img2.gelbooru.com/images/3e/8d/3e8d40773a998224e36286e7d5c7ad2a.jpg"
+            }]
+        }
+    }
+}
