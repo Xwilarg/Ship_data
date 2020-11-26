@@ -1,0 +1,33 @@
+{
+    "name": "strikewitches",
+    "ships": {
+        "charlotte e yeager": {
+            "francesca lucchini":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79921134",
+                "artist": "ぺんつつき",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5171124"
+            }, {
+                "nsfw": 2,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=1023427",
+                "imageId": "https://img2.gelbooru.com/images/52/ff/52ffac375c580e475d6b099c1f9b5b81.jpg"
+            }],
+            "gertrud barkhorn":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2250937",
+                "imageId": "https://img2.gelbooru.com/images/0b/be/0bbe3a8262658943b239a985b0caf12c.png"
+            }]
+        },
+        "erica hartmann": {
+            "gertrud barkhorn":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2440660",
+                "imageId": "https://img2.gelbooru.com/images/b3/49/b34943dcb18f634ca523c8c4c1c016c4.jpg"
+            }]
+        }
+    }
+}
