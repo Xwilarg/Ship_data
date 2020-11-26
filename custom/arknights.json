@@ -199,6 +199,13 @@
             }]
         },
         "cliffheart": {
+            "courier":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82202143",
+                "artist": "KI",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5525533"
+            }],
             "pramanix":  [{
                 "nsfw": 2,
                 "linkType": "other",
