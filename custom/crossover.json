@@ -249,6 +249,15 @@
                 "artist": "kenshinx187"
             }]
         },
+        "girlsfrontline_hk416": {
+            "rainbow6siege_jäger":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79298078",
+                "artist": "B0x@露露哒！",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5120930"
+            }]
+        },
         "girlsfrontline_m1903 springfield": {
             "kancolle_mutsu":  [{
                 "nsfw": 2,

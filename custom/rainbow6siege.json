@@ -1,0 +1,13 @@
+{
+    "name": "rainbow6siege",
+    "ships": {
+        "bandit": {
+            "jäger":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84675674",
+                "artist": "鬼平方"
+            }]
+        }
+    }
+}
