@@ -43,6 +43,12 @@
                 "imageId": "ESrjbWJUcAAUTRc",
                 "artist": "u_nagidon"
             }],
+            "eyjafjalla":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/85926729",
+                "artist": "Ebusa"
+            }],
             "lappland":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
@@ -228,6 +234,14 @@
                 "artist": "Nev"
             }]
         },
+        "earthspirit": {
+            "eyjafjalla":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82562997",
+                "artist": "直井れつ"
+            }]
+        },
         "exusiai": {
             "texas":  [{
                 "nsfw": 2,
@@ -240,6 +254,13 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/78083043",
                 "artist": "Hemyi"
+            }]
+        },
+        "eyjafjalla": {
+            "ifrit":  [{
+                "nsfw": 2,
+                "linkType": "other",
+                "imageId": "https://i.nhentai.net/galleries/1767795/9.jpg"
             }]
         },
         "grani": {
