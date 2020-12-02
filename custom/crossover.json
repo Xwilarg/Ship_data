@@ -150,6 +150,15 @@
                 "artist": "Charredarousal"
             }]
         },
+        "danmachi_hestia": {
+            "rezero_rem":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79853514",
+                "artist": "ノア",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5174105"
+            }]
+        },
         "ddlc_monika": {
             "fireemblem_lucina":  [{
                 "nsfw": 0,

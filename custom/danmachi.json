@@ -1,0 +1,21 @@
+{
+    "name": "danmachi",
+    "ships": {
+        "hestia": {
+            "loki":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=2682056",
+                "imageId": "https://img2.gelbooru.com/images/12/53/125365187c469e5c01d9d9691af86206.jpg"
+            }]
+        },
+        "loki": {
+            "riveria ljos alf":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=4511159",
+                "imageId": "https://img2.gelbooru.com/images/43/41/4341d31f496e6d4d3a07ffe62d1236a3.png"
+            }]
+        }
+    }
+}
