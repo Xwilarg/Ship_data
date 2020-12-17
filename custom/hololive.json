@@ -43,6 +43,15 @@
                 "callback": "https://gelbooru.com/index.php?page=post&s=view&id=5636784"
             }]
         },
+        "coco kiryu": {
+            "kanata amane":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84690872",
+                "artist": "cray",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5577473"
+            }]
+        },
         "gura gawr": {
             "ina'nis ninomae":  [{
                 "nsfw": 1,
@@ -78,6 +87,21 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/83389083",
                 "artist": "Neps"
+            }]
+        },
+        "hoshinova moona": {
+            "iofifteen airani":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81840256",
+                "artist": "Dame56"
+            }],
+            "pekora usada":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/86146299",
+                "artist": "pompmaker1",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5724162"
             }]
         },
         "ina'nis ninomae": {
