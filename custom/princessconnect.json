@@ -1,6 +1,29 @@
 {
     "name": "princessconnect",
     "ships": {
+        "eustiana von astraea": {
+            "kiruya momochi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82719134",
+                "artist": "miazi"
+            }],
+            "yui kusano":  [{
+                "nsfw": 1,
+                "linkType": "twitter",
+                "link": "https://twitter.com/te2momo/status/1318291065271562242",
+                "imageId": "EkuCelDUUAAoVV3",
+                "artist": "te2momo"
+            }]
+        },
+        "kasumi kihihara": {
+            "makoto aki":  [{
+                "nsfw": 1,
+                "linkType": "gelbooru",
+                "link": "https://gelbooru.com/index.php?page=post&s=view&id=5206618",
+                "imageId": "https://img2.gelbooru.com/images/0e/c3/0ec3a9155335b29fe3109cc75d2f553a.png"
+            }]
+        },
         "kokoro natsume": {
             "kiruya momochi":  [{
                 "nsfw": 1,
@@ -9,12 +32,13 @@
                 "artist": "もち米（Platinum）"
             }]
         },
-        "kiruya momochi": {
-            "eustiana von astraea":  [{
+        "makoto aki": {
+            "yui kusano":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
-                "link": "https://www.pixiv.net/en/artworks/82719134",
-                "artist": "miazi"
+                "link": "https://www.pixiv.net/en/artworks/82100780",
+                "artist": "鳶一の騎士",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5339951"
             }]
         }
     }
