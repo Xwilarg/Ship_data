@@ -467,6 +467,13 @@
                 "artist": "lindaroze",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5139867"
             }],
+            "princessconnect_kokoro natsume":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82926261",
+                "artist": "秋空もみぢ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5407641"
+            }],
             "rezero_rem":  [{
                 "nsfw": 2,
                 "linkType": "gelbooru",
@@ -533,6 +540,14 @@
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=5184302",
                 "imageId": "https://img2.gelbooru.com/images/c0/70/c070701bfec19dab4b4fcc17d61572ef.jpg"
+            }]
+        },
+        "princessconnect_kokoro natsume": {
+            "rezero_emilia":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/75460172",
+                "artist": "電解水"
             }]
         },
         "touhou_reimu hakurei": {

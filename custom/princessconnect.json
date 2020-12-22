@@ -1,0 +1,21 @@
+{
+    "name": "princessconnect",
+    "ships": {
+        "kokoro natsume": {
+            "kiruya momochi":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81793490",
+                "artist": "もち米（Platinum）"
+            }]
+        },
+        "kiruya momochi": {
+            "eustiana von astraea":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/82719134",
+                "artist": "miazi"
+            }]
+        }
+    }
+}
