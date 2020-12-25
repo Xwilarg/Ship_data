@@ -4,6 +4,12 @@
     "ships": {
         "amelia watson": {
             "gura gawr":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/86227089",
+                "artist": "Faicha＠お仕事募集中",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5732446"
+            }, {
                 "nsfw": 0,
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/85293459",
@@ -52,6 +58,23 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5577473"
             }]
         },
+        "flare shiranui": {
+            "marine houshou":  [{
+                "nsfw": 2,
+                "linkType": "twitter",
+                "link": "https://twitter.com/kdwr43/status/1330819922746753024",
+                "imageId": "EngFXT_UUAAFstZ",
+                "artist": "kdwr43",
+                "callback": "https://gelbooru.com/index.php?page=post&s=view&id=5763417"
+            }],
+            "noel shirogane":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/81519450",
+                "artist": "となりける",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5291630"
+            }]
+        },
         "gura gawr": {
             "ina'nis ninomae":  [{
                 "nsfw": 1,
@@ -87,6 +110,12 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/83389083",
                 "artist": "Neps"
+            }],
+            "subaru oozora":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/85276432",
+                "artist": "雛乃ひよこ"
             }]
         },
         "hoshinova moona": {
@@ -138,6 +167,12 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/81906703",
                 "artist": "Ruipi"
+            }],
+            "uruha rushia":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83749295",
+                "artist": "U_GeAR"
             }]
         },
         "matsuri natsuiro": {
