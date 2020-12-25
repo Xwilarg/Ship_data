@@ -17,6 +17,26 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5638844"
             }]
         },
+        "aqua minato": {
+            "marine houshou":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/83240005",
+                "artist": "Yon Senpai"
+            }],
+            "okayu nekomata":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84672972",
+                "artist": "いちみ",
+                "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=5575499"
+            }, {
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/86195442",
+                "artist": "きなこもち"
+            }]
+        },
         "botan shishiro": {
             "tsunomaki watame":  [{
                 "nsfw": 1,
@@ -146,6 +166,14 @@
                 "link": "https://twitter.com/tsuki_nonono/status/1320663963969880064",
                 "imageId": "ElPwtLQUUAE5Md5",
                 "artist": "tsuki_nonono"
+            }]
+        },
+        "korone inugami": {
+            "okayu nekomata":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/79257459",
+                "artist": "駒野・C・ローサ/skeb募集"
             }]
         },
         "marine houshou": {
