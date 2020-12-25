@@ -15,6 +15,12 @@
                 "linkType": "gelbooru",
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=5133770",
                 "imageId": "https://img2.gelbooru.com/images/4d/3d/4d3d475c4db2e93464899c9957c6fd8f.jpg"
+            }],
+            "sakuya izayoi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/34069926",
+                "artist": "戦友"
             }]
         },
         "aya shameimaru": {
@@ -99,6 +105,12 @@
                 "link": "https://www.pixiv.net/en/artworks/84403883",
                 "artist": "こはるこ"
             }],
+            "eternity larva":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/65688866",
+                "artist": "an-telin"
+            }],
             "flandre scarlet":  [{
                 "nsfw": 2,
                 "linkType": "pixiv",
@@ -167,6 +179,12 @@
             }]
         },
         "flandre scarlet": {
+            "koishi komeiji":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/84253766",
+                "artist": "fujiko"
+            }],
             "remilia scarlet":  [{
                 "nsfw": 1,
                 "linkType": "pixiv",
@@ -201,6 +219,19 @@
                 "comment": "Part of a doujinshi"
             }]
         },
+        "hatano kokoro": {
+            "koishi komeiji":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57877250",
+                "artist": "秋"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/57862534",
+                "artist": "秋"
+            }]
+        },
         "hina kagiyama": {
             "nitori kawashiro":  [{
                 "nsfw": 1,
@@ -209,6 +240,20 @@
                 "imageId": "EHJk3_sU4AAGBT7",
                 "artist": "rOKe43944001",
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=4961089"
+            }]
+        },
+        "hong meiling": {
+            "flandre scarlet":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/40294907",
+                "artist": "もねてぃ"
+            }],
+            "sakuya izayoi":  [{
+                "nsfw": 0,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/8092063",
+                "artist": "純"
             }]
         },
         "iku nagae": {
@@ -290,6 +335,19 @@
                 "fallback": "https://gelbooru.com/index.php?page=post&s=view&id=3257894"
             }]
         },
+        "karen ibaraki": {
+            "seiga kaku":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/59017465",
+                "artist": "ぼるしち＠新刊予約受付中"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/64438567",
+                "artist": "ぼるしち＠新刊予約受付中"
+            }]
+        },
         "koakuma": {
             "patchouli knowledge":  [{
                 "nsfw": 2,
@@ -305,6 +363,17 @@
             }]
         },
         "kogasa tatara": {
+            "nue houjuu":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/39211287",
+                "artist": "CKLN"
+            }, {
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/62942787",
+                "artist": "タダシ（旧sinzan）"
+            }],
             "sanae kochiya":  [{
                 "nsfw": 2,
                 "linkType": "gelbooru",
@@ -372,6 +441,12 @@
                 "linkType": "pixiv",
                 "link": "https://www.pixiv.net/en/artworks/68904328",
                 "artist": "春雨＠紅楼夢F02"
+            }],
+            "sakuya izayoi":  [{
+                "nsfw": 2,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/37611049",
+                "artist": "ke-ta"
             }]
         },
         "minamitsu murasa": {
@@ -490,6 +565,14 @@
                 "link": "https://gelbooru.com/index.php?page=post&s=view&id=1056157",
                 "imageId": "https://img2.gelbooru.com/images/2b/0d/2b0d87aa716ee063c7729d48cf38d692.jpg",
                 "comment": "Image no longer available on Pixiv"
+            }]
+        },
+        "seiga kaku": {
+            "yoshika miyako":  [{
+                "nsfw": 1,
+                "linkType": "pixiv",
+                "link": "https://www.pixiv.net/en/artworks/74717606",
+                "artist": "ろけ"
             }]
         },
         "shion yorigami": {
